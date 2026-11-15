@@ -6,13 +6,12 @@ Bastard Bonds（Steam，作者 Bigfingers）的非官方简体中文补丁。本
 
 ## 作者授权
 
-**状态：等待中。**
+**状态：已获作者授权，可以公开。**
 
-已准备联系作者 Bigfingers，请求允许公开这个汉化补丁。在作者回复之前：
+作者 Bigfingers 已允许公开这个汉化补丁。
 
 - 本仓库不提供游戏可执行文件、原版资源或存档。
 - 请只给自己拥有的游戏打补丁，不要把打过补丁的游戏目录再发出去。
-- 若作者拒绝或要求下架，以作者的要求为准。
 
 ## 补丁怎么工作
 
@@ -86,4 +85,4 @@ python build_font.py charset.txt 输出的 sharedassets0.assets
 
 `fonts/fp12/` 和 `fonts/fp10/` 中的 Fusion Pixel 字体使用 SIL Open Font License 1.1。12px 用于游戏界面，10px 用于 F1 说明图。许可正文在各自目录的 `OFL.txt`。字体不能单独拿去卖，衍生字体也要继续用 OFL。
 
-补丁代码和译文的许可证，等作者授权有结果后再定。玩家包里的 `xdelta3.exe` 是 [Xdelta](https://github.com/jmacd/xdelta) 3.2.2，Apache License 2.0，只用来把字体差异打进玩家自己的资源文件。
+补丁代码和译文随本仓库公开。玩家包里的 `xdelta3.exe` 是 [Xdelta](https://github.com/jmacd/xdelta) 3.2.2，Apache License 2.0，只用来把字体差异打进玩家自己的资源文件。

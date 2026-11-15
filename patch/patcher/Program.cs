@@ -98,7 +98,9 @@ intToWords.Body.ExceptionHandlers.Clear();
 intToWords.Body.Variables.Clear();
 var toString = module.ImportReference(new MethodReference("ToString", module.TypeSystem.String, module.TypeSystem.Int32) { HasThis = true });
 var words = intToWords.Body.GetILProcessor();
-words.Emit(OpCodes.Ldarg_0);
+// Int32.ToString is an instance method, so the number has to be passed by address.
+// ldarg.0 pushes the value and the call faults, which aborts the door prompt.
+words.Emit(OpCodes.Ldarga, intToWords.Parameters[0]);
 words.Emit(OpCodes.Call, toString);
 words.Emit(OpCodes.Ret);
 Console.WriteLine("rewrote Gmath.IntToWords");

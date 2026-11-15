@@ -63,7 +63,7 @@ Murder 谋杀；Thievery 盗窃；Heresy 异端；Apostasy 叛教；Extortion �
 法庭用语：the court 法庭；plea 申辩；guilty 有罪；innocent 无罪（作阵营名时是“无辜”）；Alleged {0} → “涉嫌{0}”；Convicted of {0} → “因{0}定罪”。
 
 ### 物品栏位 (itemSlot)
-Accessory 饰品；Armour 护甲；Artifact 神器；Food 食物；Potion 药剂；Supplies 补给；Weapon 武器；Junk 杂物。grimoire 魔典；stave/staff 法杖；rod 法杖（Rod 类物品名用“杖”）；gem 宝石。
+Accessory 饰品；Armour 护甲；Artifact 奇物；Food 食物；Potion 药剂；Supplies 补给；Weapon 武器；Junk 杂物。grimoire 魔典；stave/staff 法杖；rod 法杖（Rod 类物品名用“杖”）；gem 宝石。
 
 ### 据点与角色
 stronghold 据点；band 团伙（玩家的队伍。Band of {0} → “{0}的团伙”）；party 队伍；party member 队员；leader 首领；merchant 商人；trader 商贩；healer 治疗师；porter 脚夫；locksmith 锁匠；keysmith 制钥匠；quartermaster 军需官；blacksmith 铁匠；forgemaster 锻造大师；appraiser 估价师；arbiter 仲裁人；courier 信使；barkeep 酒保；the stocks（岛上关押罪犯的设施）枷场。
