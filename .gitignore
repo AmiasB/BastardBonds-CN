@@ -1,0 +1,53 @@
+# Game body and decompiled game code
+backup/
+decomp/
+decomp_fp/
+*.assets
+
+# Built binaries. The patcher is run on the player's own Assembly-CSharp.dll.
+*.dll
+*.exe
+*.pdb
+
+# Tool and script build output
+**/bin/
+**/obj/
+__pycache__/
+*.pyc
+
+# Full dumps of the game's text. The English keys that ship live in build/BB_CN.
+extract/
+
+# Previews rendered from the original font atlas
+font_orig.png
+font_orig_x3.png
+font_preview.png
+font_zoom.png
+
+# Built player package and its tools
+package/_tools/
+package/_test_game/
+package/BastardBonds_CN/
+package/*.zip
+
+fonts/fp12.zip
+fonts/PIXELDUNGEONXBOX.ttf
+
+# One-off scripts from building the patch. They read the local game or the decompile.
+font0.py
+font0b.py
+survey.py
+survey_fonts.py
+survey_maps.py
+textmesh_fonts.py
+build_all.py
+build_phase1.py
+build_phase2.py
+charset_extra.txt
+tools/
+patch/find.cs
+patch/_check.py
+patch/_find.csx
+translation/_*.py
+translation/split_p2.py
+translation/test.tsv

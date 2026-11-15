@@ -1,0 +1,167 @@
+{"id": "P2_00543", "en": "Is that the end already? I had hoped to be of some use.", "cat": "dialogue", "ctx": "Beauregard.bbd civilDismiss"}
+{"id": "P2_00544", "en": "Ort! How goes the campaign?", "cat": "dialogue", "ctx": "Beauregard.bbd civilIntro"}
+{"id": "P2_00545", "en": "I shall redouble my efforts. If there is anything I can do for you, please do not leave it unsaid.", "cat": "dialogue", "ctx": "Beauregard.bbd civilNo"}
+{"id": "P2_00546", "en": "Then I shall go and see for myself what has become of my ruined homeland. Farewell.", "cat": "dialogue", "ctx": "Beauregard.bbd civilYes"}
+{"id": "P2_00547", "en": "Ora noct! You win.", "cat": "dialogue", "ctx": "Beauregard.bbd hostileIntro"}
+{"id": "P2_00548", "en": "It's all I have left!", "cat": "dialogue", "ctx": "Beauregard.bbd hostileRansomFailure"}
+{"id": "P2_00549", "en": "Orid katch.", "cat": "dialogue", "ctx": "Beauregard.bbd hostileRansomSuccess"}
+{"id": "P2_00550", "en": "Think you that I am a dog, to come at your command?", "cat": "dialogue", "ctx": "Beauregard.bbd hostileRecruitFailure"}
+{"id": "P2_00551", "en": "You had only to ask in the first place! Pray that misunderstandings like this be not common between us.", "cat": "dialogue", "ctx": "Beauregard.bbd hostileRecruitSuccess"}
+{"id": "P2_00552", "en": "Hmph. Fine.", "cat": "dialogue", "ctx": "Beauregard.bbd hostileRelease"}
+{"id": "P2_00553", "en": "Very well. I shall follow where you lead.", "cat": "dialogue", "ctx": "Beauregard.bbd neutralAccept"}
+{"id": "P2_00554", "en": "I am a... remnant, a relic. My time was long ago, and yet here I stand. How long has it been? A hundred years? A thousand? Men such as I were not meant to step so through time.", "cat": "dialogue", "ctx": "Beauregard.bbd neutralChat"}
+{"id": "P2_00555", "en": "What am I to do now?", "cat": "dialogue", "ctx": "Beauregard.bbd neutralIntro"}
+{"id": "P2_00556", "en": "You would have me? I may know nothing of the current state of the world, but my arm is still strong.", "cat": "dialogue", "ctx": "Beauregard.bbd neutralRecruit"}
+{"id": "P2_00557", "en": "I am a captain of a long-dead army. What place is there for me in this world?", "cat": "dialogue", "ctx": "Beauregard.bbd neutralRefuse"}
+{"id": "P2_00558", "en": "If I may have a word?\n\nIt is strange for me to work in such an unstructured group. \n\nEveryone manages to hold it together and look out for one another, but my rank means little. \n\nDon't think I'm complaining, of course! \n\nIt's difficult to describe exactly how I feel, but my whole world has been turned upside down, so it almost feels proper, like just one more thing to have been left behind.\n\n|I've been thinking about what I would have done, if I had been released from that curse before you arrived, if I woke up in that place alone. \n\nI am no stranger to confusion now, of course, but I can only imagine how much worse it would have been. I might very well have fallen upon my own blade in desperation. I still think about doing it sometimes, but then seeing everything you've built stops me. \n\nYou've given an old relic some direction, and a glimpse of clarity in a world that isn't meant for me. \n\nFor that, I thank you. \n\n|This is something the Queen gave to me long ago. \n\nIt isn't really worth anything, and it isn't even gold. No more than a trinket, I suppose, but it was a symbol of my duty to her. \n\nNow that that duty has been fulfilled, I have no need of it, and I offer it to you instead, as a token of my loyalty. \n\nWhere you lead, Beauregard will follow. This, I promise.", "cat": "dialogue", "ctx": "Beauregard.bbd trustCampfire"}
+{"id": "P2_00559", "en": "Some of the others have taken to calling me \"Captain\". At first, I thought they were mocking me, but I have begun to feel comforted by it. It is familiar, and familiarity is a rare treat for me. In any case, was there something you needed, or did you just come to hear me complain?", "cat": "dialogue", "ctx": "Beauregard.bbd trustChat"}
+{"id": "P2_00560", "en": "You have no further need of me? I am saddened to hear it.", "cat": "dialogue", "ctx": "Beauregard.bbd trustDismiss"}
+{"id": "P2_00561", "en": "Ort, friend! How can I serve you?", "cat": "dialogue", "ctx": "Beauregard.bbd trustIntro"}
+{"id": "P2_00562", "en": "It is cruel of you to toy with me like this. Either you need me or you do not. Best decide for certain.", "cat": "dialogue", "ctx": "Beauregard.bbd trustNo"}
+{"id": "P2_00563", "en": "I am not sure what to do, but... I won't argue with you. Just let me gather some supplies and I'll be gone.", "cat": "dialogue", "ctx": "Beauregard.bbd trustYes"}
+{"id": "P2_00564", "en": "If you want me to improve your weapons, bring me two pieces. I'll combine the best bits of both to make something even better. Identical pieces usually work best, but sometimes I can make different ones work. Try it and see, I guess!", "cat": "dialogue", "ctx": "Blacksmith.bbd neutralChat"}
+{"id": "P2_00565", "en": "Something I can do for you?", "cat": "dialogue", "ctx": "Blacksmith.bbd neutralIntro"}
+{"id": "P2_00566", "en": "Back to work then. Take care.", "cat": "dialogue", "ctx": "Blacksmith.bbd neutralRefuse"}
+{"id": "P2_00567", "en": "Gimme a break.", "cat": "dialogue", "ctx": "Borfalgor.bbd banterEasyfight1"}
+{"id": "P2_00568", "en": "Come on, really?", "cat": "dialogue", "ctx": "Borfalgor.bbd banterEasyfight2"}
+{"id": "P2_00569", "en": "Over there.", "cat": "dialogue", "ctx": "Borfalgor.bbd banterEvent1"}
+{"id": "P2_00570", "en": "What's that?", "cat": "dialogue", "ctx": "Borfalgor.bbd banterEvent2"}
+{"id": "P2_00571", "en": "Well, shit.", "cat": "dialogue", "ctx": "Borfalgor.bbd banterFrienddies1"}
+{"id": "P2_00572", "en": "That's not good.", "cat": "dialogue", "ctx": "Borfalgor.bbd banterFrienddies2"}
+{"id": "P2_00573", "en": "Did you hear that?", "cat": "dialogue", "ctx": "Borfalgor.bbd banterGeneral1"}
+{"id": "P2_00574", "en": "Nothing, sorry.", "cat": "dialogue", "ctx": "Borfalgor.bbd banterGeneral2"}
+{"id": "P2_00575", "en": "Ah shit. Here it comes, everyone.", "cat": "dialogue", "ctx": "Borfalgor.bbd banterHardfight1"}
+{"id": "P2_00576", "en": "Been nice knowin' ya.", "cat": "dialogue", "ctx": "Borfalgor.bbd banterHardfight2"}
+{"id": "P2_00577", "en": "Just put your back into it.", "cat": "dialogue", "ctx": "Borfalgor.bbd banterHardfriend1"}
+{"id": "P2_00578", "en": "Are we lookin' at the same guys? We can do this.", "cat": "dialogue", "ctx": "Borfalgor.bbd banterHardfriend2"}
+{"id": "P2_00579", "en": "Shut up, you're throwing me off!", "cat": "dialogue", "ctx": "Borfalgor.bbd banterHardrival1"}
+{"id": "P2_00580", "en": "If that's how you feel, why don't you just run?", "cat": "dialogue", "ctx": "Borfalgor.bbd banterHardrival2"}
+{"id": "P2_00581", "en": "Whoops.", "cat": "dialogue", "ctx": "Borfalgor.bbd banterRivaldies1"}
+{"id": "P2_00582", "en": "Oh. That's ugly.", "cat": "dialogue", "ctx": "Borfalgor.bbd banterRivaldies2"}
+{"id": "P2_00583", "en": "I thought people were going to give me a hard time for being a goblin and all, but it hasn't been an issue. I guess nobody here is in much of a position to be picky about their bedfellows.", "cat": "dialogue", "ctx": "Borfalgor.bbd civilChat"}
+{"id": "P2_00584", "en": "That's it then? My debt's repaid?", "cat": "dialogue", "ctx": "Borfalgor.bbd civilDismiss"}
+{"id": "P2_00585", "en": "Hello. Everything going well?", "cat": "dialogue", "ctx": "Borfalgor.bbd civilIntro"}
+{"id": "P2_00586", "en": "Well, if you say so.", "cat": "dialogue", "ctx": "Borfalgor.bbd civilNo"}
+{"id": "P2_00587", "en": "Well, thanks for the grub and stuff, and good luck with whatever it is you decide to do. I'm out.", "cat": "dialogue", "ctx": "Borfalgor.bbd civilYes"}
+{"id": "P2_00588", "en": "You sadistic fuck.", "cat": "dialogue", "ctx": "Borfalgor.bbd hostileIntro"}
+{"id": "P2_00589", "en": "Why would you give it back to me just to beat me up and take it again? Just kill me!", "cat": "dialogue", "ctx": "Borfalgor.bbd hostileRansomFailure"}
+{"id": "P2_00590", "en": "Save me and then doom me to die anyway? At least I won't remember this.", "cat": "dialogue", "ctx": "Borfalgor.bbd hostileRansomSuccess"}
+{"id": "P2_00591", "en": "What, you want to make me your pet? Bite me!", "cat": "dialogue", "ctx": "Borfalgor.bbd hostileRecruitFailure"}
+{"id": "P2_00592", "en": "I am too weak to resist.", "cat": "dialogue", "ctx": "Borfalgor.bbd hostileRecruitSuccess"}
+{"id": "P2_00593", "en": "Screw you.", "cat": "dialogue", "ctx": "Borfalgor.bbd hostileRelease"}
+{"id": "P2_00594", "en": "Alright, well, I think I can walk now. Let's go.", "cat": "dialogue", "ctx": "Borfalgor.bbd neutralAccept"}
+{"id": "P2_00595", "en": "I really should have been more careful in there. I'm glad you had better luck than I did. I don't even want to know what it was that grabbed me, I'm just happy to have made it out alive.", "cat": "dialogue", "ctx": "Borfalgor.bbd neutralChat"}
+{"id": "P2_00596", "en": "I will rest here for a while until my strength has returned in full. Don't let me get in your way.", "cat": "dialogue", "ctx": "Borfalgor.bbd neutralIntro"}
+{"id": "P2_00597", "en": "You want me to come along? I... well I don't see why not, I suppose. I do owe you, after all.", "cat": "dialogue", "ctx": "Borfalgor.bbd neutralRecruit"}
+{"id": "P2_00598", "en": "Well it's good of you not to keep me on the hook. Thank you again.", "cat": "dialogue", "ctx": "Borfalgor.bbd neutralRefuse"}
+{"id": "P2_00599", "en": "Hey boss. Sorry to bug you.\"\n\nBorfalgor sits down in front of the fire, and thumbs the amulet around his neck idly.\n\n\"I was talking to some of the others. \n\nEveryone has their secrets, right? Them marks you all got on your necks, I mean. \n\nI can't read 'em, but I heard someone say they mean something. Labels for things you did, or things someone says you did, right?\n\nGoblins, they don't do anything so complicated. If someone does something bad, they bash his skull in with a rock and be done with it.\n\n|I say \"they\" instead of \"we\", you might've noticed. \n\nI don't have a lot in common with goblins anymore, and I haven't for a long time. I did once, to be sure, but then this amulet here changed everything.\n\nYou remember how when you found me, I couldn't remember why I was at that temple? Well, it was like that when I first ended up with this thing too. \n\nThe amulet makes me smart, see, and when I'm smart, stupid thoughts don't make sense anymore. It's like trying to read scratches when you aren't even sure if they're words at all. \n\n|What I'm saying is that I don't remember how I got this thing.\n\nGoblins can work some basic magic, sure, but nothing as complicated as a magic amulet, and even if they could, I ain't a mage and goblins don't share. It's probably more likely that someone gave it to me, or that I found it, or stole it. \n\nProbably that last one. \n\nI'm just spinning a tale with this of course, but I imagine that I probably brained some poor old hermit and took his shiny necklace.\n\n|Whatever happened, putting this thing on made it impossible for me to live with goblins anymore. \n\nI could barely speak to them, much less relate to them. \n\nSince then, there's been no place for me to fit, no place to feel that I belong.\n\nI'm not saying that I belong here necessarily, but I think at least everybody else here also feels like they don't belong, and that's something, ain't it?\n\n|So there it is, anyway. My big secret, or as close to one as I got. \n\nMaybe I still owe you for the rescue back then, or maybe I don't. I'll leave that up to you, but I'm along for me now, not for you. Let's see where this goes, hmm?\"\n\nBorfalgor stands up, his stature surprisingly dignified for such a small creature, and he turns toward you.\n\n\"I put something in your chest. Just a little thing I found. I was going to keep it for myself, but... I would rather you have it. As my way of saying thanks.", "cat": "dialogue", "ctx": "Borfalgor.bbd trustCampfire"}
+{"id": "P2_00600", "en": "People have been asking me to do things lately, coming to me and asking me to help them with chores, assigning me fire watches, bringing me on hunting parties. I think it means that they trust me, that they're expecting me to do my part like everybody else. It's a good feeling.", "cat": "dialogue", "ctx": "Borfalgor.bbd trustChat"}
+{"id": "P2_00601", "en": "So that's it, huh? I ain't in a hurry to leave, but if you're done with me, I'll go.", "cat": "dialogue", "ctx": "Borfalgor.bbd trustDismiss"}
+{"id": "P2_00602", "en": "There you are. Did you need anything?", "cat": "dialogue", "ctx": "Borfalgor.bbd trustIntro"}
+{"id": "P2_00603", "en": "Sure thing. Don't be in a hurry though, okay? I'm in no rush to leave.", "cat": "dialogue", "ctx": "Borfalgor.bbd trustNo"}
+{"id": "P2_00604", "en": "Then I'll go. Thank you for everything, and thanks for giving me the chance to repay you.", "cat": "dialogue", "ctx": "Borfalgor.bbd trustYes"}
+{"id": "P2_00605", "en": "God is my shield!", "cat": "dialogue", "ctx": "Borgnina.bbd banterEasyfight1"}
+{"id": "P2_00606", "en": "Put the heathens to rout!", "cat": "dialogue", "ctx": "Borgnina.bbd banterEasyfight2"}
+{"id": "P2_00607", "en": "There. See that?", "cat": "dialogue", "ctx": "Borgnina.bbd banterEvent1"}
+{"id": "P2_00608", "en": "Look.", "cat": "dialogue", "ctx": "Borgnina.bbd banterEvent2"}
+{"id": "P2_00609", "en": "God, guide the fallen.", "cat": "dialogue", "ctx": "Borgnina.bbd banterFrienddies1"}
+{"id": "P2_00610", "en": "Meet holy vengeance, cur!", "cat": "dialogue", "ctx": "Borgnina.bbd banterFrienddies2"}
+{"id": "P2_00611", "en": "Stand ready.", "cat": "dialogue", "ctx": "Borgnina.bbd banterGeneral1"}
+{"id": "P2_00612", "en": "Nothing here.", "cat": "dialogue", "ctx": "Borgnina.bbd banterGeneral2"}
+{"id": "P2_00613", "en": "If I should die, God take me!", "cat": "dialogue", "ctx": "Borgnina.bbd banterHardfight1"}
+{"id": "P2_00614", "en": "Live or die, God is with us!", "cat": "dialogue", "ctx": "Borgnina.bbd banterHardfight2"}
+{"id": "P2_00615", "en": "Have faith, and the day is ours!", "cat": "dialogue", "ctx": "Borgnina.bbd banterHardfriend1"}
+{"id": "P2_00616", "en": "God will guide us!", "cat": "dialogue", "ctx": "Borgnina.bbd banterHardfriend2"}
+{"id": "P2_00617", "en": "Such is the lot of a sinner!", "cat": "dialogue", "ctx": "Borgnina.bbd banterHardrival1"}
+{"id": "P2_00618", "en": "Perhaps God will show you mercy!", "cat": "dialogue", "ctx": "Borgnina.bbd banterHardrival2"}
+{"id": "P2_00619", "en": "See what your sins have wrought!", "cat": "dialogue", "ctx": "Borgnina.bbd banterRivaldies1"}
+{"id": "P2_00620", "en": "Ask God to forgive you!", "cat": "dialogue", "ctx": "Borgnina.bbd banterRivaldies2"}
+{"id": "P2_00621", "en": "It really is quite remarkable to see people working together like this, especially in a place as ill-clouded as Lukatt. When I came here, I knew that I was likely to be walking alongside criminals, but I hadn't expected them to be so civil. I continue to learn new things each day.", "cat": "dialogue", "ctx": "Borgnina.bbd civilChat"}
+{"id": "P2_00622", "en": "You no longer wish to have me along?", "cat": "dialogue", "ctx": "Borgnina.bbd civilDismiss"}
+{"id": "P2_00623", "en": "Hail. Did you need something?", "cat": "dialogue", "ctx": "Borgnina.bbd civilIntro"}
+{"id": "P2_00624", "en": "Ah, just considering your options then? Let me know if aught changes.", "cat": "dialogue", "ctx": "Borgnina.bbd civilNo"}
+{"id": "P2_00625", "en": "Then, I shall continue my pilgrimage alone. Farewell.", "cat": "dialogue", "ctx": "Borgnina.bbd civilYes"}
+{"id": "P2_00626", "en": "With God beside me, I am not afraid!", "cat": "dialogue", "ctx": "Borgnina.bbd hostileIntro"}
+{"id": "P2_00627", "en": "This is a holy relic, and shall not fall into the hands of one such as you!", "cat": "dialogue", "ctx": "Borgnina.bbd hostileRansomFailure"}
+{"id": "P2_00628", "en": "I have no choice, it seems.", "cat": "dialogue", "ctx": "Borgnina.bbd hostileRansomSuccess"}
+{"id": "P2_00629", "en": "God is my only Lord and master!", "cat": "dialogue", "ctx": "Borgnina.bbd hostileRecruitFailure"}
+{"id": "P2_00630", "en": "It... is better I should swallow my pride and survive to do God's will. Very well.", "cat": "dialogue", "ctx": "Borgnina.bbd hostileRecruitSuccess"}
+{"id": "P2_00631", "en": "I... am bound to accept your mercy.", "cat": "dialogue", "ctx": "Borgnina.bbd hostileRelease"}
+{"id": "P2_00632", "en": "Then let us begone from this place. I cannot bear to look at it any longer.", "cat": "dialogue", "ctx": "Borgnina.bbd neutralAccept"}
+{"id": "P2_00633", "en": "Had I truly grown so hardened that I forgot to look for the decency in people? The sisters were nothing but kind and welcoming to me, but I held them to be in contempt of god because of soaps and poetry. I can scarcely imagine something more foolish.", "cat": "dialogue", "ctx": "Borgnina.bbd neutralChat"}
+{"id": "P2_00634", "en": "Forgive me, I have nothing to offer you in return for your help. My armour and equipment are valuable, but as an agent of the church, they are not mine to offer.", "cat": "dialogue", "ctx": "Borgnina.bbd neutralIntro"}
+{"id": "P2_00635", "en": "In truth, I have no destination in particular, and you have been a greater help to me than you may know. It would be my honour to travel with you, for a time at least.", "cat": "dialogue", "ctx": "Borgnina.bbd neutralRecruit"}
+{"id": "P2_00636", "en": "That is hardly surprising. I cannot imagine you would long tolerate the eyes of a crusader upon your back.", "cat": "dialogue", "ctx": "Borgnina.bbd neutralRefuse"}
+{"id": "P2_00637", "en": "May we speak? I awoke for my watch early, and could use the company. Besides, I wanted to discuss something.\n\nI know I have mentioned that I came here on pilgrimage, as a test of my faith to my order, but what I never mentioned was that my decision was... influenced. \n\nThe Crusaders have a purpose, a holy duty, to seek out evil and blasphemy and scourge it where we find it. It's the oath that I, and all Crusaders swear upon our appointment.\n\n|I have been a Crusader for many years, and during that time, I did my duty faithfully and well, but there were some in the order who were... shall we say \"dissatisfied\" with my devotion.  \n\nThey said I was lax, that I was letting a soft heart sweeten my righteous purpose. The smith with whom I shared my breakfast in the morning was a sinner, the moments spent watching children run through the streets were indulgent, the flower I wore to honour a dead grandmother was vain, my stature was prideful. It never ended. \n\nOne day I overheard the deacon talking with another crusader about me. I heard them saying that I was too well-liked by the people, and that I was dulling peoples' respect for the Crusaders as an order. Maybe they were even right. \n\n|What I heard next though, shocked me. They began to discuss setting me up for a murder, to publicly shame me and have me removed. \n\nI was furious, but they were both higher-ranking Crusaders than I, and I already well-outranked any town militia who would normally cover such things. There was nobody I could go to, no way to uncover their plot. \n\nI try to be a virtuous woman, but I am no paragon of cleverness. I couldn't think of anything else to do, so shortly afterward, I declared myself on holy pilgrimage, and the deacon, deliriously pleased with himself, sanctioned my pilgrimage, and named my destination Lukatt. \n\n|When I arrived, I wandered for a time with what scant supplies I had brought, and then eventually found my way to the Stillwind Abbey, where I very nearly flagellated all of those poor sisters over their love of handmade soaps and the storage of their foodstuff.\n\nI realize now that I was angry. Angry at having been forced into this situation, and angry that I could do nothing to prevent it. Angry that my betters were the very villains I swore to oust, and angry that I abandoned my community to their rule. \n\nThough I have the motions very well-practiced, my faith was shaken to its very core, and perhaps, in some ways, it still is. Maybe it always will be. \n\n|I do not regret any of this, however.\n\nIf my faith was broken, it was only so I could pick out the pieces that should never have been there, and it is no small irony that I am finding peace and growth in the company of criminals. \n\nI am coming to know that I must be whole myself before I can hold the authority to judge others, and that knowledge has been most liberating. \n\n|Forgive me for prattling on so long. I'm sure you're eager to get to your bedroll. \n\nOnly, have a look in your stash when you get an opportunity. It's no treasure to be sure, but I've left something there for you, as a token of my thanks. \n\nGoodnight.", "cat": "dialogue", "ctx": "Borgnina.bbd trustCampfire"}
+{"id": "P2_00638", "en": "This armour is heavier than it looks, you know, but lately it feels lighter. I don't know for certain why. Perhaps I've grown stronger, or perhaps something else has grown lighter. Coming to Lukatt was guaranteed to be interesting, but I hadn't expected it to be quite so enlightening.", "cat": "dialogue", "ctx": "Borgnina.bbd trustChat"}
+{"id": "P2_00639", "en": "All things must end, I suppose.", "cat": "dialogue", "ctx": "Borgnina.bbd trustDismiss"}
+{"id": "P2_00640", "en": "It is good to see you. Is there something I can do for you?", "cat": "dialogue", "ctx": "Borgnina.bbd trustIntro"}
+{"id": "P2_00641", "en": "I will continue to assist you then, as long as I am able.", "cat": "dialogue", "ctx": "Borgnina.bbd trustNo"}
+{"id": "P2_00642", "en": "I have much more to learn, and many miles more to walk. It was a privelege to walk some of them by your side. Farewell and Godbless.", "cat": "dialogue", "ctx": "Borgnina.bbd trustYes"}
+{"id": "P2_00643", "en": "Many secrets here, yes. You give me gold and I will help you find them. No lock will be safe!", "cat": "dialogue", "ctx": "Burglar.bbd neutralChat"}
+{"id": "P2_00644", "en": "You need something opened?", "cat": "dialogue", "ctx": "Burglar.bbd neutralIntro"}
+{"id": "P2_00645", "en": "Show me what you find.", "cat": "dialogue", "ctx": "Burglar.bbd neutralRefuse"}
+{"id": "P2_00646", "en": "Good. I'm hungry.", "cat": "dialogue", "ctx": "Byrne.bbd banterEasyfight1"}
+{"id": "P2_00647", "en": "This'll be fun.", "cat": "dialogue", "ctx": "Byrne.bbd banterEasyfight2"}
+{"id": "P2_00648", "en": "You wanna fuck with that?", "cat": "dialogue", "ctx": "Byrne.bbd banterEvent1"}
+{"id": "P2_00649", "en": "That important?", "cat": "dialogue", "ctx": "Byrne.bbd banterEvent2"}
+{"id": "P2_00650", "en": "Well that bites.", "cat": "dialogue", "ctx": "Byrne.bbd banterFrienddies1"}
+{"id": "P2_00651", "en": "Ya coulda done better.", "cat": "dialogue", "ctx": "Byrne.bbd banterFrienddies2"}
+{"id": "P2_00652", "en": "What are ya lookin' at?", "cat": "dialogue", "ctx": "Byrne.bbd banterGeneral1"}
+{"id": "P2_00653", "en": "I see nothin'.", "cat": "dialogue", "ctx": "Byrne.bbd banterGeneral2"}
+{"id": "P2_00654", "en": "Oh shit. Should we run?", "cat": "dialogue", "ctx": "Byrne.bbd banterHardfight1"}
+{"id": "P2_00655", "en": "This is gonna be shitty.", "cat": "dialogue", "ctx": "Byrne.bbd banterHardfight2"}
+{"id": "P2_00656", "en": "Nah, that's dumb. Just watch.", "cat": "dialogue", "ctx": "Byrne.bbd banterHardfriend1"}
+{"id": "P2_00657", "en": "Yer not that bad. Just fight.", "cat": "dialogue", "ctx": "Byrne.bbd banterHardfriend2"}
+{"id": "P2_00658", "en": "If I prove ya wrong, ya owe me a drink.", "cat": "dialogue", "ctx": "Byrne.bbd banterHardrival1"}
+{"id": "P2_00659", "en": "Ya think? Well I think yer stupid.", "cat": "dialogue", "ctx": "Byrne.bbd banterHardrival2"}
+{"id": "P2_00660", "en": "Yer own fault.", "cat": "dialogue", "ctx": "Byrne.bbd banterRivaldies1"}
+{"id": "P2_00661", "en": "Ya think I suck? You suck.", "cat": "dialogue", "ctx": "Byrne.bbd banterRivaldies2"}
+{"id": "P2_00662", "en": "Ain't got a whole lot to say at the moment. Let's just move along, hmm?", "cat": "dialogue", "ctx": "Byrne.bbd civilChat"}
+{"id": "P2_00663", "en": "Aww, what's the matter? Am I makin' ya nervous?", "cat": "dialogue", "ctx": "Byrne.bbd civilDismiss"}
+{"id": "P2_00664", "en": "How we doin'?", "cat": "dialogue", "ctx": "Byrne.bbd civilIntro"}
+{"id": "P2_00665", "en": "Ya shouldn't let me get under yer skin. Yer better than that, ain't ya?", "cat": "dialogue", "ctx": "Byrne.bbd civilNo"}
+{"id": "P2_00666", "en": "Well, see if I fuckin' care.", "cat": "dialogue", "ctx": "Byrne.bbd civilYes"}
+{"id": "P2_00667", "en": "Hey, all this ain't really necessary, is it?", "cat": "dialogue", "ctx": "Byrne.bbd hostileIntro"}
+{"id": "P2_00668", "en": "Blah blah blah, if yer gonna kill me, get it over with!", "cat": "dialogue", "ctx": "Byrne.bbd hostileRansomFailure"}
+{"id": "P2_00669", "en": "Fer this? Take it, and fuck off!", "cat": "dialogue", "ctx": "Byrne.bbd hostileRansomSuccess"}
+{"id": "P2_00670", "en": "What, and be yer bitch too? I had enough of bein' everyone's bitch!", "cat": "dialogue", "ctx": "Byrne.bbd hostileRecruitFailure"}
+{"id": "P2_00671", "en": "Right, ya got me. Byrne the bitch. Fuck.", "cat": "dialogue", "ctx": "Byrne.bbd hostileRecruitSuccess"}
+{"id": "P2_00672", "en": "Right.", "cat": "dialogue", "ctx": "Byrne.bbd hostileRelease"}
+{"id": "P2_00673", "en": "Perfect.", "cat": "dialogue", "ctx": "Byrne.bbd neutralAccept"}
+{"id": "P2_00674", "en": "The estate's a way off yet, of course. Bit of a hike, you see, but if yer ready to go, we'll be off.", "cat": "dialogue", "ctx": "Byrne.bbd neutralChat"}
+{"id": "P2_00675", "en": "So, ya ready to go and see the magnificent Frico?", "cat": "dialogue", "ctx": "Byrne.bbd neutralIntro"}
+{"id": "P2_00676", "en": "Perfect, I'll show ya the way.", "cat": "dialogue", "ctx": "Byrne.bbd neutralRecruit"}
+{"id": "P2_00677", "en": "Fine. I ain't goin' nowhere.", "cat": "dialogue", "ctx": "Byrne.bbd neutralRefuse"}
+{"id": "P2_00678", "en": "I can hear 'em, ya know.\"\n\nByrne sits down in front of the fire, the bloody red of his eyes glinting in the light. \n\n\"Yer hearts, I mean. All of 'em. \n\nAt first it was maddening, like they're all taunting me. I guess 'cuz I was mad. \n\nGoddamn Frico. \n\n|I got sent out here what... five, six years ago, maybe. \n\nFrico sprung me from the stocks back then. \n\nHe was my hero at first, but, once he turned me, I was just a bitch to him. \n\nJust one more puppet to do his dirty work. \n\nI don't so much mind the vampire thing, really. A guy gets used to it. But, since Frico was the one who changed me, he had this kinda power over me.\n\n|Saw him use it on another uppity sucker once, and it weren't pretty. Boiled him alive in his own skin. \n\nWhat a mess. \n\nI sure never would've been able to take him down on my own.\n\nWhen I found ya, I was... gathering meat for him, and I hated it. \n\nNot for any special love for you, of course, just because I hated everything he wanted.\n\n|He's dead now though, and I'm free as can be. \n\nFeels good.\n\nAll them beatin' hearts, sounds like frogs singing in the swamp to me now. \n\nIt's the kinda song a fella could get used to.\"\n\nByrne turns toward you as a relaxed smile creeps across his lips.\n\n\"Ya set me free, so I'm with ya. Just say the word.", "cat": "dialogue", "ctx": "Byrne.bbd trustCampfire"}
+{"id": "P2_00679", "en": "Ya know, I spent such a long time itching to get out from under Frico's thumb, so much time hating all of the stuff I didn't want to do, I never really thought about what I do want. I guess I'll have lots of time to figure it out.", "cat": "dialogue", "ctx": "Byrne.bbd trustChat"}
+{"id": "P2_00680", "en": "Ya don't need me? That's fine, I guess, as long as yer sure.", "cat": "dialogue", "ctx": "Byrne.bbd trustDismiss"}
+{"id": "P2_00681", "en": "It's a fuckin' beautiful day.", "cat": "dialogue", "ctx": "Byrne.bbd trustIntro"}
+{"id": "P2_00682", "en": "Then I don't mind stickin' around.", "cat": "dialogue", "ctx": "Byrne.bbd trustNo"}
+{"id": "P2_00683", "en": "Then I'll go. Thanks fer everything.", "cat": "dialogue", "ctx": "Byrne.bbd trustYes"}
+{"id": "P2_00684", "en": "You're gonna have a bad time.", "cat": "dialogue", "ctx": "Captain Logus.bbd banterEasyfight1"}
+{"id": "P2_00685", "en": "Follow my lead, lads!", "cat": "dialogue", "ctx": "Captain Logus.bbd banterEasyfight2"}
+{"id": "P2_00686", "en": "Look there.", "cat": "dialogue", "ctx": "Captain Logus.bbd banterEvent1"}
+{"id": "P2_00687", "en": "What's that, then?", "cat": "dialogue", "ctx": "Captain Logus.bbd banterEvent2"}
+{"id": "P2_00688", "en": "Damn!", "cat": "dialogue", "ctx": "Captain Logus.bbd banterFrienddies1"}
+{"id": "P2_00689", "en": "You'll regret that!", "cat": "dialogue", "ctx": "Captain Logus.bbd banterFrienddies2"}
+{"id": "P2_00690", "en": "Aye?", "cat": "dialogue", "ctx": "Captain Logus.bbd banterGeneral1"}
+{"id": "P2_00691", "en": "Nothin'", "cat": "dialogue", "ctx": "Captain Logus.bbd banterGeneral2"}
+{"id": "P2_00692", "en": "To the last man!", "cat": "dialogue", "ctx": "Captain Logus.bbd banterHardfight1"}
+{"id": "P2_00693", "en": "Stand fast and give 'em hell!", "cat": "dialogue", "ctx": "Captain Logus.bbd banterHardfight2"}
+{"id": "P2_00694", "en": "Don't be daft!", "cat": "dialogue", "ctx": "Captain Logus.bbd banterHardfriend1"}
+{"id": "P2_00695", "en": "Let me show you how it's done!", "cat": "dialogue", "ctx": "Captain Logus.bbd banterHardfriend2"}
+{"id": "P2_00696", "en": "If you aren't gonna fight, \nget out of the way!", "cat": "dialogue", "ctx": "Captain Logus.bbd banterHardrival1"}
+{"id": "P2_00697", "en": "We've no use for yellow bellies!", "cat": "dialogue", "ctx": "Captain Logus.bbd banterHardrival2"}
+{"id": "P2_00698", "en": "Push! We can still win!", "cat": "dialogue", "ctx": "Captain Logus.bbd banterRivaldies1"}
+{"id": "P2_00699", "en": "Fuck it!", "cat": "dialogue", "ctx": "Captain Logus.bbd banterRivaldies2"}
+{"id": "P2_00700", "en": "I never mentioned this before, but this is quite a neat operation you've got here. Hell, you put together twenty people when I asked you to, and I think you could put together a lot more than that. Gives an old mind new things to think about.", "cat": "dialogue", "ctx": "Captain Logus.bbd civilChat"}
+{"id": "P2_00701", "en": "What? You're joking.", "cat": "dialogue", "ctx": "Captain Logus.bbd civilDismiss"}
+{"id": "P2_00702", "en": "Anything to report?", "cat": "dialogue", "ctx": "Captain Logus.bbd civilIntro"}
+{"id": "P2_00703", "en": "I'm not going to try to take over your crew, you know. Just relax.", "cat": "dialogue", "ctx": "Captain Logus.bbd civilNo"}
+{"id": "P2_00704", "en": "You're not joking. Well, I'll just hunt down the Sud'umKatch on my own. Good luck.", "cat": "dialogue", "ctx": "Captain Logus.bbd civilYes"}
+{"id": "P2_00705", "en": "There's a way to defeat it. There has to be. We'll figure it out.", "cat": "dialogue", "ctx": "Captain Logus.bbd neutralAccept"}
+{"id": "P2_00706", "en": "And here I thought this was just an issue of the sea keeping us here. I never stopped to wonder why it was this island and not another one. We're sitting on top of a god damn Sud'umKatch. Of course we are. Why wouldn't we be? How did nobody know about this?", "cat": "dialogue", "ctx": "Captain Logus.bbd neutralChat"}
+{"id": "P2_00707", "en": "There are some basic supplies here, but nothing really worth lugging around, I think.", "cat": "dialogue", "ctx": "Captain Logus.bbd neutralIntro"}
+{"id": "P2_00708", "en": "I'm anxious to leave. Been holed up here for too long.", "cat": "dialogue", "ctx": "Captain Logus.bbd neutralRecruit"}
+{"id": "P2_00709", "en": "I'll wait here until you've cleared a spot for me then. This is as good a place to wait as any.", "cat": "dialogue", "ctx": "Captain Logus.bbd neutralRefuse"}

@@ -1,0 +1,156 @@
+{"id": "P2_01232", "en": "Got a sec?\"\n\nPaul settles his huge body on the floor near the fire, stretching his legs out and relaxing. His clothes are tattered, and he is marred with scratches and dirt, but his eyes sparkle softly in the light, and his woodsman's beard is slashed open with a broad smile.\n\n\"This one-on-one thing is like a tradition, right? I come find you and spill all my secrets, talk about my tragic past and then handshake or hug or something and we're friends forever?\"\n\nPaul laughs.\n\n|\"Well, let's see how I do. I was born on this island, as far as I know. No burn on my neck or nothin', but I never really lived anyplace that had a law to break in the first place. Talking to some of these guys, I'm sure I've done worse than them. Never thought much of it, to be honest. You do what you have to do to get by, right?\n\nIt's true though that I've always preferred honest work to hurting people, so maybe that's worth something to ya. I mean, hurting someone is work too, isn't it? Why be the source of all that suffering when you could just lend each other a hand and get a better deal out of the whole works?\n\nI get that you guys don't like this place. It can be a rough ride, sometimes, even if it is my home. \n\n|I'm having fun with it all, though. I usually just mind my business, do my work, and bugger off. Never really loaned my axe to something so important to so many people, and it feels good to be looked up to for reasons other than just my height, you know?\n\nThis might have started as just a little adventure, but I like you, and I hope we can call each other friends. \"\n\nWithout warning, Paul extends one of his huge arms around you and pulls you close against him in a momentary hug.\n\n\"Thanks for having me on.", "cat": "dialogue", "ctx": "Paul.bbd trustCampfire"}
+{"id": "P2_01233", "en": "Great day, isn't it? I mean, it's not so great if you're just looking outside, but look in here. Everybody working together just feels good to me. I'm happy to be here with you.", "cat": "dialogue", "ctx": "Paul.bbd trustChat"}
+{"id": "P2_01234", "en": "Well if it isn't my favorite small person! How are you today?", "cat": "dialogue", "ctx": "Paul.bbd trustIntro"}
+{"id": "P2_01235", "en": "Alright, time for knives!", "cat": "dialogue", "ctx": "Peregrine.bbd banterEasyfight1"}
+{"id": "P2_01236", "en": "Shoulda stayed home today, buddy.", "cat": "dialogue", "ctx": "Peregrine.bbd banterEasyfight2"}
+{"id": "P2_01237", "en": "Hey, check that out.", "cat": "dialogue", "ctx": "Peregrine.bbd banterEvent1"}
+{"id": "P2_01238", "en": "Well, lookie here.", "cat": "dialogue", "ctx": "Peregrine.bbd banterEvent2"}
+{"id": "P2_01239", "en": "That was dirty!", "cat": "dialogue", "ctx": "Peregrine.bbd banterFrienddies1"}
+{"id": "P2_01240", "en": "Don't go dyin' on me!", "cat": "dialogue", "ctx": "Peregrine.bbd banterFrienddies2"}
+{"id": "P2_01241", "en": "See anything worth nicking?", "cat": "dialogue", "ctx": "Peregrine.bbd banterGeneral1"}
+{"id": "P2_01242", "en": "I don't see nothing.", "cat": "dialogue", "ctx": "Peregrine.bbd banterGeneral2"}
+{"id": "P2_01243", "en": "Well shit, we're done for.", "cat": "dialogue", "ctx": "Peregrine.bbd banterHardfight1"}
+{"id": "P2_01244", "en": "I ain't ready to die!", "cat": "dialogue", "ctx": "Peregrine.bbd banterHardfight2"}
+{"id": "P2_01245", "en": "Nothin' that can't be solved with knives!", "cat": "dialogue", "ctx": "Peregrine.bbd banterHardfriend1"}
+{"id": "P2_01246", "en": "Not with me here! Just you watch.", "cat": "dialogue", "ctx": "Peregrine.bbd banterHardfriend2"}
+{"id": "P2_01247", "en": "You sure like to complain.", "cat": "dialogue", "ctx": "Peregrine.bbd banterHardrival1"}
+{"id": "P2_01248", "en": "Complain at them hard enough\n and you might kill 'em with that.", "cat": "dialogue", "ctx": "Peregrine.bbd banterHardrival2"}
+{"id": "P2_01249", "en": "Guess we ain't splitting the loot \nwith you anymore, eh?", "cat": "dialogue", "ctx": "Peregrine.bbd banterRivaldies1"}
+{"id": "P2_01250", "en": "What? Oh, right. \nRevenge and such.", "cat": "dialogue", "ctx": "Peregrine.bbd banterRivaldies2"}
+{"id": "P2_01251", "en": "You know, it never occurred to me that I could break into ruins instead of mansions. Always figured the mansions had more loot in 'em, but now I'm not so sure. Better keep looking just to be sure, aye?", "cat": "dialogue", "ctx": "Peregrine.bbd civilChat"}
+{"id": "P2_01252", "en": "Aww, really? Come on, you don't mean that.", "cat": "dialogue", "ctx": "Peregrine.bbd civilDismiss"}
+{"id": "P2_01253", "en": "Looking for me? What's up?", "cat": "dialogue", "ctx": "Peregrine.bbd civilIntro"}
+{"id": "P2_01254", "en": "That's right. You'd be sorry next time you found a lock that needs busting.", "cat": "dialogue", "ctx": "Peregrine.bbd civilNo"}
+{"id": "P2_01255", "en": "Ah, well I guess I don't have to split the take anymore. See you around.", "cat": "dialogue", "ctx": "Peregrine.bbd civilYes"}
+{"id": "P2_01256", "en": "You just saved me so you could kill me yourself? Sick bastard!", "cat": "dialogue", "ctx": "Peregrine.bbd hostileIntro"}
+{"id": "P2_01257", "en": "You're trying to rob ME? Nice try, but I don't think so.", "cat": "dialogue", "ctx": "Peregrine.bbd hostileRansomFailure"}
+{"id": "P2_01258", "en": "My turn to eat humble pie I guess. I'm outta here.", "cat": "dialogue", "ctx": "Peregrine.bbd hostileRansomSuccess"}
+{"id": "P2_01259", "en": "You expect me to take orders from you after you kick the shit out of me? Not a chance!", "cat": "dialogue", "ctx": "Peregrine.bbd hostileRecruitFailure"}
+{"id": "P2_01260", "en": "You're insane! Was that your way of 'encouraging' my legs to work again?\n\n Well, it worked, I'll give you that.", "cat": "dialogue", "ctx": "Peregrine.bbd hostileRecruitSuccess"}
+{"id": "P2_01261", "en": "Yeah, good riddance.", "cat": "dialogue", "ctx": "Peregrine.bbd hostileRelease"}
+{"id": "P2_01262", "en": "We're going to get into all kinds of trouble aren't we? I can hardly wait.", "cat": "dialogue", "ctx": "Peregrine.bbd neutralAccept"}
+{"id": "P2_01263", "en": "No wonder this place was giving me the creeps. You sat him down good though! I'd have joined in, but he did something to me and my whole body is so numb I can barely even stand up. I felt something snap when you killed him though, and the feeling is starting to come back. I'm sure I'll be good in a minute or two.", "cat": "dialogue", "ctx": "Peregrine.bbd neutralChat"}
+{"id": "P2_01264", "en": "You saved my life! Thank you. \n\nYou keep anything you find in here, alright? I'm just happy to be able to walk away from it.", "cat": "dialogue", "ctx": "Peregrine.bbd neutralIntro"}
+{"id": "P2_01265", "en": "Impressed with my burgling, huh? I told you I was good. Honestly, I could do with someone watching my back on a more long-term basis.", "cat": "dialogue", "ctx": "Peregrine.bbd neutralRecruit"}
+{"id": "P2_01266", "en": "I'll be out of here once I can properly feel my legs again, but if you change your mind before that, come see me.", "cat": "dialogue", "ctx": "Peregrine.bbd neutralRefuse"}
+{"id": "P2_01267", "en": "Hey, wanna hear something funny? It's about the thing that got me sent out here to this rock.\"\n\nPeregrine sits down beside you, his eyes hidden beneath his bandana and his crooked smile cracking his face practically in half. \n\n\"So I'm a burglar. You know that, and I've never tried to hide it. Not much point, is there? For what it's worth, I never burgled anyone who couldn't stand to be taken down a few pegs. \n\nMostly by accident, mind you. Hard-working poor folks ain't got much worth taking, and if you take from someone who has more than he knows what to do with, sometimes he doesn't even notice. Those ones are the best. \n\n|Anyway, my habit of taking bites out of big fish meant I sometimes pissed off people with some power. A merchant here, a senator there. Most of 'em just went to the guards, and then a little birdie would tell me to lay low for a while, and I would, and in a few weeks it would blow over and I'd be back in business. \n\nIf a guy is a halfway decent burglar, you make enough coin on one job that you don't have to do it very often, so there's lots of time for the trail to cool off. You cut your hair, run some distractions, and you stay ahead of the curve. \n\nChoose the right targets, and sometimes even the guard doesn't want you to get caught. It's a special kind of warm and fuzzy stealing from someone everybody hates. \n\n|Well the last job I did before this mess, I hit this one mansion owned by one of the noble houses. The place was all dark, so I thought nobody was home, and I worked my magic and got inside, clean as you please. \n\nI scrapped together a decent parcel of souvenirs and was getting ready to make my escape when I heard something in the house. \n\nI probably should have just made my getaway immediately, but the noise was strange, and I was curious. \n\n|I found a door half-opened, and when I looked inside, there in the romantic candlelight is goddamn Senator Malcolm, up to his eyebrows in the thighs of a strapping orcish manservant. \n\nI think that orc's haft was the first honest thing that ever passed through old Malkie's lips. \n\n|I stared just a little too long, and the servant saw me. I ran for it, and I got away, but Malkie went into panic mode, started throwing money around, and all my usual contacts in the guard went silent. \n\nI think one of 'em sold me out, but it hardly matters. Point is, Malkie was terrified I would tell someone what I saw and ruin his reputation, as if he needed any help. \n\n|If you went through the court, you know how it is. \n\nThey give you a chance to speak, but it hardly matters, then they brand you and lock you up. \n\nIf you pissed off just the right person, and they want to make extra special sure that you'll never open your yap, then they ship you out here. \n\nThey probably should've cut my tongue, right?\"\n\n|Peregrine laughs a bit before standing up. \n\n\"Anyway, that's all. Now if something bad ever happens to me, you'll have to be the one to tell Malkie's wife all about his romantic adventures, aye? Someone's gotta do it.\n\nMaybe it wasn't as funny as I thought, but it felt good to finally tell someone.\"\n\nPeregrine claps you on the shoulder, and gives you a warm smile and a rare glimpse of his blue eyes.\n\n\"Thanks.", "cat": "dialogue", "ctx": "Peregrine.bbd trustCampfire"}
+{"id": "P2_01268", "en": "Back home, I told folks I was a sailor. I was always worried that my moonlighting would somehow slip out and people would lose their shit. Here, people are almost relieved when they see my brand, like burglary is tame when it comes to the things some of these wackos are here for. All a matter of perspective, I guess.", "cat": "dialogue", "ctx": "Peregrine.bbd trustChat"}
+{"id": "P2_01269", "en": "You gotta be joking. After all that?", "cat": "dialogue", "ctx": "Peregrine.bbd trustDismiss"}
+{"id": "P2_01270", "en": "Oh hey, I was just thinking about you. What do you need?", "cat": "dialogue", "ctx": "Peregrine.bbd trustIntro"}
+{"id": "P2_01271", "en": "That's right, we're buds aren't we? If you need to free up a bed, axe somebody else.", "cat": "dialogue", "ctx": "Peregrine.bbd trustNo"}
+{"id": "P2_01272", "en": "Well I'm certain to steal your thunder at some point so I guess I can't blame you. Don't get yourself killed now.", "cat": "dialogue", "ctx": "Peregrine.bbd trustYes"}
+{"id": "P2_01273", "en": "Yar, I spent enough years movin' cargo on the sly that I got a bit of a knack for it, ye see? Keep me supplied with the coin I needs, and I'll keep bringin' me cargo yer way.", "cat": "dialogue", "ctx": "Pirate.bbd neutralChat"}
+{"id": "P2_01274", "en": "Yer gonna buy er ain't yer?", "cat": "dialogue", "ctx": "Pirate.bbd neutralIntro"}
+{"id": "P2_01275", "en": "Yer might not see me for a while, lad. Best be spendin' now.", "cat": "dialogue", "ctx": "Pirate.bbd neutralRefuse"}
+{"id": "P2_01276", "en": "I got good boots, a strong back, and a big pack. I'm sure you'll find a use for me.", "cat": "dialogue", "ctx": "Porter.bbd neutralChat"}
+{"id": "P2_01277", "en": "Good day.", "cat": "dialogue", "ctx": "Porter.bbd neutralIntro"}
+{"id": "P2_01278", "en": "Good to go when you are.", "cat": "dialogue", "ctx": "Porter.bbd neutralRefuse"}
+{"id": "P2_01279", "en": "I can't issue you any extra supplies or anything, sorry. Got myself pretty busy keeping everyone else around here adequately supplied. If you have anything you want sold or held onto for later though, just leave it here with me. I'll take care of it.", "cat": "dialogue", "ctx": "Provisioner.bbd neutralChat"}
+{"id": "P2_01280", "en": "What's our status?", "cat": "dialogue", "ctx": "Provisioner.bbd neutralIntro"}
+{"id": "P2_01281", "en": "Course. Just come back later if you need anything else.", "cat": "dialogue", "ctx": "Provisioner.bbd neutralRefuse"}
+{"id": "P2_01282", "en": "Well, don't just stand around, buy something if you're gonna, or leave if you ain't.", "cat": "dialogue", "ctx": "Rancher.bbd neutralChat"}
+{"id": "P2_01283", "en": "I got a way with animals, you know.", "cat": "dialogue", "ctx": "Rancher.bbd neutralIntro"}
+{"id": "P2_01284", "en": "I gotta get back to my herd, such as it is. I'll be out tomorrow.", "cat": "dialogue", "ctx": "Rancher.bbd neutralRefuse"}
+{"id": "P2_01285", "en": "I'll show you what I've learned.", "cat": "dialogue", "ctx": "Rangda.bbd banterEasyfight1"}
+{"id": "P2_01286", "en": "You'd better run.", "cat": "dialogue", "ctx": "Rangda.bbd banterEasyfight2"}
+{"id": "P2_01287", "en": "What do you think?", "cat": "dialogue", "ctx": "Rangda.bbd banterEvent2"}
+{"id": "P2_01288", "en": "That's gonna cost you!", "cat": "dialogue", "ctx": "Rangda.bbd banterFrienddies1"}
+{"id": "P2_01289", "en": "Okay, no more games!", "cat": "dialogue", "ctx": "Rangda.bbd banterFrienddies2"}
+{"id": "P2_01290", "en": "Looks alright from this angle.", "cat": "dialogue", "ctx": "Rangda.bbd banterGeneral2"}
+{"id": "P2_01291", "en": "If I die, I'm taking you \ndown with me!", "cat": "dialogue", "ctx": "Rangda.bbd banterHardfight1"}
+{"id": "P2_01292", "en": "Is is today then? \nBring it on!", "cat": "dialogue", "ctx": "Rangda.bbd banterHardfight2"}
+{"id": "P2_01293", "en": "You worry too much!", "cat": "dialogue", "ctx": "Rangda.bbd banterHardfriend1"}
+{"id": "P2_01294", "en": "There was a time\nI'd have said the same.", "cat": "dialogue", "ctx": "Rangda.bbd banterHardfriend2"}
+{"id": "P2_01295", "en": "If you can't take\nthe heat, leave!", "cat": "dialogue", "ctx": "Rangda.bbd banterHardrival1"}
+{"id": "P2_01296", "en": "Shut up! I am trying \nto concentrate!", "cat": "dialogue", "ctx": "Rangda.bbd banterHardrival2"}
+{"id": "P2_01297", "en": "That could've been avoided.", "cat": "dialogue", "ctx": "Rangda.bbd banterRivaldies1"}
+{"id": "P2_01298", "en": "Now you're right \nwhere I want you!", "cat": "dialogue", "ctx": "Rangda.bbd banterRivaldies2"}
+{"id": "P2_01299", "en": "Look, I don't care to chum up. I'm along for the ride as long as we keep moving and making progress, but if your plan is to sit around and kick your feet up and get fat, you can count me out. I've had enough of that for a lifetime.", "cat": "dialogue", "ctx": "Rangda.bbd civilChat"}
+{"id": "P2_01300", "en": "If you don't have the stomach for it anymore, I'll be off.", "cat": "dialogue", "ctx": "Rangda.bbd civilDismiss"}
+{"id": "P2_01301", "en": "We going out soon? I could do with stretching my legs.", "cat": "dialogue", "ctx": "Rangda.bbd civilIntro"}
+{"id": "P2_01302", "en": "Then let's get a move on already.", "cat": "dialogue", "ctx": "Rangda.bbd civilNo"}
+{"id": "P2_01303", "en": "Fine. I can cover better ground alone anyway.", "cat": "dialogue", "ctx": "Rangda.bbd civilYes"}
+{"id": "P2_01304", "en": "You son of  a bitch.", "cat": "dialogue", "ctx": "Rangda.bbd hostileIntro"}
+{"id": "P2_01305", "en": "I don't think so!", "cat": "dialogue", "ctx": "Rangda.bbd hostileRansomFailure"}
+{"id": "P2_01306", "en": "Fine. I don't need it.", "cat": "dialogue", "ctx": "Rangda.bbd hostileRansomSuccess"}
+{"id": "P2_01307", "en": "Serve you? Go to hell.", "cat": "dialogue", "ctx": "Rangda.bbd hostileRecruitFailure"}
+{"id": "P2_01308", "en": "What a rotten place. Fine, whatever.", "cat": "dialogue", "ctx": "Rangda.bbd hostileRecruitSuccess"}
+{"id": "P2_01309", "en": "Right. Coward.", "cat": "dialogue", "ctx": "Rangda.bbd hostileRelease"}
+{"id": "P2_01310", "en": "Alright, let's be off then.", "cat": "dialogue", "ctx": "Rangda.bbd neutralAccept"}
+{"id": "P2_01311", "en": "I'll just be on my way, if you don't mind. I took some stuff, but there's a room in the back I haven't touched yet. I'll leave that one to you. Maybe there's treasure, maybe not. Check it out if you want.", "cat": "dialogue", "ctx": "Rangda.bbd neutralChat"}
+{"id": "P2_01312", "en": "Looks like that did it. Good work.", "cat": "dialogue", "ctx": "Rangda.bbd neutralIntro"}
+{"id": "P2_01313", "en": "Well... it's not a terrible idea, I admit.", "cat": "dialogue", "ctx": "Rangda.bbd neutralRecruit"}
+{"id": "P2_01314", "en": "Then don't waste my time.", "cat": "dialogue", "ctx": "Rangda.bbd neutralRefuse"}
+{"id": "P2_01315", "en": "I know you aren't from Tsarath, so you don't know how things work there, but women have it pretty crappy. There are hardly any of us, and we need to have a lot of kids in order to keep numbers up. They don't force us, not technically, but they keep us out of anything that might get us hurt or killed. \n\nI always wanted to be a warrior, or an adventurer, but I couldn't get anyone to sell me a sword, let alone teach me to use it.\n\nWhen the men started courting, as I knew they would, I started thinking that maybe I should just put the dream to rest. Settle down and have kids, live the cushy life I was handed. \n\n|I even really liked one of them, big mean-looking orc named Nazar. He was everything I wanted to be. Strong, deadly. You should've seen him handle a sword. \n\nWell, I married him, and he was great. When I asked him to teach me how to use a sword like he did, he was so happy. I think he was excited that I was interested in something he could do. He was a great teacher, too.\n\nFor a while, things were good. The sword was a distraction, and I managed to forget that I was still in that gilded cage. Eventually I got restless, though, and decided to go to the military training camp. Nazar begged me not to go, he said I'd get caught, but I had to follow my heart. I took a man's name, put on bulky clothes, and left. \n\n|For a few weeks it was fine. I was doing well, and the sword techniques Nazar had taught me were getting me noticed. In hindsight, getting noticed was the worst thing that could've happened. One of the sergeants started to suspect that I might be a woman, and he outed me in front of everybody. I was thrown out and sent home.\n\nThe next day they came and took Nazar away. I was being tried for identity fraud, and he was my collateral. The trial barely took any time at all, and they found me guilty. I had embarassed them, so they decided to make an example out of my situation, and they sent him here, to Lukatt, and told me to go home and find a new husband. \n\nI was furious. Nazar had nothing to do with it, he didn't deserve to be punished for what I had done, but there was nothing I could do. \n\n|Within a year I had remarried. The new man I picked was a foppish thing I chose because I thought he couldn't be bothered to lay with me. He often had men stay the night with him, and I would sleep alone and dream of coming here to find Nazar and set him free so we could be together again. \n\nWell a few months ago, the opportunity came up. There was an orc man who had been posing as a woman and having illicit encounters with some of the noble merchants. When he was found out, it came crashing down on him hard, and he was all lined up to be shipped out here too. \n\nI pulled a few strings and made a switch. He actually does look a lot like a woman, so this time passing was easy. \n\nHe went to my estate and presumably lives like a pampered lady with my husband, and I came here in tatters to find the husband I never forgot.\n\n|Whether all that is worth it... I don't know. I came here looking for either a reunion or for closure. Still sorting it all out.\n\nI have you to thank for the opportunity.\n\nNow, go rest. It's another busy day tomorrow.", "cat": "dialogue", "ctx": "Rangda.bbd trustCampfire"}
+{"id": "P2_01316", "en": "Never thought I'd be part of a team like this, you know? Feels good, everybody working together toward something greater. This is everything that life ought to be. I'm not at all sad to have left that pampered life behind.", "cat": "dialogue", "ctx": "Rangda.bbd trustChat"}
+{"id": "P2_01317", "en": "Are you sure you can hold this together without me?", "cat": "dialogue", "ctx": "Rangda.bbd trustDismiss"}
+{"id": "P2_01318", "en": "You're right, I'm too important to be without.", "cat": "dialogue", "ctx": "Rangda.bbd trustNo"}
+{"id": "P2_01319", "en": "Alright, then I'll make my way alone. Maybe I'll see you again.", "cat": "dialogue", "ctx": "Rangda.bbd trustYes"}
+{"id": "P2_01320", "en": "This is for you!", "cat": "dialogue", "ctx": "Rapey.bbd banterEasyfight1"}
+{"id": "P2_01321", "en": "That is mine!", "cat": "dialogue", "ctx": "Rapey.bbd banterEasyfight2"}
+{"id": "P2_01322", "en": "Do you want to \ndo it, or shall I?", "cat": "dialogue", "ctx": "Rapey.bbd banterEvent1"}
+{"id": "P2_01323", "en": "I'll nurse you\nback to health.", "cat": "dialogue", "ctx": "Rapey.bbd banterFrienddies1"}
+{"id": "P2_01324", "en": "Now I'm angry!", "cat": "dialogue", "ctx": "Rapey.bbd banterFrienddies2"}
+{"id": "P2_01325", "en": "I love watching \nyou move.", "cat": "dialogue", "ctx": "Rapey.bbd banterGeneral1"}
+{"id": "P2_01326", "en": "You look tired.\nRest in my lap awhile.", "cat": "dialogue", "ctx": "Rapey.bbd banterGeneral2"}
+{"id": "P2_01327", "en": "Today I shall well\nearn my fare!", "cat": "dialogue", "ctx": "Rapey.bbd banterHardfight1"}
+{"id": "P2_01328", "en": "Shall we die\ntogether?", "cat": "dialogue", "ctx": "Rapey.bbd banterHardfight2"}
+{"id": "P2_01329", "en": "I am... \nquite well-motivated.", "cat": "dialogue", "ctx": "Rapey.bbd banterHardfriend1"}
+{"id": "P2_01330", "en": "My body is your shield!\nTreasure it!", "cat": "dialogue", "ctx": "Rapey.bbd banterHardfriend2"}
+{"id": "P2_01331", "en": "I thought you\nliked the violence.", "cat": "dialogue", "ctx": "Rapey.bbd banterHardrival1"}
+{"id": "P2_01332", "en": "Stupid. \nBeautiful, but stupid.", "cat": "dialogue", "ctx": "Rapey.bbd banterHardrival2"}
+{"id": "P2_01333", "en": "Wasteful.", "cat": "dialogue", "ctx": "Rapey.bbd banterRivaldies1"}
+{"id": "P2_01334", "en": "Well, you left a\nbeautiful corpse.", "cat": "dialogue", "ctx": "Rapey.bbd banterRivaldies2"}
+{"id": "P2_01335", "en": "You need me for something? Take me to your tent, or someplace private, and remind me again why I am so eager to be useful.", "cat": "dialogue", "ctx": "Rapey.bbd civilChat"}
+{"id": "P2_01336", "en": "You've lost your appetite for me so soon? Have I not attended your needs as well?", "cat": "dialogue", "ctx": "Rapey.bbd civilDismiss"}
+{"id": "P2_01337", "en": "I cannot take my eyes off of you.", "cat": "dialogue", "ctx": "Rapey.bbd civilIntro"}
+{"id": "P2_01338", "en": "You would soon crave me once more were I to leave. Consider that.", "cat": "dialogue", "ctx": "Rapey.bbd civilNo"}
+{"id": "P2_01339", "en": "I'll not be starved within arms' reach of the feast. See how you fare without me.", "cat": "dialogue", "ctx": "Rapey.bbd civilYes"}
+{"id": "P2_01340", "en": "That ferocity, that passion! I need you.", "cat": "dialogue", "ctx": "Rapey.bbd hostileIntro"}
+{"id": "P2_01341", "en": "A bandit, are you? How disappointing.", "cat": "dialogue", "ctx": "Rapey.bbd hostileRansomFailure"}
+{"id": "P2_01342", "en": "Yes, of course. A little something to remember me by.", "cat": "dialogue", "ctx": "Rapey.bbd hostileRansomSuccess"}
+{"id": "P2_01343", "en": "Wonderful! Prove that you're strong enough to bend me!", "cat": "dialogue", "ctx": "Rapey.bbd hostileRecruitFailure"}
+{"id": "P2_01344", "en": "Magnificent! I am yours entirely.", "cat": "dialogue", "ctx": "Rapey.bbd hostileRecruitSuccess"}
+{"id": "P2_01345", "en": "Without so much as an embrace? Ah well.", "cat": "dialogue", "ctx": "Rapey.bbd hostileRelease"}
+{"id": "P2_01346", "en": "My body trembles with want of you. Do not keep it waiting long.", "cat": "dialogue", "ctx": "Rapey.bbd neutralAccept"}
+{"id": "P2_01347", "en": "A brave one are you? Oh, I could think of all sorts of fun to have with a brave one. Maybe you and I should go someplace a little warmer and a little wetter.", "cat": "dialogue", "ctx": "Rapey.bbd neutralChat"}
+{"id": "P2_01348", "en": "Well, well. Look what we have here.", "cat": "dialogue", "ctx": "Rapey.bbd neutralIntro"}
+{"id": "P2_01349", "en": "Now you're speaking my language. Let me make this clear though - if you get me, then I get you. Where and when I want.", "cat": "dialogue", "ctx": "Rapey.bbd neutralRecruit"}
+{"id": "P2_01350", "en": "I don't work without compensation. It isn't negotiable.", "cat": "dialogue", "ctx": "Rapey.bbd neutralRefuse"}
+{"id": "P2_01351", "en": "A moment first, if you please. \n\nYou have boldly met each of my expectations, and you have been a bottomless draught of pleasure. I am fortunate to have met you.\n\nI thought long and hard on how to best show my appreciation for this, and perhaps it is trite, but I have wrought you a gift. It is simple, but it is a token of my affection, and indeed of my loyalty.\n\nNow, lay with me near the fire awhile. Tonight, I've the greatest of need for you.", "cat": "dialogue", "ctx": "Rapey.bbd trustCampfire"}
+{"id": "P2_01352", "en": "Have you considered what you will do when all your battles are won? Will I still have a means to vie for your attention once this is done? I find myself rather distressed at the thought of it. Ah, pay me no mind.", "cat": "dialogue", "ctx": "Rapey.bbd trustChat"}
+{"id": "P2_01353", "en": "I understand. I am an addiction for you, as you are for me. If you truly wish to reach your goals, perhaps it would be better for us to find each other once this is finished.", "cat": "dialogue", "ctx": "Rapey.bbd trustDismiss"}
+{"id": "P2_01354", "en": "Everything about you is perfect.", "cat": "dialogue", "ctx": "Rapey.bbd trustIntro"}
+{"id": "P2_01355", "en": "I am relieved. I do not know if I could tolerate being without you.", "cat": "dialogue", "ctx": "Rapey.bbd trustNo"}
+{"id": "P2_01356", "en": "If you live, I will find you once this is all over. I will have you again.", "cat": "dialogue", "ctx": "Rapey.bbd trustYes"}
+{"id": "P2_01357", "en": "Ugh, what a pain.", "cat": "dialogue", "ctx": "Rosaline.bbd banterEasyfight1"}
+{"id": "P2_01358", "en": "We got it.", "cat": "dialogue", "ctx": "Rosaline.bbd banterEasyfight2"}
+{"id": "P2_01359", "en": "What about it?", "cat": "dialogue", "ctx": "Rosaline.bbd banterEvent2"}
+{"id": "P2_01360", "en": "This is not okay!", "cat": "dialogue", "ctx": "Rosaline.bbd banterFrienddies1"}
+{"id": "P2_01361", "en": "We're losing people!", "cat": "dialogue", "ctx": "Rosaline.bbd banterFrienddies2"}
+{"id": "P2_01362", "en": "Hmm? Oh, don't mind me.", "cat": "dialogue", "ctx": "Rosaline.bbd banterGeneral1"}
+{"id": "P2_01363", "en": "Did you say something?", "cat": "dialogue", "ctx": "Rosaline.bbd banterGeneral2"}
+{"id": "P2_01364", "en": "Last dance, I guess.", "cat": "dialogue", "ctx": "Rosaline.bbd banterHardfight1"}
+{"id": "P2_01365", "en": "Oh, shit. This isn't good.", "cat": "dialogue", "ctx": "Rosaline.bbd banterHardfight2"}
+{"id": "P2_01366", "en": "That's absurd. Just pull your socks up.", "cat": "dialogue", "ctx": "Rosaline.bbd banterHardfriend1"}
+{"id": "P2_01367", "en": "I think we'll be fine.", "cat": "dialogue", "ctx": "Rosaline.bbd banterHardfriend2"}
+{"id": "P2_01368", "en": "Is that all? Don't be such a wimp.", "cat": "dialogue", "ctx": "Rosaline.bbd banterHardrival1"}
+{"id": "P2_01369", "en": "Thanks for the vote of confidence.", "cat": "dialogue", "ctx": "Rosaline.bbd banterHardrival2"}
+{"id": "P2_01370", "en": "Saw that coming.", "cat": "dialogue", "ctx": "Rosaline.bbd banterRivaldies1"}
+{"id": "P2_01371", "en": "What a shock.", "cat": "dialogue", "ctx": "Rosaline.bbd banterRivaldies2"}
+{"id": "P2_01372", "en": "Well this is more interesting than I thought it would be. Not really sure what we're going to do with this momentum, but it's better than starving alone in a cave!", "cat": "dialogue", "ctx": "Rosaline.bbd civilChat"}
+{"id": "P2_01373", "en": "Aww, really?", "cat": "dialogue", "ctx": "Rosaline.bbd civilDismiss"}
+{"id": "P2_01374", "en": "Oh hey. Nothing happening right now.", "cat": "dialogue", "ctx": "Rosaline.bbd civilIntro"}
+{"id": "P2_01375", "en": "Come on, don't be a shithead.", "cat": "dialogue", "ctx": "Rosaline.bbd civilNo"}
+{"id": "P2_01376", "en": "Well that's no fun.", "cat": "dialogue", "ctx": "Rosaline.bbd civilYes"}
+{"id": "P2_01377", "en": "What the hell is wrong with you?", "cat": "dialogue", "ctx": "Rosaline.bbd hostileIntro"}
+{"id": "P2_01378", "en": "What? I worked for this too, go to hell!", "cat": "dialogue", "ctx": "Rosaline.bbd hostileRansomFailure"}
+{"id": "P2_01379", "en": "So you just had to have it all? Fine. I hope it was worth it.", "cat": "dialogue", "ctx": "Rosaline.bbd hostileRansomSuccess"}
+{"id": "P2_01380", "en": "I don't take orders from anybody!", "cat": "dialogue", "ctx": "Rosaline.bbd hostileRecruitFailure"}
+{"id": "P2_01381", "en": "So it's that, or die? Curse this island full of psychos.\n\nFine.", "cat": "dialogue", "ctx": "Rosaline.bbd hostileRecruitSuccess"}
+{"id": "P2_01382", "en": "Thank God.", "cat": "dialogue", "ctx": "Rosaline.bbd hostileRelease"}
+{"id": "P2_01383", "en": "Wait, you were serious? Oh, well... this is awkward. \n\nYou know, though, you were really steady back there. Maybe it wouldn't be such a bad idea to hang around you for a while. I'm in!", "cat": "dialogue", "ctx": "Rosaline.bbd neutralAccept"}
+{"id": "P2_01384", "en": "So they feed us nothing but this bland crap day in and day out. We could go hunting or something, but nooo, that would be too exciting. They bore you to tears on purpose so that any activity they give you seems exciting. People were always way excited to get called to the fathers' cabin. I wonder how much ass they were getting?", "cat": "dialogue", "ctx": "Rosaline.bbd neutralChat"}
+{"id": "P2_01385", "en": "Not a whole lot here, really. Nothing exciting at least.", "cat": "dialogue", "ctx": "Rosaline.bbd neutralIntro"}
+{"id": "P2_01386", "en": "Hah, oh sure. We'll just drift around, pissing off cults the isle over. Particularly if they're based around angry dragons.", "cat": "dialogue", "ctx": "Rosaline.bbd neutralRecruit"}
+{"id": "P2_01387", "en": "No kidding. I've had enough dragon cults for ... well for a while. A month, at least.", "cat": "dialogue", "ctx": "Rosaline.bbd neutralRefuse"}

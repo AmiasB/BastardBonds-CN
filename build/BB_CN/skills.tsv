@@ -1,0 +1,130 @@
+# skill description lines, matched on their own after the name
+Increases physical damage proportional to your Fight statistic.	按你的格斗属性成比例提高物理伤害。
+Doubles the physical bonus of your equipped weapon.	使已装备武器的物理加成翻倍。
+Your physical attacks increase your targets' risk.	你的物理攻击会提高目标的风险。
+Taking physical damage reduces your risk.	受到物理伤害会降低你的风险。
+Stacks with 'Advantage'	可与“优势”叠加。
+All enemies will hesitate more frequently.	所有敌人会更频繁地陷入犹豫。
+Your attacks cause enemies to recoil and lose their combat initiative.	你的攻击会使敌人退缩，并失去战斗先机。
+Raises base physical damage for you and all allies.	提高你与所有同伴的基础物理伤害。
+Reduces all enemies' base physical damage.	降低所有敌人的基础物理伤害。
+Doubles the protection bonus of your equipped armour.	使已装备护甲的防护加成翻倍。
+Adds temporary 'Invulnerable' status when you first start bleeding.	当你开始流血时，暂时获得“无敌”状态。
+Attackers generate more risk when attacking you.	攻击你的人会产生更多风险。
+Gain additional maximum hit points equal to your level.	获得等同于你的等级的额外生命值上限。
+Regenerate some hit points whenever you gain 'Defense' status.	每当你获得“防御”状态，回复一些生命值。
+You can attempt labour challenges.	你可以尝试劳作挑战。
+Food is twice as effective for you.	食物对你的效果翻倍。
+Your carrying load increases by one. Stacks with 'ExtraPockets' and 'MagicBag'.	你的负重增加一。可与“暗袋”和“魔袋”叠加。
+Regenerate some hit points whenever you complete a labour challenge	每当你以“良好”或更好的结果完成劳作挑战，
+with a 'Good' or better result.	便回复一些生命值。
+Reduces the damage you receive from a failed labour attempt.	降低劳作失败时你受到的伤害。
+Doubles your manpower contribution.	你的人力贡献翻倍。
+Your weapon attacks cannot kill enemies unless they are already near death.	除非敌人已经濒死，否则你的武器攻击无法杀死他们。
+Greatly improves the success rate of conscription attempts.	大幅提高征召的成功率。
+Improves your chances of landing a critical hit and increases the	提高你打出暴击的几率，并提高
+damage it deals. Works with both weapons and magic.	暴击造成的伤害。对武器和魔法都有效。
+Your movement rate increases by one.	你的移动力增加一。
+You can take another action immediately after using a dash action.	使用冲刺行动后，你可以立刻再进行一次行动。
+Generates less risk when you make physical or magical attacks.	你进行物理或魔法攻击时产生的风险更少。
+Unintelligent enemies will drop food if you strike the deathblow with a weapon.	若最后一击是你用武器打出的，没有智力的敌人会掉落食物。
+You deal dramatically increased damage to bloodied enemies.	你对重伤敌人造成的伤害大幅提高。
+Whenever you score a critical hit, your target immediately gains the 'Fumble' status.	每当你打出暴击，目标立即获得“失手”状态。
+Improves your chances of evading physical and magical attacks.	提高你闪避物理攻击和魔法攻击的几率。
+Line of sight to neutral creatures will not cause them to become hostile.	中立生物不会因进入你的视线而转为敌对。
+Your chances of evading physical and magical attacks dramatically	当你拥有“防御”状态时，闪避物理攻击和魔法攻击的几率
+improve whenever you have the 'Defense' status.	会大幅提高。
+Your enemies' risk dramatically increases whenever you evade their physical attacks.	每当你闪避敌人的物理攻击，其风险便大幅提高。
+Taking physical damage reduces your risk. Stacks with 'Counterstrike'	受到物理伤害会降低你的风险。可与“反击”叠加。
+You do not generate risk while moving, even when enemies are nearby.	移动时不产生风险，哪怕附近有敌人。
+You can attempt thwart challenges.	你可以尝试破解挑战。
+Your carrying load increases by one. Stacks with 'Mule' and 'MagicBag'.	你的负重增加一。可与“驮骡”和“魔袋”叠加。
+Greatly improves the success rate of ransom attempts.	大幅提高勒索赎金的成功率。
+You gain a piece of junk when you complete a thwart challenge with a 'Good' or better result.	以“良好”或更好的结果完成破解挑战时，你获得一件杂物。
+You gain some money when attacking enemies with weapons.	用武器攻击敌人时，你获得一些钱。
+Reduces the damage you receive from a failed thwart attempt.	降低破解失败时你受到的伤害。
+Increases your manpower contribution by one thousand points.	你的人力贡献增加一千点。
+Whenever a reckless action would result in a fumble, another attempt at that action is made.	鲁莽行动即将失手时，会再尝试一次该行动。
+Reduces risk when successful. Stacks with comradery.	成功时降低风险。可与战友情叠加。
+You can cast the spell 'Arcus' when enemies are outside of weapon range.	当敌人处于武器射程之外时，你可以施放法术“Arcus”。
+Arcus can be influenced by the mana of equipped weapons.	Arcus 会受已装备武器的魔力影响。
+Enemies fumble and lose defensive stance whenever they fully ward against your spells.	每当敌人以护佑完全挡住你的法术，他们会失手并失去防御姿态。
+The primary target of your spells gain lingering ailments.	你的法术的主要目标会染上持续的病痛。
+You can also energize allies to heal them and grant enhancing effects.	你也可以为同伴充能，治疗他们并赋予强化效果。
+Whenever your spells deal damage to an enemy, you regenerate hit points	每当你的法术伤害到敌人，你回复的生命值
+equal to a portion of the damage.	相当于其中一部分伤害。
+Your offensive spells explode, damaging enemies in a tight radius.	你的攻击性法术会爆炸，伤害一小圈内的敌人。
+Your spells generate considerably less risk than before and can be cast at shorter range.	你的法术产生的风险比以前少得多，并且可以在更近的距离施放。
+The base damage of spells cast against you is reduced by a random amount.	对你施放的法术，基础伤害会按随机幅度降低。
+This can reduce the spell to zero damage.	这可以把法术伤害降到零。
+You and adjacent allies regenerate some hit points whenever you gain the 'Defense' status.	每当你获得“防御”状态，你和相邻的同伴回复一些生命值。
+The power of your Healing Aura is improved.	你的治愈光环威力提高。
+Whenever you fully ward a spell, you regenerate some hit points.	每当你以护佑完全挡住一道法术，你回复一些生命值。
+When you consume a potion, it affects all party members.	你服用药剂时，效果作用于所有队员。
+When you gain the 'Defense' status, all allies' risk is eliminated.	当你获得“防御”状态时，所有同伴的风险被清除。
+Your healing aura now purges all curses from adjacent allies.	你的治愈光环现在会净化相邻同伴身上的全部诅咒。
+Whenever you fully ward a spell, the enemy who cast it immediately gains the 'Fumble' status.	每当你以护佑完全挡住一道法术，施放它的敌人立即获得“失手”状态。
+You can attempt weave challenges.	你可以尝试编织挑战。
+You can manipulate items, objects, and doors at long distance.	你可以远距离操纵物品、物件和门。
+In combat, you and your allies can change equipment on each others' turns.	战斗中，你和同伴可以在彼此的回合里更换装备。
+Your carrying load increases by one. Stacks with 'Mule' and 'ExtraPockets'.	你的负重增加一。可与“驮骡”和“暗袋”叠加。
+You can attempt negotiation with any creature, regardless of intelligence.	你可以与任何生物交涉，不论其是否有智力。
+Increases your manpower contribution by an amount equal to your level times your band size.	你的人力贡献增加量等于你的等级乘以团伙人数。
+Personal light level increases dramatically.	个人光照等级大幅提高。
+You create a potion whenever you complete a weave challenge	每当你以“良好”或更好的结果完成编织挑战，
+Your carrying load is maximized at five.	你的负重被提升到上限五。
+You can attempt to negotiate with animals.	你可以尝试与动物交涉。
+You are resistant to Lux, but take additional damage from Max and Pox.	你对 Lux 有抗性，但会受到 Max 与 Pox 的额外伤害。
+Your natural magic is Luxus instead of Arcus.	你的天生魔法是 Luxus，而非 Arcus。
+You are resistant to Max, but take additional damage from Lux and Nix.	你对 Max 有抗性，但会受到 Lux 与 Nix 的额外伤害。
+Your natural magic is Maxus instead of Arcus.	你的天生魔法是 Maxus，而非 Arcus。
+You are resistant to Nix, but take additional damage from Max and Rex.	你对 Nix 有抗性，但会受到 Max 与 Rex 的额外伤害。
+Your natural magic is Nixus instead of Arcus.	你的天生魔法是 Nixus，而非 Arcus。
+You are resistant to Pox, but take additional damage from Lux and Rex.	你对 Pox 有抗性，但会受到 Lux 与 Rex 的额外伤害。
+Your natural magic is Poxus instead of Arcus.	你的天生魔法是 Poxus，而非 Arcus。
+You are resistant to Rex, but take additional damage from Nix and Pox.	你对 Rex 有抗性，但会受到 Nix 与 Pox 的额外伤害。
+Your natural magic is Rexus instead of Arcus.	你的天生魔法是 Rexus，而非 Arcus。
+Creatures accumulate risk whenever they begin a turn next to you,	生物在你身旁开始回合时会积累风险，
+and they may sometimes fumble when making normal attacks against you.	并且它们对你发动普通攻击时有时会失手。
+Your normal, unarmed attacks are made at range.	你的普通徒手攻击变为远程攻击。
+You restore some health whenever a combatant dies.	每当有战斗者死亡，你回复一些生命值。
+Your normal attacks are easier for your enemies to dodge.	你的普通攻击更容易被敌人闪避。
+Your normal attacks affect all adjacent foes.	你的普通攻击会影响所有相邻的敌人。
+You have fewer hit points.	你的生命值更少。
+You never hesitate in combat.	你在战斗中从不犹豫。
+You and all your allies' deal additional damage with normal and magical attacks.	你和所有同伴的普通攻击与魔法攻击造成额外伤害。
+Your magical attacks generate significantly reduced risk.	你的魔法攻击产生的风险显著降低。
+and your normal attacks may sometimes cause your enemies to fumble.	并且你的普通攻击有时会使敌人失手。
+Your health regenerates quickly while you are in combat.	战斗中，你的生命值回复得很快。
+You have additional hit points.	你拥有额外的生命值。
+You take less damage from magical attacks.	你受到的魔法攻击伤害更低。
+You can dodge attacks more frequently.	你可以更频繁地闪避攻击。
+You take less damage from normal attacks.	你受到的普通攻击伤害更低。
+Your normal attacks generate risk in your targets.	你的普通攻击会使目标积累风险。
+Your normal attacks do additional damage.	你的普通攻击造成额外伤害。
+You score critical hits more often.	你更常打出暴击。
+You regenerate some health whenever a combatant dies,	每当有战斗者死亡，你回复一些生命值，
+and you regenerate some health whenever your normal attacks deal damage.	并且每当你的普通攻击造成伤害，你也回复一些生命值。
+Your normal attacks inflict poison in your enemies.	你的普通攻击会使敌人中毒。
+Your normal attacks inflict pain in your enemies.	你的普通攻击会使敌人陷入剧痛。
+Your normal attacks daze your enemies.	你的普通攻击会使敌人眩晕。
+Your normal attacks inflict nexus in your enemies.	你的普通攻击会对敌人施加连结。
+Your normal attacks entangle your enemies.	你的普通攻击会缠绕敌人。
+Creatures accumulate risk whenever they begin a turn next to you.	生物在你身旁开始回合时会积累风险。
+Creatures take damage whenever they begin a turn next to you.	生物在你身旁开始回合时会受到伤害。
+Your innocence is a source of strength. You receive a bonus to your maximum hit points.	你的无辜是力量的源泉。你的生命值上限获得加成。
+Sometimes it just gets to be too much and you need to punch something.	有时候实在忍无可忍，你就得砸点什么。
+You deal extra damage with physical attacks.	你的物理攻击造成额外伤害。
+You know how to stuff your purse, legitimately or otherwise.	你知道怎么把钱袋塞满，不管走的是正路还是歪路。
+You gain a small amount of money when attacking enemies.	攻击敌人时，你会得到少量的钱。
+You have no respect for any so-called 'God' and you defy the supernatural.	你对任何所谓的“神”毫无敬意，也蔑视超自然之物。
+You have no respect for anything weaker than you.	你瞧不起任何比你弱的东西。
+Your critical hits are more deadly.	你的暴击更加致命。
+You know how to work almost any situation to your advantage.	你知道如何让几乎任何局面都变得对自己有利。
+Your mind is far more vast than any of the simpletons who call you insane could realize.	你的心智远比那些骂你疯子的蠢货所能想象的更加广阔。
+You deal extra damage with magical attacks.	你的魔法攻击造成额外伤害。
+Your loyalties lie with you alone. You take less damage from physical attacks.	你的忠诚只属于你自己。你受到的物理攻击伤害更低。
+Your instincts sometimes get the better of you, but they fuel you endlessly.	你的本能有时会反过来支配你，却也源源不断地给你力量。
+You regenerate a small amount of hit points each turn.	每回合你回复少量生命值。
+You can convert magical energy into food.	你可以把魔力转化为食物。
+Dramatically increased hit points, as well as the effects of Dauntless. Special music for combat.	生命值大幅提高，并获得无畏的效果。战斗时播放特殊音乐。

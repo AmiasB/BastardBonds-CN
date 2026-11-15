@@ -1,0 +1,671 @@
+{"id": "P1_01332", "en": "Host", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01333", "en": "Arthrotan", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01334", "en": "Ashlord", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01335", "en": "Asterion", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01336", "en": "Aurochs", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01337", "en": "Baelor", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01338", "en": "Banshee", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01339", "en": "Bantam", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01340", "en": "Bogeyman", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01341", "en": "Fiend", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01342", "en": "Gargoyle", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01343", "en": "Ifreet", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01344", "en": "Ignigon", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01345", "en": "Imp", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01346", "en": "Incubus", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01347", "en": "Jorogumo", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01348", "en": "Netherlord", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01349", "en": "Overlord", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01350", "en": "Rakshasa", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01351", "en": "Succubus", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01352", "en": "Thrall", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01353", "en": "Typhon", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01354", "en": "Demon Lord", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01355", "en": "Draconian", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01356", "en": "Saurian", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01357", "en": "Poacher", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01358", "en": "Captain", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01359", "en": "Behemoth", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01360", "en": "Bile Exarch", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01361", "en": "Blablabla", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01362", "en": "Blade Spider", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01363", "en": "Dude", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01364", "en": "Boggart", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01365", "en": "Boneslime", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01366", "en": "Skulk", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01367", "en": "Boss Bandit", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01368", "en": "Fire Exarch", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01369", "en": "Flesh Golem", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01370", "en": "Hydra", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01371", "en": "Steel Exarch", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01372", "en": "Vampire Lord", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01373", "en": "Archivist", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01374", "en": "Bugbear", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01375", "en": "Neonate", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01376", "en": "Captain Arris", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01377", "en": "Catoblepas", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01378", "en": "Celebrant", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01379", "en": "Centaur Archer", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01380", "en": "Centaur Spearman", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01381", "en": "Cerberus", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01382", "en": "Chactotan", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01383", "en": "Chimaera", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01384", "en": "Executioner", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01385", "en": "Clay Golem", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01386", "en": "Corpugon", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01387", "en": "Courtier Arbiter", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01388", "en": "Courtier Auditor", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01389", "en": "Courtier Debutante", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01390", "en": "Courtier Jorogumo", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01391", "en": "Courtier Vampire", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01392", "en": "Crinos", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01393", "en": "Crone", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01394", "en": "Cyclops", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01395", "en": "Demon Creep", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01396", "en": "Derp Oni", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01397", "en": "Direbear", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01398", "en": "Direcrab", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01399", "en": "Direpottamus", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01400", "en": "Diretiger", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01401", "en": "Direwolf", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01402", "en": "Djinn", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01403", "en": "Dragon", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01404", "en": "Drake", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01405", "en": "Draugr", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01406", "en": "Dryad", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01407", "en": "Dullahan", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01408", "en": "Dungeon Guard", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01409", "en": "Smith", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01410", "en": "Ectoplast", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01411", "en": "Emperor Crab", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01412", "en": "Spriggan", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01413", "en": "Ettin", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01414", "en": "Pastor Evans", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01415", "en": "Hag", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01416", "en": "Spectator", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01417", "en": "Fomorian", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01418", "en": "Fresh Zombie", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01419", "en": "Lamia", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01420", "en": "Minotaur", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01421", "en": "Oni", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01422", "en": "Skeleton", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01423", "en": "Fury", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01424", "en": "Gevaudan", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01425", "en": "Phantom", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01426", "en": "Ghost", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01427", "en": "Gigajack", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01428", "en": "Gigas", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01429", "en": "Queen Glamig", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01430", "en": "Gnoll", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01431", "en": "Goblin Rogue", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01432", "en": "Goblin Fighter", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01433", "en": "Goblin Mage", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01434", "en": "Gorgon", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01435", "en": "Bruiser", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01436", "en": "Soldier", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01437", "en": "Conspirator", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01438", "en": "Gremlin", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01439", "en": "Grendel", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01440", "en": "Grotesque", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01441", "en": "Hagen", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01442", "en": "Harpy", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01443", "en": "Savage", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01444", "en": "Wildman", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01445", "en": "Patriarch", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01446", "en": "Werewolf", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01447", "en": "Cafe Owner", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01448", "en": "Strategist", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01449", "en": "Tactician", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01450", "en": "Hermit", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01451", "en": "Highwayman", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01452", "en": "Homunculus", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01453", "en": "Humbaba", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01454", "en": "Gatekeeper", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01455", "en": "Ice Exarch", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01456", "en": "Monolith", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01457", "en": "Shapeshifter", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01458", "en": "Iron Golem", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01459", "en": "Jotunn", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01460", "en": "King Jareth", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01461", "en": "Vigilante", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01462", "en": "Kobold", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01463", "en": "Lammasu", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01464", "en": "Landshark", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01465", "en": "Lantern Wight", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01466", "en": "Leatherworker", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01467", "en": "Misanthropist", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01468", "en": "Coil", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01469", "en": "Lord Leviathan", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01470", "en": "Lilim", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01471", "en": "Lilith", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01472", "en": "Llorona", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01473", "en": "Demon Lord Barrod", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01474", "en": "Mayor", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01475", "en": "Stormwitch", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01476", "en": "Youma", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01477", "en": "Manticore", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01478", "en": "Mimic", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01479", "en": "Mohrg", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01480", "en": "Mummy", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01481", "en": "Myconid", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01482", "en": "Noble Mimic", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01483", "en": "Primordial Ooze", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01484", "en": "Pygmy", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01485", "en": "Revenant", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01486", "en": "Ringleader", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01487", "en": "Ruffian", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01488", "en": "Sahaguin", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01489", "en": "Skinchanger", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01490", "en": "Troll", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01491", "en": "Utlunta", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01492", "en": "Wisp", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01493", "en": "Wraith", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01494", "en": "Zombie", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01495", "en": "Mammoth", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01496", "en": "Manaha", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01497", "en": "Denizen", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01498", "en": "Hostess", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01499", "en": "Local", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01500", "en": "Masseur", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01501", "en": "Mystic", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01502", "en": "Resident", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01503", "en": "Supplier", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01504", "en": "Matsutaka", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01505", "en": "Medusa", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01506", "en": "Moonrat", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01507", "en": "Murderer", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01508", "en": "Morlock", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01509", "en": "Mould", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01510", "en": "Scapegoat", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01511", "en": "Nidhogg", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01512", "en": "Lost Noblewoman", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01513", "en": "Nosferatu", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01514", "en": "Ogre", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01515", "en": "Orthros", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01516", "en": "Pastor", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01517", "en": "Pharoah", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01518", "en": "Plague Doctor", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01519", "en": "Plague Guard", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01520", "en": "Plague Officer", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01521", "en": "Pumphouse Client", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01522", "en": "Pumphouse Worker", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01523", "en": "Pumphouse Guard", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01524", "en": "Pumphouse Proprietor", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01525", "en": "Pumphouse Bouncer", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01526", "en": "Rakanratep", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01527", "en": "Infiltrator", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01528", "en": "Ratling", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01529", "en": "Root Eater", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01530", "en": "Vagrant", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01531", "en": "Sasquatch", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01532", "en": "Saurian Torchbearer", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01533", "en": "Scallywag", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01534", "en": "Shaitan", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01535", "en": "Charlatan", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01536", "en": "Shisaa", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01537", "en": "Silent Stranger", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01538", "en": "Siren", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01539", "en": "Slime", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01540", "en": "Sphinx", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01541", "en": "Starved Wolf", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01542", "en": "Titan", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01543", "en": "Stocks Guard", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01544", "en": "Stocks Officer", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01545", "en": "Surrogate", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01546", "en": "Testquatch", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01547", "en": "Goblin", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01548", "en": "Troglodyte Fighter", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01549", "en": "Troglodyte Mage", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01550", "en": "Troglodyte Rogue", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01551", "en": "Vampire", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01552", "en": "Madman", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01553", "en": "Wendigo", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01554", "en": "Whelk", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01555", "en": "Witch", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01556", "en": "Worg", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01557", "en": "Wyrm", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01558", "en": "Wyvern", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01559", "en": "Yeti", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01560", "en": "Shady Merchant", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01561", "en": "Zosark", "cat": "crime", "ctx": "crime an NPC is convicted of"}
+{"id": "P1_01562", "en": "Utility", "cat": "enum", "ctx": "enum Stat member name, shown in the UI via ToString() (often CamelCase without spaces)"}
+{"id": "P1_01563", "en": "Force", "cat": "enum", "ctx": "enum Stat member name, shown in the UI via ToString() (often CamelCase without spaces)"}
+{"id": "P1_01564", "en": "Guile", "cat": "enum", "ctx": "enum Stat member name, shown in the UI via ToString() (often CamelCase without spaces)"}
+{"id": "P1_01565", "en": "Magic", "cat": "enum", "ctx": "enum Stat member name, shown in the UI via ToString() (often CamelCase without spaces)"}
+{"id": "P1_01566", "en": "Normal", "cat": "enum", "ctx": "enum condition member name, shown in the UI via ToString() (often CamelCase without spaces)"}
+{"id": "P1_01567", "en": "Hesitant", "cat": "enum", "ctx": "enum condition member name, shown in the UI via ToString() (often CamelCase without spaces)"}
+{"id": "P1_01568", "en": "InvulnerableWane", "cat": "enum", "ctx": "enum condition member name, shown in the UI via ToString() (often CamelCase without spaces)"}
+{"id": "P1_01569", "en": "InvulnerableDone", "cat": "enum", "ctx": "enum condition member name, shown in the UI via ToString() (often CamelCase without spaces)"}
+{"id": "P1_01570", "en": "TurnOver", "cat": "enum", "ctx": "enum condition member name, shown in the UI via ToString() (often CamelCase without spaces)"}
+{"id": "P1_01571", "en": "Shadowcloak", "cat": "enum", "ctx": "enum condition member name, shown in the UI via ToString() (often CamelCase without spaces)"}
+{"id": "P1_01572", "en": "Lucky", "cat": "enum", "ctx": "enum condition member name, shown in the UI via ToString() (often CamelCase without spaces)"}
+{"id": "P1_01573", "en": "Unlucky", "cat": "enum", "ctx": "enum condition member name, shown in the UI via ToString() (often CamelCase without spaces)"}
+{"id": "P1_01574", "en": "Meteoric", "cat": "enum", "ctx": "enum condition member name, shown in the UI via ToString() (often CamelCase without spaces)"}
+{"id": "P1_01575", "en": "Rape", "cat": "enum", "ctx": "enum crime member name, shown in the UI via ToString() (often CamelCase without spaces)"}
+{"id": "P1_01576", "en": "Accessory", "cat": "enum", "ctx": "enum itemSlot member name, shown in the UI via ToString() (often CamelCase without spaces)"}
+{"id": "P1_01577", "en": "Armour", "cat": "enum", "ctx": "enum itemSlot member name, shown in the UI via ToString() (often CamelCase without spaces)"}
+{"id": "P1_01578", "en": "Artifact", "cat": "enum", "ctx": "enum itemSlot member name, shown in the UI via ToString() (often CamelCase without spaces)"}
+{"id": "P1_01579", "en": "Food", "cat": "enum", "ctx": "enum itemSlot member name, shown in the UI via ToString() (often CamelCase without spaces)"}
+{"id": "P1_01580", "en": "Supplies", "cat": "enum", "ctx": "enum itemSlot member name, shown in the UI via ToString() (often CamelCase without spaces)"}
+{"id": "P1_01581", "en": "Weapon", "cat": "enum", "ctx": "enum itemSlot member name, shown in the UI via ToString() (often CamelCase without spaces)"}
+{"id": "P1_01582", "en": "Junk", "cat": "enum", "ctx": "enum itemSlot member name, shown in the UI via ToString() (often CamelCase without spaces)"}
+{"id": "P1_01583", "en": "Lux", "cat": "enum", "ctx": "enum magicType member name, shown in the UI via ToString() (often CamelCase without spaces)"}
+{"id": "P1_01584", "en": "Nix", "cat": "enum", "ctx": "enum magicType member name, shown in the UI via ToString() (often CamelCase without spaces)"}
+{"id": "P1_01585", "en": "Pox", "cat": "enum", "ctx": "enum magicType member name, shown in the UI via ToString() (often CamelCase without spaces)"}
+{"id": "P1_01586", "en": "Rex", "cat": "enum", "ctx": "enum magicType member name, shown in the UI via ToString() (often CamelCase without spaces)"}
+{"id": "P1_01587", "en": "FightSkills", "cat": "enum", "ctx": "enum skill member name, shown in the UI via ToString() (often CamelCase without spaces)"}
+{"id": "P1_01588", "en": "Strength", "cat": "enum", "ctx": "enum skill member name, shown in the UI via ToString() (often CamelCase without spaces)"}
+{"id": "P1_01589", "en": "OverPower", "cat": "enum", "ctx": "enum skill member name, shown in the UI via ToString() (often CamelCase without spaces)"}
+{"id": "P1_01590", "en": "Counterstrike", "cat": "enum", "ctx": "enum skill member name, shown in the UI via ToString() (often CamelCase without spaces)"}
+{"id": "P1_01591", "en": "Wielder", "cat": "enum", "ctx": "enum skill member name, shown in the UI via ToString() (often CamelCase without spaces)"}
+{"id": "P1_01592", "en": "Intimidating", "cat": "enum", "ctx": "enum skill member name, shown in the UI via ToString() (often CamelCase without spaces)"}
+{"id": "P1_01593", "en": "Warlord", "cat": "enum", "ctx": "enum skill member name, shown in the UI via ToString() (often CamelCase without spaces)"}
+{"id": "P1_01594", "en": "GuardSkills", "cat": "enum", "ctx": "enum skill member name, shown in the UI via ToString() (often CamelCase without spaces)"}
+{"id": "P1_01595", "en": "ActiveDefense", "cat": "enum", "ctx": "enum skill member name, shown in the UI via ToString() (often CamelCase without spaces)"}
+{"id": "P1_01596", "en": "Longevity", "cat": "enum", "ctx": "enum skill member name, shown in the UI via ToString() (often CamelCase without spaces)"}
+{"id": "P1_01597", "en": "SecondSkin", "cat": "enum", "ctx": "enum skill member name, shown in the UI via ToString() (often CamelCase without spaces)"}
+{"id": "P1_01598", "en": "Meatshield", "cat": "enum", "ctx": "enum skill member name, shown in the UI via ToString() (often CamelCase without spaces)"}
+{"id": "P1_01599", "en": "Indomitable", "cat": "enum", "ctx": "enum skill member name, shown in the UI via ToString() (often CamelCase without spaces)"}
+{"id": "P1_01600", "en": "Toughness", "cat": "enum", "ctx": "enum skill member name, shown in the UI via ToString() (often CamelCase without spaces)"}
+{"id": "P1_01601", "en": "LabourSkills", "cat": "enum", "ctx": "enum skill member name, shown in the UI via ToString() (often CamelCase without spaces)"}
+{"id": "P1_01602", "en": "Hardworking", "cat": "enum", "ctx": "enum skill member name, shown in the UI via ToString() (often CamelCase without spaces)"}
+{"id": "P1_01603", "en": "Stamina", "cat": "enum", "ctx": "enum skill member name, shown in the UI via ToString() (often CamelCase without spaces)"}
+{"id": "P1_01604", "en": "Mule", "cat": "enum", "ctx": "enum skill member name, shown in the UI via ToString() (often CamelCase without spaces)"}
+{"id": "P1_01605", "en": "GetPumped", "cat": "enum", "ctx": "enum skill member name, shown in the UI via ToString() (often CamelCase without spaces)"}
+{"id": "P1_01606", "en": "Healthy", "cat": "enum", "ctx": "enum skill member name, shown in the UI via ToString() (often CamelCase without spaces)"}
+{"id": "P1_01607", "en": "DownToEarth", "cat": "enum", "ctx": "enum skill member name, shown in the UI via ToString() (often CamelCase without spaces)"}
+{"id": "P1_01608", "en": "HuntSkills", "cat": "enum", "ctx": "enum skill member name, shown in the UI via ToString() (often CamelCase without spaces)"}
+{"id": "P1_01609", "en": "Dangerous", "cat": "enum", "ctx": "enum skill member name, shown in the UI via ToString() (often CamelCase without spaces)"}
+{"id": "P1_01610", "en": "Graceful", "cat": "enum", "ctx": "enum skill member name, shown in the UI via ToString() (often CamelCase without spaces)"}
+{"id": "P1_01611", "en": "Butcher", "cat": "enum", "ctx": "enum skill member name, shown in the UI via ToString() (often CamelCase without spaces)"}
+{"id": "P1_01612", "en": "Merciless", "cat": "enum", "ctx": "enum skill member name, shown in the UI via ToString() (often CamelCase without spaces)"}
+{"id": "P1_01613", "en": "Staggering", "cat": "enum", "ctx": "enum skill member name, shown in the UI via ToString() (often CamelCase without spaces)"}
+{"id": "P1_01614", "en": "DodgeSkills", "cat": "enum", "ctx": "enum skill member name, shown in the UI via ToString() (often CamelCase without spaces)"}
+{"id": "P1_01615", "en": "Sidestep", "cat": "enum", "ctx": "enum skill member name, shown in the UI via ToString() (often CamelCase without spaces)"}
+{"id": "P1_01616", "en": "Battledance", "cat": "enum", "ctx": "enum skill member name, shown in the UI via ToString() (often CamelCase without spaces)"}
+{"id": "P1_01617", "en": "Untouchable", "cat": "enum", "ctx": "enum skill member name, shown in the UI via ToString() (often CamelCase without spaces)"}
+{"id": "P1_01618", "en": "Advantage", "cat": "enum", "ctx": "enum skill member name, shown in the UI via ToString() (often CamelCase without spaces)"}
+{"id": "P1_01619", "en": "WhisperWalk", "cat": "enum", "ctx": "enum skill member name, shown in the UI via ToString() (often CamelCase without spaces)"}
+{"id": "P1_01620", "en": "ThwartSkills", "cat": "enum", "ctx": "enum skill member name, shown in the UI via ToString() (often CamelCase without spaces)"}
+{"id": "P1_01621", "en": "Crafty", "cat": "enum", "ctx": "enum skill member name, shown in the UI via ToString() (often CamelCase without spaces)"}
+{"id": "P1_01622", "en": "ExtraPockets", "cat": "enum", "ctx": "enum skill member name, shown in the UI via ToString() (often CamelCase without spaces)"}
+{"id": "P1_01623", "en": "Repurpose", "cat": "enum", "ctx": "enum skill member name, shown in the UI via ToString() (often CamelCase without spaces)"}
+{"id": "P1_01624", "en": "Shrewd", "cat": "enum", "ctx": "enum skill member name, shown in the UI via ToString() (often CamelCase without spaces)"}
+{"id": "P1_01625", "en": "Reflexive", "cat": "enum", "ctx": "enum skill member name, shown in the UI via ToString() (often CamelCase without spaces)"}
+{"id": "P1_01626", "en": "LuckOfTheDevil", "cat": "enum", "ctx": "enum skill member name, shown in the UI via ToString() (often CamelCase without spaces)"}
+{"id": "P1_01627", "en": "BlastSkills", "cat": "enum", "ctx": "enum skill member name, shown in the UI via ToString() (often CamelCase without spaces)"}
+{"id": "P1_01628", "en": "Arcus", "cat": "enum", "ctx": "enum skill member name, shown in the UI via ToString() (often CamelCase without spaces)"}
+{"id": "P1_01629", "en": "LifeDrain", "cat": "enum", "ctx": "enum skill member name, shown in the UI via ToString() (often CamelCase without spaces)"}
+{"id": "P1_01630", "en": "PsychicRipple", "cat": "enum", "ctx": "enum skill member name, shown in the UI via ToString() (often CamelCase without spaces)"}
+{"id": "P1_01631", "en": "Imarcus", "cat": "enum", "ctx": "enum skill member name, shown in the UI via ToString() (often CamelCase without spaces)"}
+{"id": "P1_01632", "en": "Arximum", "cat": "enum", "ctx": "enum skill member name, shown in the UI via ToString() (often CamelCase without spaces)"}
+{"id": "P1_01633", "en": "Archmage", "cat": "enum", "ctx": "enum skill member name, shown in the UI via ToString() (often CamelCase without spaces)"}
+{"id": "P1_01634", "en": "WardSkills", "cat": "enum", "ctx": "enum skill member name, shown in the UI via ToString() (often CamelCase without spaces)"}
+{"id": "P1_01635", "en": "HealingAura", "cat": "enum", "ctx": "enum skill member name, shown in the UI via ToString() (often CamelCase without spaces)"}
+{"id": "P1_01636", "en": "Dispersal", "cat": "enum", "ctx": "enum skill member name, shown in the UI via ToString() (often CamelCase without spaces)"}
+{"id": "P1_01637", "en": "Conversion", "cat": "enum", "ctx": "enum skill member name, shown in the UI via ToString() (often CamelCase without spaces)"}
+{"id": "P1_01638", "en": "Backlash", "cat": "enum", "ctx": "enum skill member name, shown in the UI via ToString() (often CamelCase without spaces)"}
+{"id": "P1_01639", "en": "EnergyWave", "cat": "enum", "ctx": "enum skill member name, shown in the UI via ToString() (often CamelCase without spaces)"}
+{"id": "P1_01640", "en": "Apothecary", "cat": "enum", "ctx": "enum skill member name, shown in the UI via ToString() (often CamelCase without spaces)"}
+{"id": "P1_01641", "en": "WeaveSkills", "cat": "enum", "ctx": "enum skill member name, shown in the UI via ToString() (often CamelCase without spaces)"}
+{"id": "P1_01642", "en": "Ritualist", "cat": "enum", "ctx": "enum skill member name, shown in the UI via ToString() (often CamelCase without spaces)"}
+{"id": "P1_01643", "en": "Lambent", "cat": "enum", "ctx": "enum skill member name, shown in the UI via ToString() (often CamelCase without spaces)"}
+{"id": "P1_01644", "en": "Alchemy", "cat": "enum", "ctx": "enum skill member name, shown in the UI via ToString() (often CamelCase without spaces)"}
+{"id": "P1_01645", "en": "MagicBag", "cat": "enum", "ctx": "enum skill member name, shown in the UI via ToString() (often CamelCase without spaces)"}
+{"id": "P1_01646", "en": "Mindspeak", "cat": "enum", "ctx": "enum skill member name, shown in the UI via ToString() (often CamelCase without spaces)"}
+{"id": "P1_01647", "en": "Telekinetic", "cat": "enum", "ctx": "enum skill member name, shown in the UI via ToString() (often CamelCase without spaces)"}
+{"id": "P1_01648", "en": "MonsterSkills", "cat": "enum", "ctx": "enum skill member name, shown in the UI via ToString() (often CamelCase without spaces)"}
+{"id": "P1_01649", "en": "PackMule", "cat": "enum", "ctx": "enum skill member name, shown in the UI via ToString() (often CamelCase without spaces)"}
+{"id": "P1_01650", "en": "BeastTongue", "cat": "enum", "ctx": "enum skill member name, shown in the UI via ToString() (often CamelCase without spaces)"}
+{"id": "P1_01651", "en": "Command", "cat": "enum", "ctx": "enum skill member name, shown in the UI via ToString() (often CamelCase without spaces)"}
+{"id": "P1_01652", "en": "Luxsoul", "cat": "enum", "ctx": "enum skill member name, shown in the UI via ToString() (often CamelCase without spaces)"}
+{"id": "P1_01653", "en": "Maxsoul", "cat": "enum", "ctx": "enum skill member name, shown in the UI via ToString() (often CamelCase without spaces)"}
+{"id": "P1_01654", "en": "Nixsoul", "cat": "enum", "ctx": "enum skill member name, shown in the UI via ToString() (often CamelCase without spaces)"}
+{"id": "P1_01655", "en": "Poxsoul", "cat": "enum", "ctx": "enum skill member name, shown in the UI via ToString() (often CamelCase without spaces)"}
+{"id": "P1_01656", "en": "Rexsoul", "cat": "enum", "ctx": "enum skill member name, shown in the UI via ToString() (often CamelCase without spaces)"}
+{"id": "P1_01657", "en": "Clumsy", "cat": "enum", "ctx": "enum skill member name, shown in the UI via ToString() (often CamelCase without spaces)"}
+{"id": "P1_01658", "en": "Flurry", "cat": "enum", "ctx": "enum skill member name, shown in the UI via ToString() (often CamelCase without spaces)"}
+{"id": "P1_01659", "en": "Fragile", "cat": "enum", "ctx": "enum skill member name, shown in the UI via ToString() (often CamelCase without spaces)"}
+{"id": "P1_01660", "en": "Inspiring", "cat": "enum", "ctx": "enum skill member name, shown in the UI via ToString() (often CamelCase without spaces)"}
+{"id": "P1_01661", "en": "Mana", "cat": "enum", "ctx": "enum skill member name, shown in the UI via ToString() (often CamelCase without spaces)"}
+{"id": "P1_01662", "en": "Regeneration", "cat": "enum", "ctx": "enum skill member name, shown in the UI via ToString() (often CamelCase without spaces)"}
+{"id": "P1_01663", "en": "Robust", "cat": "enum", "ctx": "enum skill member name, shown in the UI via ToString() (often CamelCase without spaces)"}
+{"id": "P1_01664", "en": "Saturated", "cat": "enum", "ctx": "enum skill member name, shown in the UI via ToString() (often CamelCase without spaces)"}
+{"id": "P1_01665", "en": "Slippery", "cat": "enum", "ctx": "enum skill member name, shown in the UI via ToString() (often CamelCase without spaces)"}
+{"id": "P1_01666", "en": "Solid", "cat": "enum", "ctx": "enum skill member name, shown in the UI via ToString() (often CamelCase without spaces)"}
+{"id": "P1_01667", "en": "Jarring", "cat": "enum", "ctx": "enum skill member name, shown in the UI via ToString() (often CamelCase without spaces)"}
+{"id": "P1_01668", "en": "Overwhelming", "cat": "enum", "ctx": "enum skill member name, shown in the UI via ToString() (often CamelCase without spaces)"}
+{"id": "P1_01669", "en": "Vicious", "cat": "enum", "ctx": "enum skill member name, shown in the UI via ToString() (often CamelCase without spaces)"}
+{"id": "P1_01670", "en": "Vampiric", "cat": "enum", "ctx": "enum skill member name, shown in the UI via ToString() (often CamelCase without spaces)"}
+{"id": "P1_01671", "en": "Venomous", "cat": "enum", "ctx": "enum skill member name, shown in the UI via ToString() (often CamelCase without spaces)"}
+{"id": "P1_01672", "en": "Painful", "cat": "enum", "ctx": "enum skill member name, shown in the UI via ToString() (often CamelCase without spaces)"}
+{"id": "P1_01673", "en": "Paralytic", "cat": "enum", "ctx": "enum skill member name, shown in the UI via ToString() (often CamelCase without spaces)"}
+{"id": "P1_01674", "en": "Catalytic", "cat": "enum", "ctx": "enum skill member name, shown in the UI via ToString() (often CamelCase without spaces)"}
+{"id": "P1_01675", "en": "Hobbling", "cat": "enum", "ctx": "enum skill member name, shown in the UI via ToString() (often CamelCase without spaces)"}
+{"id": "P1_01676", "en": "Unsettling", "cat": "enum", "ctx": "enum skill member name, shown in the UI via ToString() (often CamelCase without spaces)"}
+{"id": "P1_01677", "en": "ViolentAura", "cat": "enum", "ctx": "enum skill member name, shown in the UI via ToString() (often CamelCase without spaces)"}
+{"id": "P1_01678", "en": "Dauntless", "cat": "enum", "ctx": "enum skill member name, shown in the UI via ToString() (often CamelCase without spaces)"}
+{"id": "P1_01679", "en": "Archer", "cat": "enum", "ctx": "enum skill member name, shown in the UI via ToString() (often CamelCase without spaces)"}
+{"id": "P1_01680", "en": "HeroSkills", "cat": "enum", "ctx": "enum skill member name, shown in the UI via ToString() (often CamelCase without spaces)"}
+{"id": "P1_01681", "en": "Gustomancy", "cat": "enum", "ctx": "enum skill member name, shown in the UI via ToString() (often CamelCase without spaces)"}
+{"id": "P1_01682", "en": "Boss", "cat": "enum", "ctx": "enum skill member name, shown in the UI via ToString() (often CamelCase without spaces)"}
+{"id": "P1_01683", "en": "Solaris", "cat": "enum", "ctx": "enum skill member name, shown in the UI via ToString() (often CamelCase without spaces)"}
+{"id": "P1_01684", "en": "Halex", "cat": "enum", "ctx": "enum skill member name, shown in the UI via ToString() (often CamelCase without spaces)"}
+{"id": "P1_01685", "en": "Helpless", "cat": "enum", "ctx": "enum skill member name, shown in the UI via ToString() (often CamelCase without spaces)"}
+{"id": "P1_01686", "en": "LeviathanArm", "cat": "enum", "ctx": "enum skill member name, shown in the UI via ToString() (often CamelCase without spaces)"}
+{"id": "P1_01687", "en": "Leviathan", "cat": "enum", "ctx": "enum skill member name, shown in the UI via ToString() (often CamelCase without spaces)"}
+{"id": "P1_01688", "en": "Torch", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01689", "en": "Plank Shield", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01690", "en": "Brass Shield", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01691", "en": "Crest Shield", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01692", "en": "Fur Boots", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01693", "en": "Soft Shoes", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01694", "en": "Plate Boots", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01695", "en": "Lacquer Helm", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01696", "en": "Traveler's Hat", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01697", "en": "Silk Gauntlet", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01698", "en": "Vambrace", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01699", "en": "Amulet", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01700", "en": "Golden Mask", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01701", "en": "Wreath", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01702", "en": "Ornamental Helmet", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01703", "en": "Ornamental Shield", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01704", "en": "Alacritous Boots", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01705", "en": "Knotted Rope", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01706", "en": "Lambent Crown", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01707", "en": "Bond Brooch", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01708", "en": "Luxic Lense", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01709", "en": "Poxic Lense", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01710", "en": "Maxic Lense", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01711", "en": "Nixic Lense", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01712", "en": "Rexic Lense", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01713", "en": "Glamig's Crown", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01714", "en": "Borf's Amulet", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01715", "en": "Vestal's Amulet", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01716", "en": "Bond Token", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01717", "en": "Vengeful Clasp", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01718", "en": "Howl", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01719", "en": "Cruel Treads", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01720", "en": "Comforting Boots", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01721", "en": "Mouldy Shield", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01722", "en": "Dark Ruby", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01723", "en": "Serenity Gem", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01724", "en": "Cannonball", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01725", "en": "Fine Fur Boots", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01726", "en": "Connection Pin", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01727", "en": "Floral Oil", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01728", "en": "Mood Ring", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01729", "en": "Endless Ankh", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01730", "en": "Silk Culottes", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01731", "en": "Stud Brief", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01732", "en": "Thigh Plate", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01733", "en": "Plate Cuirass", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01734", "en": "Body Harness", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01735", "en": "Plush Vest", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01736", "en": "Mystic Thong", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01737", "en": "Lodestone Loinguard", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01738", "en": "Comfy Undies", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01739", "en": "Burlap Buttsack", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01740", "en": "Strider Chaps", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01741", "en": "Maleficar Plate", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01742", "en": "Icarus Plate", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01743", "en": "Masochist's Cage", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01744", "en": "Calamity Buckle", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01745", "en": "Wizard Cape", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01746", "en": "Shadow Wrap", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01747", "en": "Protector Pants", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01748", "en": "Captain's Culottes", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01749", "en": "Minister's Gown", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01750", "en": "Pretty Panties", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01751", "en": "Nazar's Embrace", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01752", "en": "Sacred Branch", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01753", "en": "Hourglass Plate", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01754", "en": "Antique Lamp", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01755", "en": "Antique Chalice", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01756", "en": "Antique Coins", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01757", "en": "Batwing Plate", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01758", "en": "Realistic Loaf", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01759", "en": "Realistic Cutlette", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01760", "en": "Realistic Tarte", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01761", "en": "Arkasin Humour", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01762", "en": "Klarthus Humour", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01763", "en": "Chrun Humour", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01764", "en": "Zias Humour", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01765", "en": "Arpa Humour", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01766", "en": "Sanctified Jewels", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01767", "en": "Sunken Prayer", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01768", "en": "Misshapen Bezoar", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01769", "en": "Grand Bezoar", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01770", "en": "Bezoar Buckle", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01771", "en": "Bezoar Ring", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01772", "en": "Frico's Key", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01773", "en": "Foreman's Key", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01774", "en": "Logus' Key", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01775", "en": "Mustard Pretzel", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01776", "en": "Roast Chicken", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01777", "en": "Quiche Lorraine", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01778", "en": "Grilled Ribeye", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01779", "en": "Honey Beer", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01780", "en": "Bacon Club", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01781", "en": "Hearty Chili", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01782", "en": "Bland Mushroom", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01783", "en": "Stale Mead", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01784", "en": "Dry Pretzel", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01785", "en": "Soggy Sandwich", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01786", "en": "Dry Turkey", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01787", "en": "Bland Soup", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01788", "en": "Chewy Quiche", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01789", "en": "Hard Crust", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01790", "en": "Burnt Steak", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01791", "en": "Fresh Sourdough", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01792", "en": "Ciabatta", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01793", "en": "Almond Cookie", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01794", "en": "White Truffle", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01795", "en": "Raspberry Tea", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01796", "en": "Four Course Meal", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01797", "en": "Black Forest Gateau", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01798", "en": "Gummy Emerald", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01799", "en": "Jam Heart", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01800", "en": "Bitter Mushroom", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01801", "en": "Smooth Truffle", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01802", "en": "Crisp Lager", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01803", "en": "Monte Cristo", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01804", "en": "Creamy Chowder", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01805", "en": "Moist Cornbread", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01806", "en": "Braised Duck", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01807", "en": "Pepper Quiche", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01808", "en": "Smoked Tenderloin", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01809", "en": "Shakshouka", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01810", "en": "Grilled Swordfish", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01811", "en": "Humanoid Skull", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01812", "en": "Painted Chalice", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01813", "en": "Weighted Cog", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01814", "en": "Shattered Fragment", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01815", "en": "Glass Jewel", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01816", "en": "Key", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01817", "en": "Tarnished Key", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01818", "en": "Gold Lock", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01819", "en": "Rust Remover", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01820", "en": "Delicate Wire", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01821", "en": "Depleted Battery", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01822", "en": "Smooth Bearing", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01823", "en": "Nuts and Bolts", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01824", "en": "Mana Repository", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01825", "en": "Smooth Pebble", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01826", "en": "Mana Battery", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01827", "en": "Elixir Vitae", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01828", "en": "Unfinished Elixir", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01829", "en": "Healing Draught", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01830", "en": "Golden Philter", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01831", "en": "Wine Tincture", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01832", "en": "Love Potion", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01833", "en": "Coagulated Fluid", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01834", "en": "Rift", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01835", "en": "Fang", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01836", "en": "Scimitar", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01837", "en": "Frenzy", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01838", "en": "Duelist", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01839", "en": "Icarus", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01840", "en": "Trace", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01841", "en": "Sever", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01842", "en": "Grimoire Halex", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01843", "en": "Grimoire Solaris", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01844", "en": "Ornamental Sword", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01845", "en": "Crusader", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01846", "en": "Ciz's Guisarme", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01847", "en": "Vulcan", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01848", "en": "Triton", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01849", "en": "Tendril", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01850", "en": "Synapse", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01851", "en": "Harvest", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01852", "en": "Charon", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01853", "en": "Yggdrassil", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01854", "en": "Bifrost", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01855", "en": "Sumptuous Garden", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01856", "en": "Commanding Oak", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01857", "en": "Holy Pickaxe", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01858", "en": "Ritual Knife", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01859", "en": "Shadow Psalm", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01860", "en": "Victor's Axe", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01861", "en": "Cold Blade", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01862", "en": "Groom's Noose", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01863", "en": "Telekine's Knife", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01864", "en": "Bitter Blade", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01865", "en": "Chocolatier Rod", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01866", "en": "Encyclopedia", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01867", "en": "Captain's Cutlass", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01868", "en": "Glamig's Hairbrush", "cat": "item", "ctx": "item name (catalogue)"}
+{"id": "P1_01869", "en": "A place that is ever shifting. It's almost as though it's some kind of debug area. ", "cat": "location-desc", "ctx": "world map location description"}
+{"id": "P1_01870", "en": "This prison is built inside of an ancient fortress. It was with no small amount of luck that you escaped the grounds, and returning would likely be suicidal.", "cat": "location-desc", "ctx": "world map location description"}
+{"id": "P1_01871", "en": "An opening in the cliff face leads to a twisting tunnel. A way through the mountains, perhaps?", "cat": "location-desc", "ctx": "world map location description"}
+{"id": "P1_01872", "en": "A sheltered burrow in the face of the cliff. ", "cat": "location-desc", "ctx": "world map location description"}
+{"id": "P1_01873", "en": "The entrance to this place is in poor repair, but it seems as though someone has made an attempt to tidy it up. ", "cat": "location-desc", "ctx": "world map location description"}
+{"id": "P1_01874", "en": "A lot of info could be stored here. I wonder how much is too much?", "cat": "location-desc", "ctx": "world map location description"}
+{"id": "P1_01875", "en": "This tomb is deocated in lavish carvings. Judging by the imagery, the person buried here was a blacksmith of some renown. ", "cat": "location-desc", "ctx": "world map location description"}
+{"id": "P1_01876", "en": "A pathway winding through seaside caves. Tidal pools, difficult footing, and a salty chill make this area uninviting. ", "cat": "location-desc", "ctx": "world map location description"}
+{"id": "P1_01877", "en": "A small, disused marina. It's a decent enough shelter, but it clearly hasn't been used in a long, long time.", "cat": "location-desc", "ctx": "world map location description"}
+{"id": "P1_01878", "en": "This grand shipyard must once have produced many fine ships. There are a few husks remaining, some of them still floating.", "cat": "location-desc", "ctx": "world map location description"}
+{"id": "P1_01879", "en": "A lightly wooded area along the northern edge of the Knightwood forest. ", "cat": "location-desc", "ctx": "world map location description"}
+{"id": "P1_01880", "en": "A strange golden metal lines the walls of this bizarre tomb. Who knows what you mght encounter inside? Best be well-prepared.", "cat": "location-desc", "ctx": "world map location description"}
+{"id": "P1_01881", "en": "This heavily fortified gate is engraved with many images of diving birds of prey. It looks important.", "cat": "location-desc", "ctx": "world map location description"}
+{"id": "P1_01882", "en": "An ancient crypt choked with the scent of stale spices. ", "cat": "location-desc", "ctx": "world map location description"}
+{"id": "P1_01883", "en": "This crumbling gate is engraved with images depicting a king wielding godlike powers, and his subjects cowering before him. ", "cat": "location-desc", "ctx": "world map location description"}
+{"id": "P1_01884", "en": "What's left of a modest labour camp set at the foot of the Brad'uk. ", "cat": "location-desc", "ctx": "world map location description"}
+{"id": "P1_01885", "en": "An old, sprawling dungeon with some signs of recent activity. Maybe something useful could be found inside. ", "cat": "location-desc", "ctx": "world map location description"}
+{"id": "P1_01886", "en": "This eerie tomb is decorated in dark, disturbing imagery. Who knows what horrors could be waiting inside?", "cat": "location-desc", "ctx": "world map location description"}
+{"id": "P1_01887", "en": "A gate marked with morbid imagery. The air is stale and cold.", "cat": "location-desc", "ctx": "world map location description"}
+{"id": "P1_01888", "en": "This white tower stands on a hidden plateau, nestled within the mountains. ", "cat": "location-desc", "ctx": "world map location description"}
+{"id": "P1_01889", "en": "This gate is solid, but it feels stately and dignified. ", "cat": "location-desc", "ctx": "world map location description"}
+{"id": "P1_01890", "en": "The floor and walls have a pulse, and the barely breathable air churns with wet fumes. It's clearly alive, but does it have a mind?", "cat": "location-desc", "ctx": "world map location description"}
+{"id": "P1_01891", "en": "Despite being made of rusted metal panelling, this gate is still very sturdy. ", "cat": "location-desc", "ctx": "world map location description"}
+{"id": "P1_01892", "en": "These old ruins appear to have been a chapel, once upon a time. ", "cat": "location-desc", "ctx": "world map location description"}
+{"id": "P1_01893", "en": "There is a cloud of steam hanging heavy around this place, and the wet air carries an eerie odour.", "cat": "location-desc", "ctx": "world map location description"}
+{"id": "P1_01894", "en": "There is a cloud of fragrant steam hanging heavy around this place, and the wet air carries an eerie odour.", "cat": "location-desc", "ctx": "world map location description"}
+{"id": "P1_01895", "en": "The ruins of many ships have been crushed together in this hidden cove. ", "cat": "location-desc", "ctx": "world map location description"}
+{"id": "P1_01896", "en": "There is a great deal of moisture covering the walls and floor of this gate, but it appears to be very solid regardless.", "cat": "location-desc", "ctx": "world map location description"}
+{"id": "P1_01897", "en": "A partially-restored town amid the twisted trees of the overgrown Knightwood.", "cat": "location-desc", "ctx": "world map location description"}
+{"id": "P1_01898", "en": "This small roadside inn is still in excellent condition. It appears that someone has been tending it. ", "cat": "location-desc", "ctx": "world map location description"}
+{"id": "P1_01899", "en": "Though it is old and rusting, this ironclad bunker is holding up well. ", "cat": "location-desc", "ctx": "world map location description"}
+{"id": "P1_01900", "en": "The ruins of what must have once been a grand home. There is not much left.", "cat": "location-desc", "ctx": "world map location description"}
+{"id": "P1_01901", "en": "The ground surrounding this cabin is warm and black, and there is a heavy smoke hanging in the air. ", "cat": "location-desc", "ctx": "world map location description"}
+{"id": "P1_01902", "en": "The dust swirls thick about this place, but you can see occasional lights drifting through grimy windows. It is not as empty as it seems.", "cat": "location-desc", "ctx": "world map location description"}
+{"id": "P1_01903", "en": "A small camp is set up here. A logging camp, judging by the large number of nearby felled trees. ", "cat": "location-desc", "ctx": "world map location description"}
+{"id": "P1_01904", "en": "A big square room. ", "cat": "location-desc", "ctx": "world map location description"}
+{"id": "P1_01905", "en": "This opulent, well-maintained manor is easy to spot amid the tangled trees and ruined streets.", "cat": "location-desc", "ctx": "world map location description"}
+{"id": "P1_01906", "en": "An ominous door leads to stairs that carry you to a dank dungeon beneath Laughlan Manor. ", "cat": "location-desc", "ctx": "world map location description"}
+{"id": "P1_01907", "en": "Though the signage bears welcoming messages, the architecture of this place is sinister and foreboding. Something is not right here.", "cat": "location-desc", "ctx": "world map location description"}
+{"id": "P1_01908", "en": "This place has clearly seen better days. It looks like it could collapse further at any moment. ", "cat": "location-desc", "ctx": "world map location description"}
+{"id": "P1_01909", "en": "This gate is certainly shut, but it almost seems as though opening it could bring the whole place down. Tread carefully here. ", "cat": "location-desc", "ctx": "world map location description"}
+{"id": "P1_01910", "en": "Hot, dry air spills out of the entrance. This promises to be uncomfortable. ", "cat": "location-desc", "ctx": "world map location description"}
+{"id": "P1_01911", "en": "It is too dark to see what's inside this place, but there is a dark, maleficent energy hanging in the air. ", "cat": "location-desc", "ctx": "world map location description"}
+{"id": "P1_01912", "en": "Stairs lead up to these stately loft apartments that have only the slightest lingering scent of blood.", "cat": "location-desc", "ctx": "world map location description"}
+{"id": "P1_01913", "en": "A dry heat emanates from this sealed gate, and it is difficult to force your lungs to take in the air. Whatever is creating the heat must be behind the gate. ", "cat": "location-desc", "ctx": "world map location description"}
+{"id": "P1_01914", "en": "A sickeningly sweet odour drifts from the entrance of this hidden place.", "cat": "location-desc", "ctx": "world map location description"}
+{"id": "P1_01915", "en": "A moist, nauseating miasma lingers around the mouth of this ancient gate.", "cat": "location-desc", "ctx": "world map location description"}
+{"id": "P1_01916", "en": "Once long ago, this must have been a well-used trail through the wood. Now it is barely wide enough to walk, choked with trees so thick, you can barely see your next step.", "cat": "location-desc", "ctx": "world map location description"}
+{"id": "P1_01917", "en": "The door to this place opens to reveal a marble temple slick with brine. Tread carefully. ", "cat": "location-desc", "ctx": "world map location description"}
+{"id": "P1_01918", "en": "This marble gate is covered in barnacles, and the floor is littered with the shells of small ocean life. ", "cat": "location-desc", "ctx": "world map location description"}
+{"id": "P1_01919", "en": "This tomb is decorated in lavish carvings. Judging by the imagery, the person buried here was a blacksmith of some renown. ", "cat": "location-desc", "ctx": "world map location description"}
+{"id": "P1_01920", "en": "The ruins of what must have once been a stately abbey. Now the building is cracked and sunken, and the surrounding vegetation appears to be devouring what little is left.", "cat": "location-desc", "ctx": "world map location description"}
+{"id": "P1_01921", "en": "An old crumbling fort along the road. It surely has seen better days, but it makes a tempting shelter. No doubt others have also had this thought.", "cat": "location-desc", "ctx": "world map location description"}
+{"id": "P1_01922", "en": "This garden must have once been quite grand. Now, it is overgrown and dilapidated, like the rest of the island. ", "cat": "location-desc", "ctx": "world map location description"}
+{"id": "P1_01923", "en": "This looks like it may once have been a bookseller's shop. It appears to have seen recent use. ", "cat": "location-desc", "ctx": "world map location description"}
+{"id": "P1_01924", "en": "A small hamlet along the road running through the foothills. It was likely once a stopover point for travellers.", "cat": "location-desc", "ctx": "world map location description"}
+{"id": "P1_01925", "en": "An acrid odour drifts through the thin trees, and in the distance, you can see a pale haze settling. ", "cat": "location-desc", "ctx": "world map location description"}
+{"id": "P1_01926", "en": "This place appears to have been an inn or something similar. The pungent smell of mineral water clings to everything.", "cat": "location-desc", "ctx": "world map location description"}
+{"id": "P1_01927", "en": "It is impossible to tell whether you have entered a long-neglected passage covered with fleshy slime, or the bowels of some tremendous, tortured creature.", "cat": "location-desc", "ctx": "world map location description"}
+{"id": "P1_01928", "en": "This tunnel appears to go on forever. The walls thrum with the sound of a pulse, and the ground feels as though it is moving beneath your feet.", "cat": "location-desc", "ctx": "world map location description"}
+{"id": "P1_01929", "en": "It looks as though somebody is operating some kind of business out of this old mine. There are a lot of signs of recent activity and a miasma of nonspecific animal odour.", "cat": "location-desc", "ctx": "world map location description"}
+{"id": "P1_01930", "en": "This entire cave has been overtaken with some kind of creeping, fleshy slime. Veins and skin line the walls and ceiling.", "cat": "location-desc", "ctx": "world map location description"}
+{"id": "P1_01931", "en": "Steam rises lazily above this gulch. The air is breathable, but stinks mightily of brimstone.", "cat": "location-desc", "ctx": "world map location description"}
+{"id": "P1_01932", "en": "A tiny clearing in the forest, barely big enough to start a fire and dry your clothes, but a decent enough place to rest.", "cat": "location-desc", "ctx": "world map location description"}
+{"id": "P1_01933", "en": "A well-built fortress, evidently once held by a respectable lord. Despite its many years of neglect, the structure is still rock-solid.", "cat": "location-desc", "ctx": "world map location description"}
+{"id": "P1_01934", "en": "If this place was ever tranquil, those days are long gone. Now, it is a crumbling facade, a place where the only thing to contemplate is ruin.", "cat": "location-desc", "ctx": "world map location description"}
+{"id": "P1_01935", "en": "This once-imposing gate is now heavily scabbed with rust and decay. ", "cat": "location-desc", "ctx": "world map location description"}
+{"id": "P1_01936", "en": "A narrow path slices its way up the side of this cliff face. It's likely to be very dangerous.", "cat": "location-desc", "ctx": "world map location description"}
+{"id": "P1_01937", "en": "The foul air in this humid tunnel is difficult to breathe. It is difficult to imagine anything living here. ", "cat": "location-desc", "ctx": "world map location description"}
+{"id": "P1_01938", "en": "A long-abandoned church. Part of it has collapsed, now overtaken with some kind of fleshy slime, as though the building is being slowly devoured.", "cat": "location-desc", "ctx": "world map location description"}
+{"id": "P1_01939", "en": "A nauseating coil of twisting, fleshy tunnels. Regular, light puffs of air drift methodically throughout, carrying a smell strongly reminiscent of blood.", "cat": "location-desc", "ctx": "world map location description"}
+{"id": "P1_01940", "en": "This must have once been a small jailhouse. There are no other buildings nearby, so it was either a remote holding area, or the best-built building in a long-gone town.", "cat": "location-desc", "ctx": "world map location description"}
+{"id": "P1_01941", "en": "What was once a major river crossing has been reduced to a few skeletal bridge struts. Perhaps there's still a workable path across. ", "cat": "location-desc", "ctx": "world map location description"}
+{"id": "P1_01942", "en": "The darkness is stifling, and the layout is obviously designed to confuse and disorient you. Whatever is confined within must be very well-worth confining.", "cat": "location-desc", "ctx": "world map location description"}
+{"id": "P1_01943", "en": "This is an impressive fortress, but it is haunted by a peculiar odour.", "cat": "location-desc", "ctx": "world map location description"}
+{"id": "P1_01944", "en": "This gate seems strange. It is obviously sturdy, and well-decorated, but it seems as though it was hastily-built, with the pleasantries added as an afterthought.", "cat": "location-desc", "ctx": "world map location description"}
+{"id": "P1_01945", "en": "Many structures you have seen are in grievous disrepair, but this one seems worse than most. It seems like it could topple in on itself at any moment.", "cat": "location-desc", "ctx": "world map location description"}
+{"id": "P1_01946", "en": "A vast lake of churning fluid stretches out into the darkness. There is a path, but it is not likely to be a fun trip.", "cat": "location-desc", "ctx": "world map location description"}
+{"id": "P1_01947", "en": "This place appears to be some kind of transport hub, but there is a peculiar odour clinging to the air, and a heavy, warm moisture that makes your skin crawl.", "cat": "location-desc", "ctx": "world map location description"}
+{"id": "P1_01948", "en": "This appears to be some kind of transport terminal. The buildings are still in excellent shape, but there is a slime-infested tunnel diving into the earth nearby.", "cat": "location-desc", "ctx": "world map location description"}
+{"id": "P1_01949", "en": "This cave is too cluttered to be abandoned, but too orderly to be occupied by mere animals. Something intelligent lives here. ", "cat": "location-desc", "ctx": "world map location description"}
+{"id": "P1_01950", "en": "This strong gate has clearly been manufactured, but there are no signs of toolwork on any of the stones. ", "cat": "location-desc", "ctx": "world map location description"}
+{"id": "P1_01951", "en": "From the ground, you can see a white building shining at the top of this daunting cliff face. ", "cat": "location-desc", "ctx": "world map location description"}
+{"id": "P1_01952", "en": "Calling this town run-down would be an understatement, but the inhabitants are at least attempting to make it livable. You might be able to get some supplies here.", "cat": "location-desc", "ctx": "world map location description"}
+{"id": "P1_01953", "en": "Water still flows through this section of aqueduct, a testament to its solid workmanship. Of course, who knows what else might be taking advantage of it?", "cat": "location-desc", "ctx": "world map location description"}
+{"id": "P1_01954", "en": "There is a small shack and a workshop here. Someone clearly lives here. ", "cat": "location-desc", "ctx": "world map location description"}
+{"id": "P1_01955", "en": "A bridge still crosses over a narrow stretch of river here, as well as the ruins of some sort of small rest stop.", "cat": "location-desc", "ctx": "world map location description"}
+{"id": "P1_01956", "en": "A grand estate looms above the tangled woods. The building is still in reasonably good condition, but there are no signs of recent use.", "cat": "location-desc", "ctx": "world map location description"}
+{"id": "P1_01957", "en": "This ancient forest temple is collapsed and overgrown, but there is still something serene and beautiful about it. ", "cat": "location-desc", "ctx": "world map location description"}
+{"id": "P1_01958", "en": "There is a large farmhouse here that seems to have weathered the years better than most. It might make a decent shelter. ", "cat": "location-desc", "ctx": "world map location description"}
+{"id": "P1_01959", "en": "It looks like once, there was a network of footbridges spanning this section of river, but now there's nothing but rapids. Crossing will be a challenge.", "cat": "location-desc", "ctx": "world map location description"}
+{"id": "P1_01960", "en": "This was once used by nobles to take scenic tours up the mountainside. Someone has taken great pains to keep it maintained.", "cat": "location-desc", "ctx": "world map location description"}
+{"id": "P1_01961", "en": "In every way, this place is the very picture of a wizard's tower. Though it appears to be abandoned, you're likely to find all manner of strangeness inside. ", "cat": "location-desc", "ctx": "world map location description"}
+{"id": "P1_01962", "en": "This section of road appears to be well-traveled, even if the forest has grown wild around it. ", "cat": "location-desc", "ctx": "world map location description"}
+{"id": "P1_01963", "en": "This abbey may be run-down, but what is left of it is obviously still well-tended. ", "cat": "location-desc", "ctx": "world map location description"}
+{"id": "P1_01964", "en": "There is a small village here scrapped together from old wood. Whoever built this was not very forward-thinking.", "cat": "location-desc", "ctx": "world map location description"}
+{"id": "P1_01965", "en": "This manor house is surprisingly well-preserved, as though it has been frozen in time. Strangely, it doesn't appear as though anybody is living here.", "cat": "location-desc", "ctx": "world map location description"}
+{"id": "P1_01966", "en": "The tunnel into the mountain descends for what seems like forever before you finally reach a hollowed-out mining area. The place gives you a strange sense of deja vu.", "cat": "location-desc", "ctx": "world map location description"}
+{"id": "P1_01967", "en": "Once you get past the mouth of the cave, it is evident that you have discovered a storehouse of great wealth. It is undoubtedle a popular target for thieves.", "cat": "location-desc", "ctx": "world map location description"}
+{"id": "P1_01968", "en": "This stretch of road along the lakeside is wide open. There are a few small ruined buildings that could be used as shelters for beasts or bandits. Best keep a lookout.", "cat": "location-desc", "ctx": "world map location description"}
+{"id": "P1_01969", "en": "This may have once been a road, but the forest has long since reclaimed it. You are barely able to pick out a path through the trees. ", "cat": "location-desc", "ctx": "world map location description"}
+{"id": "P1_01970", "en": "Though the mire is generally foul-smelling, this region is particularly consumed of a foul, heavy miasma. ", "cat": "location-desc", "ctx": "world map location description"}
+{"id": "P1_01971", "en": "This stretch of roadway is soggy and sinking. ", "cat": "location-desc", "ctx": "world map location description"}
+{"id": "P1_01972", "en": "This appears to once have been a rural family home, but it has been standing disused for many years. ", "cat": "location-desc", "ctx": "world map location description"}
+{"id": "P1_01973", "en": "Shelters like this are often built alongside long stretches of road. They offer shelter for desperate travelers, but also for bandits. Looking inside is a gamble.", "cat": "location-desc", "ctx": "world map location description"}
+{"id": "P1_01974", "en": "There is an inn built into the side of this large hill. It seems unlikely that it would still be operational, but at the very least, the building seems secure.", "cat": "location-desc", "ctx": "world map location description"}
+{"id": "P1_01975", "en": "Through some miracle, most of this swamp-built shanty town remains above the water.  ", "cat": "location-desc", "ctx": "world map location description"}
+{"id": "P1_01976", "en": "This may once have been a large village, but it has been burned to the ground. Foundations, ashes, and crumbling stone are all that remain.", "cat": "location-desc", "ctx": "world map location description"}
+{"id": "P1_01977", "en": "An air of uneasiness hangs over this old town. Most of the buildings are still standing, but it doesn't appear that anybody has moved in.", "cat": "location-desc", "ctx": "world map location description"}
+{"id": "P1_01978", "en": "There is a rough-looking shelter built in the lowest branchest of this gigantic tree. The construction appears to be fairly recent.", "cat": "location-desc", "ctx": "world map location description"}
+{"id": "P1_01979", "en": "This blackened tower looks like it was once under heavy siege, and it is barely standing. It looks dangerous, but that danger may have deterred looters in the past. Perhaps something valuable remains.", "cat": "location-desc", "ctx": "world map location description"}
+{"id": "P1_01980", "en": "It is obvious that this tomb has been thoroughly plundered and vandalized, and an air of bitter spite hangs heavy over it.", "cat": "location-desc", "ctx": "world map location description"}
+{"id": "P1_01981", "en": "This place can only have been a palace. Now it is crumbling as the island slowly reclaims it. It is an obvious target for looting, so it is doubtful that much of value remains.", "cat": "location-desc", "ctx": "world map location description"}
+{"id": "P1_01982", "en": "There is a chilling stillness in the air here, as though even time itself has managed to forget it. Your footsteps on the surprisingly clean floor seem dull and distant.\n", "cat": "location-desc", "ctx": "world map location description"}
+{"id": "P1_01983", "en": "This old archive is holding up fairly well, despite some obvious charring on the outside walls. ", "cat": "location-desc", "ctx": "world map location description"}
+{"id": "P1_01984", "en": "This underground bunker has been damaged badly by many years of moisture and neglect, but it still appears to be sturdy.", "cat": "location-desc", "ctx": "world map location description"}
+{"id": "P1_01985", "en": "This woodland path leads right underneath a tall archway of stone. It looks like a classic ambush location.", "cat": "location-desc", "ctx": "world map location description"}
+{"id": "P1_01986", "en": "This tunnel was probably once part of a road. There is not much left but mud. ", "cat": "location-desc", "ctx": "world map location description"}
+{"id": "P1_01987", "en": "A broad path between the water's edge and the forest winds along the rocks here. Visibility is good, but that holds true for creatures lurking nearby as well.", "cat": "location-desc", "ctx": "world map location description"}
+{"id": "P1_01988", "en": "Even the most untrained can sense that this area is thick with magic. There are many signs of recent activity.", "cat": "location-desc", "ctx": "world map location description"}
+{"id": "P1_01989", "en": "This estate, overlooking the slopes of the mountain below, appears to be in excellent condition. It is likely that someone still lives here.", "cat": "location-desc", "ctx": "world map location description"}
+{"id": "P1_01990", "en": "There is a strange villa tucked away in the forest here. ", "cat": "location-desc", "ctx": "world map location description"}
+{"id": "P1_01991", "en": "This otherwise unremarkable forest clearing is choked with a thick smoke, blotting out the sun. Something strange is going on here. ", "cat": "location-desc", "ctx": "world map location description"}
+{"id": "P1_01992", "en": "This appears to be an old brewery, but there are obvious signs that it is still being used.", "cat": "location-desc", "ctx": "world map location description"}
+{"id": "P1_01993", "en": "This road winding through the mountainside appears to veer off in several different directions. It would be a convenient place to set up a shop, or an ambush.", "cat": "location-desc", "ctx": "world map location description"}
+{"id": "P1_01994", "en": "A dilapidated farm along the edge of what was probably once a major road. It looks like there are signs of activity.", "cat": "location-desc", "ctx": "world map location description"}
+{"id": "P1_01995", "en": "This wide-open grassy field is easy travelling, but it leaves you entirely exposed. ", "cat": "location-desc", "ctx": "world map location description"}
+{"id": "P1_01996", "en": "There is a tiny roadside shelter here, made to serve as an emergency stop for travelers. Of course, it's anybody's guess what could be in there.", "cat": "location-desc", "ctx": "world map location description"}
+{"id": "P1_01997", "en": "This farmhouse is sheltered by a copse of trees, and as such, it has held up better than you might expect. ", "cat": "location-desc", "ctx": "world map location description"}
+{"id": "P1_01998", "en": "A strange cabin sits here in a clearing. It almost seems as though the forest is afraid to grow too close to its walls.", "cat": "location-desc", "ctx": "world map location description"}
+{"id": "P1_01999", "en": "An uncomfortable sensation permeates this building. It seems to be little more than rubble, but there are signs of frequent and recent use.", "cat": "location-desc", "ctx": "world map location description"}
+{"id": "P1_02000", "en": "There are a few old homes and shops huddled together on the cliff face here. Most of the buildings are still in decent condition.", "cat": "location-desc", "ctx": "world map location description"}
+{"id": "P1_02001", "en": "A shoddy commune has been established here. It's in very poor condition, but that appears to be because it was poorly-built, not because it is particularly old.", "cat": "location-desc", "ctx": "world map location description"}
+{"id": "P1_02002", "en": "This forest trail is littered with young growth, as though it was cleared within the last several years.", "cat": "location-desc", "ctx": "world map location description"}

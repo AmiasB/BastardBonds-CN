@@ -1,0 +1,51 @@
+# Combat log and map readout lines. Names in {0} stay as translated by the dictionary.
+Supports {0}	可容纳 {0}
+Upkeep {0}	维护 {0}
+Manpower {0}	人力 {0}
+{0} defends.	{0}进入防御。
+{0} fumbles.	{0}失手。
+{0} hesitates.	{0}犹豫。
+{0} is invulnerable!	{0}处于无敌！
+{0} is dazed. Accuracy is reduced.	{0}眩晕。命中降低。
+{0} is in pain. Defense and healing are reduced.	{0}剧痛。防御和治疗降低。
+{0} is in a nexus. Warding is prevented.	{0}处于连结。无法护佑。
+{0} is poisoned.	{0}中毒。
+{0} is entangled. Movement and dodging are reduced.	{0}被缠绕。移动和闪避降低。
+{0} is guided by grace. Accuracy is improved.	{0}受优雅引导。命中提高。
+{0} is enraged, and inflicts risk.	{0}狂怒，并施加风险。
+{0} is focused. Blasts are more powerful.	{0}专注。轰击更强。
+{0} is cloaked in shadow. Evasion is improved.	{0}披上暗影。闪避提高。
+{0} is invigorated. Damage is improved.	{0}充满活力。伤害提高。
+{0} was defeated!	{0}被击败了！
+{0} avoided a fumble due to comradery!	{0}因情谊避免了失手！
+{0} avoided a fumble due to Luck of the Devil! Risk reduced!	{0}因魔运避免了失手！风险降低！
+{0} is no longer affected by {1}.	{0}不再受{1}影响。
+{0} consumes {1}.	{0}使用了{1}。
+{0} is distracted.	{0}分心了。
+{0} takes {1} damage from a violent aura!	{0}受到暴戾气场的{1}点伤害！
+{0} recovered all hit points.	{0}恢复了全部生命。
+{0} recovers {1} hit points.	{0}恢复了{1}点生命。
+{0} recoils from the attack! Initiative lost!	{0}被攻击震退！失去先机！
+{0} dropped a weapon!	{0}掉落了武器！
+{0} dropped armour!	{0}掉落了护甲！
+{0} dropped an accessory!	{0}掉落了饰品！
+{0} regenerated {1} hit points.	{0}再生了{1}点生命。
+{0} regenerated all hit points.	{0}再生了全部生命。
+{0} took {1} ongoing damage.	{0}受到了{1}点持续伤害。
+{0} blasts {1}, but misses!	{0}轰击{1}，但没有命中！
+{0} blasts, but {1} resists!	{0}轰击，但{1}抵抗了！
+{0} blasts {1} for {2} damage!	{0}轰击{1}，造成{2}点伤害！
+{0} attacks {1}, but misses!	{0}攻击{1}，但没有命中！
+{0} attacks, but {1} resists!	{0}攻击，但{1}抵抗了！
+{0} attacks {1} for {2} damage!	{0}攻击{1}，造成{2}点伤害！
+{0} moves.	{0}进行移动。
+Leviathan hurls brine at {0}, but misses!	Leviathan 向{0}泼洒卤水，但没有命中！
+Leviathan hurls brine, but {0} resists!	Leviathan 泼洒卤水，但{0}抵抗了！
+Leviathan hurls brine at {0} for {1} damage!	Leviathan 向{0}泼洒卤水，造成{1}点伤害！
+Leviathan thrashes at {0}, but misses!	Leviathan 向{0}猛甩，但没有命中！
+Leviathan thrashes, but {0} resists!	Leviathan 猛甩，但{0}抵抗了！
+Leviathan thrashes {0} for {1} damage!	Leviathan 猛甩{0}，造成{1}点伤害！
+Leviathan's power focuses on {0}	Leviathan 的力量集中在{0}身上
+The spell generates a piece of Moist Cake!	法术生成了一块湿软蛋糕！
+{0} joined your band.	{0}加入了你的团伙。
+{0} escaped from combat.	{0}脱离了战斗。

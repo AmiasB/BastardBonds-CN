@@ -1,0 +1,232 @@
+{"id": "P2_03246", "en": "Yikes, Green, if it's really that important to you, then take it.", "cat": "map", "ctx": "Rosewood Bridge.bbm script"}
+{"id": "P2_03247", "en": "You'd better not forget it after all the fuss you made to get it. Go pick it up!", "cat": "map", "ctx": "Rosewood Bridge.bbm script"}
+{"id": "P2_03248", "en": "Breathtaking harmony heard the isle over! Come and treat your ears to the Royal Seamen's Chorus, playing all week!", "cat": "map", "ctx": "Ruins of the Royal Court.bbm script"}
+{"id": "P2_03249", "en": "I had to fire one of the guards today. He tried to get Odluk to escape, but the old orc told on him and refused to go. I did everything by the book on this one, but... I don't know. If I was Odluk, I'd have gone. He spends more time in the cell than he does at home with that awful wife he loves so much.", "cat": "map", "ctx": "Ruins of the Royal Court.bbm script"}
+{"id": "P2_03250", "en": "I have given my response already. Though I was born in Crest, Lukatt is now my home, and I will not abandon it, nor sell it to you to use as a wedge against the orc nation. If you do not remove your provocateurs, my next missive to you shall be writ in steel.", "cat": "map", "ctx": "Ruins of the Royal Court.bbm script"}
+{"id": "P2_03251", "en": "I'd get audiences used to the idea of a clothed singing werewolf before you try to get them on board with a naked one.", "cat": "map", "ctx": "Ruins of the Royal Court.bbm script"}
+{"id": "P2_03252", "en": "I've arranged your passage already. Please, sail for Tsarath and do not return. I know you want to try to calm things down in court, but this country is heading for disaster and you can not stop it. I beg you, flee while you can.", "cat": "map", "ctx": "Ruins of the Royal Court.bbm script"}
+{"id": "P2_03253", "en": "It must have been exciting to perform for a crowd this big. You could fit hundreds of people in this courtyard!", "cat": "map", "ctx": "Ruins of the Royal Court.bbm script"}
+{"id": "P2_03254", "en": "Maybe I should think about performing naked.", "cat": "map", "ctx": "Ruins of the Royal Court.bbm script"}
+{"id": "P2_03255", "en": "Maybe. Probably would've been an exciting show if they did.", "cat": "map", "ctx": "Ruins of the Royal Court.bbm script"}
+{"id": "P2_03256", "en": "Odluk", "cat": "map", "ctx": "Ruins of the Royal Court.bbm script"}
+{"id": "P2_03257", "en": "This is the third time this month. I feel bad for the guy. He's always so apologetic and polite. His wife obviously doesn't give a damn, and she's just abusing this system to do whatever she wants without consequence. Is there seriously nothing we can do?", "cat": "map", "ctx": "Ruins of the Royal Court.bbm script"}
+{"id": "P2_03258", "en": "Today an orc I never saw before came to the cell instead of Odluk. I looked into it, and it turns out that Odluk died in an accident at home a few days ago. People are saying it's a suicide. Suicide my ass. That pig bitch killed him, whether she drove the knife herself or not.", "cat": "map", "ctx": "Ruins of the Royal Court.bbm script"}
+{"id": "P2_03259", "en": "Yeah, probably good advice.", "cat": "map", "ctx": "Ruins of the Royal Court.bbm script"}
+{"id": "P2_03260", "en": "You.. uh.. you don't really think the Royal Seamen's Chorus performed naked, do you?", "cat": "map", "ctx": "Ruins of the Royal Court.bbm script"}
+{"id": "P2_03261", "en": "Is it you, who dares stir my flames and then quench them? I will not stand for such trifling! Meet your doom, mortal fools!", "cat": "map", "ctx": "Salamander's Gauntlet.bbm script"}
+{"id": "P2_03262", "en": ");\n\nmessage(Nazar|", "cat": "map", "ctx": "Seaside Congregation.bbm script"}
+{"id": "P2_03263", "en": ");\n\nmessage(Rangda|", "cat": "map", "ctx": "Seaside Congregation.bbm script"}
+{"id": "P2_03264", "en": ");\n\nsetachievement(the_torch);\n\nbreak();\n\n}\n\nifcheckhero(Rangda|true){\n\nsettag(RangdaGotClosure);\nplayhero(Nazar);\n\nfadedown();\nwarpparty(56|66);\nzoomto(56|66|0.2);\nfadeup();\n\nzoomto(57|62|1);\nmoveactor(Rangda|57|62);\nmoveactor(Rangda|57|62);\n\nwait(0.5);\n\nrevealactor(129|122);\n\nmessage(Rangda|", "cat": "map", "ctx": "Seaside Congregation.bbm script"}
+{"id": "P2_03265", "en": ");\n\nwait(0.2);\n\nmessage(Rangda|", "cat": "map", "ctx": "Seaside Congregation.bbm script"}
+{"id": "P2_03266", "en": ");\n\nwait(0.2);\n\nmoveactor(NazarE|50|62);\nwait(1);\nwarpactorname(NazarE|129|122);\n\nzoomactor(Rangda|2);\n\nmessage(|Rangda seethes silently for a long moment, torn somewhere between screaming and crying, though she does neither.);\n\nwait(0.5);\n\nmessage(|Finally, she looks up at you, her face clouded with rage.);\n\nwait(0.2);\n\nmessage(Rangda|", "cat": "map", "ctx": "Seaside Congregation.bbm script"}
+{"id": "P2_03267", "en": ");\n\nwait(0.3);\n\nmessage(|A massive bearded orc dressed in tattered leather strides out from the underbrush. He must be the one who has been camping here.);\n\nzoomactor(Rangda|0.2);\n\nmessage(Rangda|", "cat": "map", "ctx": "Seaside Congregation.bbm script"}
+{"id": "P2_03268", "en": ");\n\nwait(0.3);\n\nmessage(|An orc woman in well-made riveted leather armour emerges from the underbrush. She must be the one who has been camping here.);\n\nzoomactor(Nazar|0.5);\n\nmessage(Nazar|", "cat": "map", "ctx": "Seaside Congregation.bbm script"}
+{"id": "P2_03269", "en": ");\n\nwait(0.5);\n\nmessage(Nazar|", "cat": "map", "ctx": "Seaside Congregation.bbm script"}
+{"id": "P2_03270", "en": ");\n\nwait(0.5);\n\nmessage(Rangda|", "cat": "map", "ctx": "Seaside Congregation.bbm script"}
+{"id": "P2_03271", "en": ");\n\nwait(1);\n\nmessage(Nazar|", "cat": "map", "ctx": "Seaside Congregation.bbm script"}
+{"id": "P2_03272", "en": ");\n\nwait(1);\n\nwarpactorname(NazarE|50|62);\nzoomto(54|61|0.5);\nmoveactor(NazarE|54|61);\n\nmessage(Nazar|", "cat": "map", "ctx": "Seaside Congregation.bbm script"}
+{"id": "P2_03273", "en": ");\n\nwait(1);\n\nwarpactorname(RangdaE|50|62);\nzoomto(54|61|0.5);\nmoveactor(RangdaE|54|61);\n\nmessage(Rangda|", "cat": "map", "ctx": "Seaside Congregation.bbm script"}
+{"id": "P2_03274", "en": ");\n\nzoomactor(-1|1);\nmoveactor(Nazar|56|63);\nmessage(Nazar|", "cat": "map", "ctx": "Seaside Congregation.bbm script"}
+{"id": "P2_03275", "en": ");\n\nzoomactor(NazarE|0.2);\nmessage(Nazar|", "cat": "map", "ctx": "Seaside Congregation.bbm script"}
+{"id": "P2_03276", "en": ");\n\nzoomactor(NazarE|0.2);\nmoveactor(NazarE|55|61);\nshakecamera(10|0.5);\nmessage(Nazar|", "cat": "map", "ctx": "Seaside Congregation.bbm script"}
+{"id": "P2_03277", "en": ");\n\nzoomactor(NazarE|0.4);\n\nmessage(Nazar|", "cat": "map", "ctx": "Seaside Congregation.bbm script"}
+{"id": "P2_03278", "en": ");\n\nzoomactor(Nazar|0.2);\nmessage(Nazar|", "cat": "map", "ctx": "Seaside Congregation.bbm script"}
+{"id": "P2_03279", "en": ");\n\nzoomactor(Nazar|0.5);\nmessage(Nazar|", "cat": "map", "ctx": "Seaside Congregation.bbm script"}
+{"id": "P2_03280", "en": ");\n\nzoomactor(RangdaE|0.2);\n\nmessage(Rangda|", "cat": "map", "ctx": "Seaside Congregation.bbm script"}
+{"id": "P2_03281", "en": ");\n\nzoomactor(RangdaE|0.2);\nmessage(Rangda|", "cat": "map", "ctx": "Seaside Congregation.bbm script"}
+{"id": "P2_03282", "en": ");\n\nzoomactor(RangdaE|1);\nmessage(Rangda|", "cat": "map", "ctx": "Seaside Congregation.bbm script"}
+{"id": "P2_03283", "en": ");\n\nzoomactor(RangdaE|1);\nmoveactor(RangdaE|50|62);\nwait(1);\nwarpactorname(RangdaE|134|122);\n\nzoomactor(Nazar|1);\nmessage(Nazar|", "cat": "map", "ctx": "Seaside Congregation.bbm script"}
+{"id": "P2_03284", "en": ");\n\nzoomactor(Rangda|0.2);\n\nmessage(Rangda|", "cat": "map", "ctx": "Seaside Congregation.bbm script"}
+{"id": "P2_03285", "en": ");\n\nzoomactor(Rangda|0.2);\nmessage(Rangda|", "cat": "map", "ctx": "Seaside Congregation.bbm script"}
+{"id": "P2_03286", "en": ");\n\nzoomactor(Rangda|1);\nmessage(Rangda|", "cat": "map", "ctx": "Seaside Congregation.bbm script"}
+{"id": "P2_03287", "en": ", he thinks.", "cat": "map", "ctx": "Seaside Congregation.bbm script"}
+{"id": "P2_03288", "en": "I bet they were so happy. Orc men are always excited at their weddings.", "cat": "map", "ctx": "Seaside Congregation.bbm script"}
+{"id": "P2_03289", "en": "I'm sorry I made stupid decisions that utterly ruined you", "cat": "map", "ctx": "Seaside Congregation.bbm script"}
+{"id": "P2_03290", "en": "Looks like a wedding. An orc wedding, judging by the torches. Amazing that it's still standing after all this time.", "cat": "map", "ctx": "Seaside Congregation.bbm script"}
+{"id": "P2_03291", "en": "I implore you to cease your operations here and leave. The pursuit of learning the demon's chaotic powers can only be described as foolish. Your attempts thus far have ended in failure, and I know not how much longer my magic will be effective in restraining it.", "cat": "map", "ctx": "Secluded Chapel.bbm script"}
+{"id": "P2_03292", "en": "I will not see you risk your life, or the lives of my fellow clergymen, nor shall I be held accountable should the demon run amok. To this end, I hereby dismiss myself from this parish. I can only hope that you would do the same. -- Pastor Nikolai", "cat": "map", "ctx": "Secluded Chapel.bbm script"}
+{"id": "P2_03293", "en": "Pastor Evans. By your request, I have once again sealed away the demon which lurks inside this chamber. If you are reading this note, I assume you have come to release it again.", "cat": "map", "ctx": "Secluded Chapel.bbm script"}
+{"id": "P2_03294", "en": "grounds maintenance", "cat": "map", "ctx": "Secluded Chapel.bbm script"}
+{"id": "P2_03295", "en": "After you. Just in case.", "cat": "map", "ctx": "Secluded Commune.bbm script"}
+{"id": "P2_03296", "en": "Anyway, we'll split the take. I open doors, you break skulls. See you!", "cat": "map", "ctx": "Secluded Commune.bbm script"}
+{"id": "P2_03297", "en": "Approaching The Great Matthaxus is not permitted. Only the fathers may speak directly to his worship. If you've questions, speak to the fathers.", "cat": "map", "ctx": "Secluded Commune.bbm script"}
+{"id": "P2_03298", "en": "By Matthaxus' command, you are ordered to leave. Walk away now.", "cat": "map", "ctx": "Secluded Commune.bbm script"}
+{"id": "P2_03299", "en": "Fortunately, they told me how to open the door already. Funny, huh? All you have to do is repeat their stupid bullshit back at them and they think you're the best thing ever.", "cat": "map", "ctx": "Secluded Commune.bbm script"}
+{"id": "P2_03300", "en": "Hey that's great! Now I don't have to share this stuff I swiped from the barracks. Just keep whatever it was you found, eh? Sounds like you worked for it.", "cat": "map", "ctx": "Secluded Commune.bbm script"}
+{"id": "P2_03301", "en": "I thought this looked familiar. I've been here. Was here for a few weeks, actually. They're a cult who worships some kind of... I don't know, God or Demon or something named Matthaxus. I left because they were too freaky for me to deal with on my own.", "cat": "map", "ctx": "Secluded Commune.bbm script"}
+{"id": "P2_03302", "en": "I'm Rosaline. Thanks for the help. Now I can fuck off with the loot and not worry about some dragon cult hunting me down and exacting vengeance. Yikes.", "cat": "map", "ctx": "Secluded Commune.bbm script"}
+{"id": "P2_03303", "en": "I'm gonna see if there's any food worth taking before I head out. Later!", "cat": "map", "ctx": "Secluded Commune.bbm script"}
+{"id": "P2_03304", "en": "Matthaxus", "cat": "map", "ctx": "Secluded Commune.bbm script"}
+{"id": "P2_03305", "en": "Okay so here's the deal. Now that you've started shit, this whole place is going to come down. That's good, it's convenient. What do you say we make a detour through the fathers' quarters and mop up some of their valuables, hmm?", "cat": "map", "ctx": "Secluded Commune.bbm script"}
+{"id": "P2_03306", "en": "That sounded a bit ugly, but you made it out in more or less one piece I see? Find anything good in there?", "cat": "map", "ctx": "Secluded Commune.bbm script"}
+{"id": "P2_03307", "en": "There, it's open. Piece of cake.", "cat": "map", "ctx": "Secluded Commune.bbm script"}
+{"id": "P2_03308", "en": "They have a room in the back that I always thought must be totally packed with treasure. We can check it out, if you want. I figured out how to pop their door locks while I was here, but never got a chance to actually do it.", "cat": "map", "ctx": "Secluded Commune.bbm script"}
+{"id": "P2_03309", "en": "Ugh, don't you just hate it when you bust your ass for the big take and it's not even that great? Happens all the damn time. Tough break I guess.", "cat": "map", "ctx": "Secluded Commune.bbm script"}
+{"id": "P2_03310", "en": "Well, that was annoying. Do you have any idea how long it took to get them to let me in here? Oh well. I've wanted to do that a few times myself over the last week or so, but you're much better at cracking heads than I am.", "cat": "map", "ctx": "Secluded Commune.bbm script"}
+{"id": "P2_03311", "en": "Well, that was fun. Now, I've never seen this Matthaxus before. I bet they just made it up to scare people. Shall we find out?", "cat": "map", "ctx": "Secluded Commune.bbm script"}
+{"id": "P2_03312", "en": "You go on in first. Let me know what you find. I can barely carry all the junk I took from the fathers' rooms anyway.", "cat": "map", "ctx": "Secluded Commune.bbm script"}
+{"id": "P2_03313", "en": "You were warned! Come brothers! Matthaxus calls upon us to defend him from these intruders!", "cat": "map", "ctx": "Secluded Commune.bbm script"}
+{"id": "P2_03314", "en": "I'll have a look at that, if you don't mind!", "cat": "map", "ctx": "Sewer Tunnels.bbm script"}
+{"id": "P2_03315", "en": "Idum! This is why you shower me with praise and sexual favors.", "cat": "map", "ctx": "Sewer Tunnels.bbm script"}
+{"id": "P2_03316", "en": "Looks pretty basic. I'll have this bad boy wide open faster than a milkmaid at mayfair.", "cat": "map", "ctx": "Sewer Tunnels.bbm script"}
+{"id": "P2_03317", "en": "Thanks, Peregrine. I'll keep that in mind.", "cat": "map", "ctx": "Sewer Tunnels.bbm script"}
+{"id": "P2_03318", "en": "You really should consider showering your number-one thief with sexual favors, you know. Just a helpful tip.", "cat": "map", "ctx": "Sewer Tunnels.bbm script"}
+{"id": "P2_03319", "en": "A secret tunnel like this could have any number of uses. What makes you think it was for sex?", "cat": "map", "ctx": "Shipbuilding Commune.bbm script"}
+{"id": "P2_03320", "en": "Ah, sorry. Didn't mean to drag up bad vibes.", "cat": "map", "ctx": "Shipbuilding Commune.bbm script"}
+{"id": "P2_03321", "en": "Ah, well. Not quite as exciting, but still pretty cool.", "cat": "map", "ctx": "Shipbuilding Commune.bbm script"}
+{"id": "P2_03322", "en": "Come see me later, Babe. We'll see if we can get that stick out of your butt.", "cat": "map", "ctx": "Shipbuilding Commune.bbm script"}
+{"id": "P2_03323", "en": "Grant, you're ruining my sex fantasy.", "cat": "map", "ctx": "Shipbuilding Commune.bbm script"}
+{"id": "P2_03324", "en": "Hah!", "cat": "map", "ctx": "Shipbuilding Commune.bbm script"}
+{"id": "P2_03325", "en": "I am a warrior, not an Incubus. Spend more time on your knives, and less on my ass.", "cat": "map", "ctx": "Shipbuilding Commune.bbm script"}
+{"id": "P2_03326", "en": "I can still enjoy it vicariously. Let me watch you do it sometime and we're even.", "cat": "map", "ctx": "Shipbuilding Commune.bbm script"}
+{"id": "P2_03327", "en": "I could go for one of those right about now.", "cat": "map", "ctx": "Shipbuilding Commune.bbm script"}
+{"id": "P2_03328", "en": "I don't know Beau, you'd be surprised at the lengths people will go to.", "cat": "map", "ctx": "Shipbuilding Commune.bbm script"}
+{"id": "P2_03329", "en": "I know, right?", "cat": "map", "ctx": "Shipbuilding Commune.bbm script"}
+{"id": "P2_03330", "en": "I think you're full of it.", "cat": "map", "ctx": "Shipbuilding Commune.bbm script"}
+{"id": "P2_03331", "en": "I was thinking more a late night snack.", "cat": "map", "ctx": "Shipbuilding Commune.bbm script"}
+{"id": "P2_03332", "en": "I wouldn't be surprised. Even when we were all doing it, and we all knew about it, the men I worked with at the labour camp loved their sneaking around.", "cat": "map", "ctx": "Shipbuilding Commune.bbm script"}
+{"id": "P2_03333", "en": "It seems like hiding a secret tunnel would be harder than hiding a secret affair.", "cat": "map", "ctx": "Shipbuilding Commune.bbm script"}
+{"id": "P2_03334", "en": "It's been a long, long time since I've been able to do that.", "cat": "map", "ctx": "Shipbuilding Commune.bbm script"}
+{"id": "P2_03335", "en": "Just let me have my fun, alright?", "cat": "map", "ctx": "Shipbuilding Commune.bbm script"}
+{"id": "P2_03336", "en": "Leftie, you show me a bottle of whiskey and we'll talk.", "cat": "map", "ctx": "Shipbuilding Commune.bbm script"}
+{"id": "P2_03337", "en": "More like contraband. Secret liquor party tunnel.", "cat": "map", "ctx": "Shipbuilding Commune.bbm script"}
+{"id": "P2_03338", "en": "Nice thought, I guess. You really think so?", "cat": "map", "ctx": "Shipbuilding Commune.bbm script"}
+{"id": "P2_03339", "en": "No, wait. Don't answer that. I forgot who I was talking to. How foolish of me.", "cat": "map", "ctx": "Shipbuilding Commune.bbm script"}
+{"id": "P2_03340", "en": "No. The look on your face, however, was quite serious.", "cat": "map", "ctx": "Shipbuilding Commune.bbm script"}
+{"id": "P2_03341", "en": "Not quite as fun, but I can still get into it.", "cat": "map", "ctx": "Shipbuilding Commune.bbm script"}
+{"id": "P2_03342", "en": "Oh God, you're right. I'm seeing it now... the visions!", "cat": "map", "ctx": "Shipbuilding Commune.bbm script"}
+{"id": "P2_03343", "en": "Oh, how romantic! Sneaking out in the dark of night, leaving your husband sleeping in bed, and shagging the stable boy!", "cat": "map", "ctx": "Shipbuilding Commune.bbm script"}
+{"id": "P2_03344", "en": "Oh, so was I.", "cat": "map", "ctx": "Shipbuilding Commune.bbm script"}
+{"id": "P2_03345", "en": "On what? If we're going to make camp here, I need to know where the rut-roads are.", "cat": "map", "ctx": "Shipbuilding Commune.bbm script"}
+{"id": "P2_03346", "en": "Ooh, a secret passage? Handy for a late night rut, eh?", "cat": "map", "ctx": "Shipbuilding Commune.bbm script"}
+{"id": "P2_03347", "en": "Or'pid noct.", "cat": "map", "ctx": "Shipbuilding Commune.bbm script"}
+{"id": "P2_03348", "en": "Right now?", "cat": "map", "ctx": "Shipbuilding Commune.bbm script"}
+{"id": "P2_03349", "en": "Right, you guys are all embarrassed about that. Weird.", "cat": "map", "ctx": "Shipbuilding Commune.bbm script"}
+{"id": "P2_03350", "en": "Right. A bit strange, but whatever.", "cat": "map", "ctx": "Shipbuilding Commune.bbm script"}
+{"id": "P2_03351", "en": "Saved it. Nice.", "cat": "map", "ctx": "Shipbuilding Commune.bbm script"}
+{"id": "P2_03352", "en": "See, Rosie gets it!", "cat": "map", "ctx": "Shipbuilding Commune.bbm script"}
+{"id": "P2_03353", "en": "Shit.", "cat": "map", "ctx": "Shipbuilding Commune.bbm script"}
+{"id": "P2_03354", "en": "Smells like liquor. Someone brewing in the back maybe.", "cat": "map", "ctx": "Shipbuilding Commune.bbm script"}
+{"id": "P2_03355", "en": "Sounds like a fun camp.", "cat": "map", "ctx": "Shipbuilding Commune.bbm script"}
+{"id": "P2_03356", "en": "Stop wasting time on such irrelevant observations.", "cat": "map", "ctx": "Shipbuilding Commune.bbm script"}
+{"id": "P2_03357", "en": "Sure was.", "cat": "map", "ctx": "Shipbuilding Commune.bbm script"}
+{"id": "P2_03358", "en": "Sure, look at that spot right there. That's clearly an ass-print.", "cat": "map", "ctx": "Shipbuilding Commune.bbm script"}
+{"id": "P2_03359", "en": "That's disgusting, Peregrine.", "cat": "map", "ctx": "Shipbuilding Commune.bbm script"}
+{"id": "P2_03360", "en": "The crusader can't take a dirty joke? Colour me surprised!", "cat": "map", "ctx": "Shipbuilding Commune.bbm script"}
+{"id": "P2_03361", "en": "The skulduggery is delightful. Very romantic.", "cat": "map", "ctx": "Shipbuilding Commune.bbm script"}
+{"id": "P2_03362", "en": "This tunnel was added recently. Probably not for that, though.", "cat": "map", "ctx": "Shipbuilding Commune.bbm script"}
+{"id": "P2_03363", "en": "Through a dirt tunnel though? Why not just rut in the woods?", "cat": "map", "ctx": "Shipbuilding Commune.bbm script"}
+{"id": "P2_03364", "en": "Vank, you're an asshole.", "cat": "map", "ctx": "Shipbuilding Commune.bbm script"}
+{"id": "P2_03365", "en": "We used these kinds of tunnels to ferret people back and forth to keep them away from town guards.", "cat": "map", "ctx": "Shipbuilding Commune.bbm script"}
+{"id": "P2_03366", "en": "Well you know me. I'm all about being consistent.", "cat": "map", "ctx": "Shipbuilding Commune.bbm script"}
+{"id": "P2_03367", "en": "What, do goblins just screw in the street?", "cat": "map", "ctx": "Shipbuilding Commune.bbm script"}
+{"id": "P2_03368", "en": "What? I'm not! You should have a few drinks before you screw.", "cat": "map", "ctx": "Shipbuilding Commune.bbm script"}
+{"id": "P2_03369", "en": "Whoah, seriously?", "cat": "map", "ctx": "Shipbuilding Commune.bbm script"}
+{"id": "P2_03370", "en": "Yep. In piles usually.", "cat": "map", "ctx": "Shipbuilding Commune.bbm script"}
+{"id": "P2_03371", "en": "Yes, an escape route to a warm body and a secret rut in the dark!", "cat": "map", "ctx": "Shipbuilding Commune.bbm script"}
+{"id": "P2_03372", "en": "You can still do it in the dirt tunnel while you're in the woods.", "cat": "map", "ctx": "Shipbuilding Commune.bbm script"}
+{"id": "P2_03373", "en": "You offering?", "cat": "map", "ctx": "Shipbuilding Commune.bbm script"}
+{"id": "P2_03374", "en": "You think they'd spend that much time digging a tunnel for that? It seems like maybe an escape route or something.", "cat": "map", "ctx": "Shipbuilding Commune.bbm script"}
+{"id": "P2_03375", "en": "You're such a child, Peregrine. Stay focused.", "cat": "map", "ctx": "Shipbuilding Commune.bbm script"}
+{"id": "P2_03376", "en": "You're very imaginative, Peregrine.", "cat": "map", "ctx": "Shipbuilding Commune.bbm script"}
+{"id": "P2_03377", "en": "Zan, for a guy who spends as much time with his ass out as you do, you have a very poor sense of humour. Aren't demons supposed to be all about forbidden fun-having?", "cat": "map", "ctx": "Shipbuilding Commune.bbm script"}
+{"id": "P2_03378", "en": "He wanted children.", "cat": "map", "ctx": "Silent Courthouse.bbm script"}
+{"id": "P2_03379", "en": "He was always free to do anything he wanted, and I was locked down! Why is that so hard to understand?!", "cat": "map", "ctx": "Silent Courthouse.bbm script"}
+{"id": "P2_03380", "en": "I always thought he was on my side. I thought he understood, thought he supported me. How could he play along with such an unfair law?", "cat": "map", "ctx": "Silent Courthouse.bbm script"}
+{"id": "P2_03381", "en": "I don't really care which. It's your life, after all.", "cat": "map", "ctx": "Silent Courthouse.bbm script"}
+{"id": "P2_03382", "en": "I doubt anybody else here was on trial for trying to serve their country.", "cat": "map", "ctx": "Silent Courthouse.bbm script"}
+{"id": "P2_03383", "en": "I gather that is the case for most of us.", "cat": "map", "ctx": "Silent Courthouse.bbm script"}
+{"id": "P2_03384", "en": "I know all about Tsarathi law, Rangda. Those laws are there to keep your people alive and to keep you safe, but you could've run to the frontiers at any time and lived as free as you pleased.", "cat": "map", "ctx": "Silent Courthouse.bbm script"}
+{"id": "P2_03385", "en": "I see. You knew this and broke the law anyway?", "cat": "map", "ctx": "Silent Courthouse.bbm script"}
+{"id": "P2_03386", "en": "I thought after we escaped, we could go somewhere on the frontiers, like you said, and that we'd just... live. Have a few sons. Be a family away from all the laws and pressure.", "cat": "map", "ctx": "Silent Courthouse.bbm script"}
+{"id": "P2_03387", "en": "If he was just a tool to achieve your goal, that's one thing, but you can't use him as a tool while crying over the fact that he doesn't love you. He is as right to seek his path as you are to seek yours.", "cat": "map", "ctx": "Silent Courthouse.bbm script"}
+{"id": "P2_03388", "en": "It's better than camping out in the cold. It'll be fine.", "cat": "map", "ctx": "Silent Courthouse.bbm script"}
+{"id": "P2_03389", "en": "Just because it's not easy doesn't mean you can't do it, Rangda. Isn't that the whole point?", "cat": "map", "ctx": "Silent Courthouse.bbm script"}
+{"id": "P2_03390", "en": "Mind your tongue, human!", "cat": "map", "ctx": "Silent Courthouse.bbm script"}
+{"id": "P2_03391", "en": "Nazar sat there beside me looking like he was going to cry. I cried. More out of rage than anything else, you understand.", "cat": "map", "ctx": "Silent Courthouse.bbm script"}
+{"id": "P2_03392", "en": "No, of course not. You're right to want to be free of that, if that is what you wanted.", "cat": "map", "ctx": "Silent Courthouse.bbm script"}
+{"id": "P2_03393", "en": "No. I don't have good memories of courthouses.", "cat": "map", "ctx": "Silent Courthouse.bbm script"}
+{"id": "P2_03394", "en": "Not exactly cozy, is it?", "cat": "map", "ctx": "Silent Courthouse.bbm script"}
+{"id": "P2_03395", "en": "Oh, please. Are you going to give me another lecture about how I should have sat in that gilded cage and played nice? I've heard it all before, so save your breath.", "cat": "map", "ctx": "Silent Courthouse.bbm script"}
+{"id": "P2_03396", "en": "Perhaps you'd best mind my tongue instead.", "cat": "map", "ctx": "Silent Courthouse.bbm script"}
+{"id": "P2_03397", "en": "Rangda. I didn't think anyone else was awake. Can't sleep?", "cat": "map", "ctx": "Silent Courthouse.bbm script"}
+{"id": "P2_03398", "en": "So, change what you want.", "cat": "map", "ctx": "Silent Courthouse.bbm script"}
+{"id": "P2_03399", "en": "That doesn't matter anymore though. I guess neither of us got what we wanted.", "cat": "map", "ctx": "Silent Courthouse.bbm script"}
+{"id": "P2_03400", "en": "That was the day I lost him, the day I started planning this. And now...", "cat": "map", "ctx": "Silent Courthouse.bbm script"}
+{"id": "P2_03401", "en": "The reason I took so long to come after him was because it took me that long to decide that I wanted to give him that.", "cat": "map", "ctx": "Silent Courthouse.bbm script"}
+{"id": "P2_03402", "en": "Tsarathi law forbids women from serving in the military, even when they are capable. It also punishes a woman's husband if she breaks this law. It's hideously unfair.", "cat": "map", "ctx": "Silent Courthouse.bbm script"}
+{"id": "P2_03403", "en": "Ugh, did I really need to know that?", "cat": "map", "ctx": "Silent Courthouse.bbm script"}
+{"id": "P2_03404", "en": "Well, everyone make yourselves at home then. I'm gonna go find a place to till some soil.", "cat": "map", "ctx": "Silent Courthouse.bbm script"}
+{"id": "P2_03405", "en": "What did he want?", "cat": "map", "ctx": "Silent Courthouse.bbm script"}
+{"id": "P2_03406", "en": "What did your husband want? Do you know? Do you even care?", "cat": "map", "ctx": "Silent Courthouse.bbm script"}
+{"id": "P2_03407", "en": "What law is that?", "cat": "map", "ctx": "Silent Courthouse.bbm script"}
+{"id": "P2_03408", "en": "You are absolutely right to hate that cage you were in, but you are absolutely wrong if you think you know even the first thing about the world outside of it. The cage was a forced kindness, and freedom is limitless and cruel. Embrace it, or drag your cage behind you forever.", "cat": "map", "ctx": "Silent Courthouse.bbm script"}
+{"id": "P2_03409", "en": "You chatter on over your spoiled passion play like a bored noblewoman, because that's exactly what you are.", "cat": "map", "ctx": "Silent Courthouse.bbm script"}
+{"id": "P2_03410", "en": "You say that like it's the easiest thing to do.", "cat": "map", "ctx": "Silent Courthouse.bbm script"}
+{"id": "P2_03411", "en": "...bridge to the pocket realm I have purchased. If I have been careful enough, no traces will remain, and it will be impossible for anyone to follow, or to undo my work. The town will simply cease to be, and the island will be better for it. -K", "cat": "map", "ctx": "Silent Town.bbm script"}
+{"id": "P2_03412", "en": "Aha, our jailor reveals herself! How many years now have I hunted you? How many deaths do I owe you for locking me away?", "cat": "map", "ctx": "Silent Town.bbm script"}
+{"id": "P2_03413", "en": "And now, you are commanded to die!", "cat": "map", "ctx": "Silent Town.bbm script"}
+{"id": "P2_03414", "en": "Anyone caught using the mayor's private lounge area will be severely punished.", "cat": "map", "ctx": "Silent Town.bbm script"}
+{"id": "P2_03415", "en": "I tried for so long to find a way to save these people from their mayor, but I am done trying. Their willful ignorance and refusal to help themselves turns my stomach, and the world will be no sorer for their loss. My patience is spent, and tonight they will all die.", "cat": "map", "ctx": "Silent Town.bbm script"}
+{"id": "P2_03416", "en": "Men! It is time to collect our dues!", "cat": "map", "ctx": "Silent Town.bbm script"}
+{"id": "P2_03417", "en": "Now, there remains only one.", "cat": "map", "ctx": "Silent Town.bbm script"}
+{"id": "P2_03418", "en": "Oh, I'm not going anywhere, and neither are you. While you were busy with these fools, I was busy severing the last threads that connect this place with the other side.", "cat": "map", "ctx": "Silent Town.bbm script"}
+{"id": "P2_03419", "en": "Thanks to your interference, my snare was nearly slipped. Take your fool adventuring elsewhere, and never return. All here are slain.", "cat": "map", "ctx": "Silent Town.bbm script"}
+{"id": "P2_03420", "en": "The drums have been ensorcelled and are ready for use. Once they've been lit, this well should suffice as a...", "cat": "map", "ctx": "Silent Town.bbm script"}
+{"id": "P2_03421", "en": "This is my realm, and it obeys my whim! You can't defeat me here! Even death kneels when I command it!", "cat": "map", "ctx": "Silent Town.bbm script"}
+{"id": "P2_03422", "en": "Visitors, opening the door from the outside. I wanted to thank you, but I have watched you maim and slaughter my people. Did you think that you would be allowed your trespasses without consequence?", "cat": "map", "ctx": "Silent Town.bbm script"}
+{"id": "P2_03423", "en": "We'll count them together, slowly, just as soon as I finish dealing with these intruders. Do stay put.", "cat": "map", "ctx": "Silent Town.bbm script"}
+{"id": "P2_03424", "en": "You really don't understand, do you?", "cat": "map", "ctx": "Silent Town.bbm script"}
+{"id": "P2_03425", "en": "You shall pay for your intrusion with your blood and your bones, and I shall from your flesh forge a gateway back into the real world!", "cat": "map", "ctx": "Silent Town.bbm script"}
+{"id": "P2_03426", "en": "Again? This isn't good. You guys go back to Hayill and tell the alpha about this.", "cat": "map", "ctx": "Slaughtered Caravan.bbm script"}
+{"id": "P2_03427", "en": "Grant! It was the leeches again. The people were already dead when we arrived, and we caught them doctoring the place up to make it look like it was us.", "cat": "map", "ctx": "Slaughtered Caravan.bbm script"}
+{"id": "P2_03428", "en": "I'd like to clean this up, but if we try to hide it, it just makes us look guilty. Leave them to the scavengers of the woods, I say. There's nothing to be done for it now.", "cat": "map", "ctx": "Slaughtered Caravan.bbm script"}
+{"id": "P2_03429", "en": "Right. He ain't gonna be happy...", "cat": "map", "ctx": "Slaughtered Caravan.bbm script"}
+{"id": "P2_03430", "en": "Ritter! What happened?", "cat": "map", "ctx": "Slaughtered Caravan.bbm script"}
+{"id": "P2_03431", "en": "Still, I guess it's good that you saw this. Now you know just what kind of awful shit Frico has been doing.", "cat": "map", "ctx": "Slaughtered Caravan.bbm script"}
+{"id": "P2_03432", "en": "They've been doing this a lot lately. Frico's vampires spot a trading caravan heading for Hayill, and they slaughter them.", "cat": "map", "ctx": "Slaughtered Caravan.bbm script"}
+{"id": "P2_03433", "en": "What's more, they mangle the bodies and leave them in places where others can find them, to make it look like we're the ones doing it. It makes me fucking sick.", "cat": "map", "ctx": "Slaughtered Caravan.bbm script"}
+{"id": "P2_03434", "en": "-that is, one of my cousins was the duchess there. It's a scenic place, but the only thing there of any note is the graveyard, where King Chevre is buried.", "cat": "map", "ctx": "Spartill Lodge.bbm script"}
+{"id": "P2_03435", "en": "Groundskeeper\n\nCall if you need assistance, but pray be patient if the hour is late.", "cat": "map", "ctx": "Spartill Lodge.bbm script"}
+{"id": "P2_03436", "en": "I still have my key. Max always told me to come by whenever I wanted. He made me feel at home here.", "cat": "map", "ctx": "Spartill Lodge.bbm script"}
+{"id": "P2_03437", "en": "I take it you know this place?", "cat": "map", "ctx": "Spartill Lodge.bbm script"}
+{"id": "P2_03438", "en": "I wouldn't dare try to cross the strait by boat for fear of Leviathan, but I think that one of the royal transit lines connects. Perhaps the tunnel is still useable.", "cat": "map", "ctx": "Spartill Lodge.bbm script"}
+{"id": "P2_03439", "en": "It's Maxim's hunting lodge. Or, I suppose, it was.", "cat": "map", "ctx": "Spartill Lodge.bbm script"}
+{"id": "P2_03440", "en": "Max. How could you really be gone?", "cat": "map", "ctx": "Spartill Lodge.bbm script"}
+{"id": "P2_03441", "en": "Mother, mother, remember me.", "cat": "map", "ctx": "Spartill Lodge.bbm script"}
+{"id": "P2_03442", "en": "Spartill Lodge.", "cat": "map", "ctx": "Spartill Lodge.bbm script"}
+{"id": "P2_03443", "en": "The Babe", "cat": "map", "ctx": "Spartill Lodge.bbm script"}
+{"id": "P2_03444", "en": "The Babe almost surely means the Isle of Babe, off the western shore. One of my cousins is-", "cat": "map", "ctx": "Spartill Lodge.bbm script"}
+{"id": "P2_03445", "en": "These premises are property of Lord Maxim Spartill. If you are in desperate need of shelter, please alert the groundskeeper. Someone will take care of you.", "cat": "map", "ctx": "Spartill Lodge.bbm script"}
+{"id": "P2_03446", "en": "Well, maybe this is the only vestige of home left for me. Just promise me that you'll be respectful, alright?", "cat": "map", "ctx": "Spartill Lodge.bbm script"}
+{"id": "P2_03447", "en": "Yes, I know it very well. I spent many nights here, laughing and bragging and drinking.", "cat": "map", "ctx": "Spartill Lodge.bbm script"}
+{"id": "P2_03448", "en": "chasing the babe", "cat": "map", "ctx": "Spartill Lodge.bbm script"}
+{"id": "P2_03449", "en": "...my last work... take it... live... and love...where I...cannot...", "cat": "map", "ctx": "Steelweaver Tomb.bbm script"}
+{"id": "P2_03450", "en": "...thank... you..", "cat": "map", "ctx": "Steelweaver Tomb.bbm script"}
+{"id": "P2_03451", "en": "A stone... born of suffering... to plant a seed... of love... this... you seek", "cat": "map", "ctx": "Steelweaver Tomb.bbm script"}
+{"id": "P2_03452", "en": "I cannot see... your face... but your pain... sings to me... your intentions... give to me... the stone...", "cat": "map", "ctx": "Steelweaver Tomb.bbm script"}
+{"id": "P2_03453", "en": "I hear... echoes. Your pain... the song of the hammer... on steel...", "cat": "map", "ctx": "Steelweaver Tomb.bbm script"}
+{"id": "P2_03454", "en": "I've need of a smith. Will you help me?", "cat": "map", "ctx": "Steelweaver Tomb.bbm script"}
+{"id": "P2_03455", "en": "Mercy... nary a mercy... nary a mercy...", "cat": "map", "ctx": "Steelweaver Tomb.bbm script"}
+{"id": "P2_03456", "en": "Take it... my greatest work... yours...", "cat": "map", "ctx": "Steelweaver Tomb.bbm script"}
+{"id": "P2_03457", "en": "Thank you friend. Rest well.", "cat": "map", "ctx": "Steelweaver Tomb.bbm script"}
+{"id": "P2_03458", "en": "The one...who seeks... must... come alone...", "cat": "map", "ctx": "Steelweaver Tomb.bbm script"}
+{"id": "P2_03459", "en": "You... have awakened... the crystal.  You... are the one... my grave... beneath...", "cat": "map", "ctx": "Steelweaver Tomb.bbm script"}
+{"id": "P2_03460", "en": "Your pain... is forged... your life... through my hammer...", "cat": "map", "ctx": "Steelweaver Tomb.bbm script"}
+{"id": "P2_03461", "en": "Ah well. I'm sure they got everything that was worth taking. Guess it's time to wander on.", "cat": "map", "ctx": "Stewpot Reststop.bbm script"}
+{"id": "P2_03462", "en": "I don't suppose you could get me out of here?", "cat": "map", "ctx": "Stewpot Reststop.bbm script"}
+{"id": "P2_03463", "en": "I was raiding the place for goodies when I got surprised by a band of rogues. I hid down here in the cellar, but the place is not in the best shape, you see, and the ceiling caved in. I'm stuck back here good and proper.", "cat": "map", "ctx": "Stewpot Reststop.bbm script"}
+{"id": "P2_03464", "en": "I'm Greening. This place seemed like it might have some food or supplies, so I started poking around. Those thugs either followed me, or I have rotten luck and we just picked the same target.", "cat": "map", "ctx": "Stewpot Reststop.bbm script"}
+{"id": "P2_03465", "en": "Oh bollocks. It's all over now, isn't it?", "cat": "map", "ctx": "Stewpot Reststop.bbm script"}
+{"id": "P2_03466", "en": "Oh my!", "cat": "map", "ctx": "Stewpot Reststop.bbm script"}
+{"id": "P2_03467", "en": "Oh! You aren't one of those ruffians, are you?", "cat": "map", "ctx": "Stewpot Reststop.bbm script"}
+{"id": "P2_03468", "en": "Stewpot Roadstop\n\nBeef served every day! Come on in!", "cat": "map", "ctx": "Stewpot Reststop.bbm script"}
+{"id": "P2_03469", "en": "That doesn't sound good.", "cat": "map", "ctx": "Stewpot Reststop.bbm script"}
+{"id": "P2_03470", "en": "Well that was close. Cheers for the rescue, eh?", "cat": "map", "ctx": "Stewpot Reststop.bbm script"}
+{"id": "P2_03471", "en": "Ah, Dame Borgnina. Are you leaving so soon?", "cat": "map", "ctx": "Stillwind Abbey.bbm script"}
+{"id": "P2_03472", "en": "And I knew this, somewhere in the back of my mind, but I was still willing to force an agonizing baptism in holy flame just in case.", "cat": "map", "ctx": "Stillwind Abbey.bbm script"}
+{"id": "P2_03473", "en": "As for me... it seems my pilgrimage is far from over. I'll be leaving soon, but thanks to you, these sisters will never know the agony I nearly subjected them to. The suffering that would have been on my hands. Thank you.", "cat": "map", "ctx": "Stillwind Abbey.bbm script"}
+{"id": "P2_03266A", "en": "Rangda seethes silently for a long moment, torn somewhere between screaming and crying, though she does neither.", "cat": "map", "ctx": "script narration extracted from a code fragment"}
+{"id": "P2_03266B", "en": "Finally, she looks up at you, her face clouded with rage.", "cat": "map", "ctx": "script narration extracted from a code fragment"}
+{"id": "P2_03267A", "en": "A massive bearded orc dressed in tattered leather strides out from the underbrush. He must be the one who has been camping here.", "cat": "map", "ctx": "script narration extracted from a code fragment"}
+{"id": "P2_03268A", "en": "An orc woman in well-made riveted leather armour emerges from the underbrush. She must be the one who has been camping here.", "cat": "map", "ctx": "script narration extracted from a code fragment"}

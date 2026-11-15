@@ -1,0 +1,270 @@
+{"id": "P2_00273", "en": "What was that noise?", "cat": "dialogue", "ctx": "AA-Pathetic.bbd banterGeneral2"}
+{"id": "P2_00274", "en": "Oh God, no, please don't hurt me!", "cat": "dialogue", "ctx": "AA-Pathetic.bbd banterHardfight1"}
+{"id": "P2_00275", "en": "I'm gonna die, I'm gonna die!", "cat": "dialogue", "ctx": "AA-Pathetic.bbd banterHardfight2"}
+{"id": "P2_00276", "en": "No we... we'll laugh about it later.\nYou'll see.", "cat": "dialogue", "ctx": "AA-Pathetic.bbd banterHardfriend1"}
+{"id": "P2_00277", "en": "If it starts to go bad, we're going to run, right?", "cat": "dialogue", "ctx": "AA-Pathetic.bbd banterHardfriend2"}
+{"id": "P2_00278", "en": "Stop it!\nI can barely stand as it is!", "cat": "dialogue", "ctx": "AA-Pathetic.bbd banterHardrival1"}
+{"id": "P2_00279", "en": "I'm... sure we have a plan, right?\nAnybody?", "cat": "dialogue", "ctx": "AA-Pathetic.bbd banterHardrival2"}
+{"id": "P2_00280", "en": "They're too strong!\nWe have to run!", "cat": "dialogue", "ctx": "AA-Pathetic.bbd banterRivaldies1"}
+{"id": "P2_00281", "en": "This can't be happening!", "cat": "dialogue", "ctx": "AA-Pathetic.bbd banterRivaldies2"}
+{"id": "P2_00282", "en": "Just throw us on a boat and dump us here? How can they even be allowed to do this to us? Does anybody at home even know what they're doing, what kind of place this is? Can't I just wake up and have this all be just a bad dream?", "cat": "dialogue", "ctx": "AA-Pathetic.bbd civilChat"}
+{"id": "P2_00283", "en": "You want me to leave? Okay, just please don't hurt me!", "cat": "dialogue", "ctx": "AA-Pathetic.bbd civilDismiss"}
+{"id": "P2_00284", "en": "I can't believe what a mess this is.", "cat": "dialogue", "ctx": "AA-Pathetic.bbd civilIntro"}
+{"id": "P2_00285", "en": "I... I don't know how much more of this I can take.", "cat": "dialogue", "ctx": "AA-Pathetic.bbd civilNo"}
+{"id": "P2_00286", "en": "I'm going.", "cat": "dialogue", "ctx": "AA-Pathetic.bbd civilYes"}
+{"id": "P2_00287", "en": "Stop! Please, don't hurt me!", "cat": "dialogue", "ctx": "AA-Pathetic.bbd hostileIntro"}
+{"id": "P2_00288", "en": "I don't have anything to give you!  You're going to kill me aren't you? Oh god, get away from me!", "cat": "dialogue", "ctx": "AA-Pathetic.bbd hostileRansomFailure"}
+{"id": "P2_00289", "en": "Yes of course, just don't hurt me!", "cat": "dialogue", "ctx": "AA-Pathetic.bbd hostileRansomSuccess"}
+{"id": "P2_00290", "en": "No, please, anything but that!", "cat": "dialogue", "ctx": "AA-Pathetic.bbd hostileRecruitFailure"}
+{"id": "P2_00291", "en": "Fine, anything you want!", "cat": "dialogue", "ctx": "AA-Pathetic.bbd hostileRecruitSuccess"}
+{"id": "P2_00292", "en": "Oh thank you! I'll go right away!", "cat": "dialogue", "ctx": "AA-Pathetic.bbd hostileRelease"}
+{"id": "P2_00293", "en": "Sure, alright. Just... lead the way and I'll be right behind you.", "cat": "dialogue", "ctx": "AA-Pathetic.bbd neutralAccept"}
+{"id": "P2_00294", "en": "I haven't spoken to anybody since I got here. Everyone just wants to rob me or rape me or worse. Please... you're making me really nervous. Can't you just leave me be?", "cat": "dialogue", "ctx": "AA-Pathetic.bbd neutralChat"}
+{"id": "P2_00295", "en": "Get back! I don't want any trouble!", "cat": "dialogue", "ctx": "AA-Pathetic.bbd neutralIntro"}
+{"id": "P2_00296", "en": "You... want me to go with you? You'll keep me safe?", "cat": "dialogue", "ctx": "AA-Pathetic.bbd neutralRecruit"}
+{"id": "P2_00297", "en": "Please leave me alone! Please!", "cat": "dialogue", "ctx": "AA-Pathetic.bbd neutralRefuse"}
+{"id": "P2_00298", "en": "You know, I don't understand why I'm still here. I'm not strong, I'm not useful, but you keep me around anyway. You must have an awfully big heart to spare so much pity for a miserable thing like me. I would never have survived this long without you, so I just wanted to say thank you. You give me hope that maybe I'll somehow make it through all this. Here. It's not much of a gift, but it's the only thing I have of any value. Take it, please.", "cat": "dialogue", "ctx": "AA-Pathetic.bbd trustCampfire"}
+{"id": "P2_00299", "en": "Hello. I'm doing well, I think. When I took a moment to calm down and look around, and saw all the others working together, it made me feel a lot better. If people as dangerous as this can work together for our shared survival, then maybe there's hope for me after all. I'll do my best.", "cat": "dialogue", "ctx": "AA-Pathetic.bbd trustChat"}
+{"id": "P2_00300", "en": "You think that I should go? I don't really want to go anymore. Are you sure?", "cat": "dialogue", "ctx": "AA-Pathetic.bbd trustDismiss"}
+{"id": "P2_00301", "en": "Just take it one day at a time.", "cat": "dialogue", "ctx": "AA-Pathetic.bbd trustIntro"}
+{"id": "P2_00302", "en": "Thank you. I would hate to leave now that I'm finally starting to find my place here.", "cat": "dialogue", "ctx": "AA-Pathetic.bbd trustNo"}
+{"id": "P2_00303", "en": "You showed me that I'm strong enough to get by, even with my doubts, so I thank you for that. Goodbye.", "cat": "dialogue", "ctx": "AA-Pathetic.bbd trustYes"}
+{"id": "P2_00304", "en": "I was just thinking it's a little dry in here!", "cat": "dialogue", "ctx": "AA-Revelrous.bbd banterEasyfight1"}
+{"id": "P2_00305", "en": "Well it's about damn time.", "cat": "dialogue", "ctx": "AA-Revelrous.bbd banterEasyfight2"}
+{"id": "P2_00306", "en": "Oh good, toys.", "cat": "dialogue", "ctx": "AA-Revelrous.bbd banterEvent1"}
+{"id": "P2_00307", "en": "Waste of time messing with this shit.", "cat": "dialogue", "ctx": "AA-Revelrous.bbd banterEvent2"}
+{"id": "P2_00308", "en": "You're dead meat!", "cat": "dialogue", "ctx": "AA-Revelrous.bbd banterFrienddies1"}
+{"id": "P2_00309", "en": "You rancid whore!", "cat": "dialogue", "ctx": "AA-Revelrous.bbd banterFrienddies2"}
+{"id": "P2_00310", "en": "Can we just get a fucking move on?", "cat": "dialogue", "ctx": "AA-Revelrous.bbd banterGeneral1"}
+{"id": "P2_00311", "en": "Someone's been here.", "cat": "dialogue", "ctx": "AA-Revelrous.bbd banterGeneral2"}
+{"id": "P2_00312", "en": "This is gonna be bloody as fuck!", "cat": "dialogue", "ctx": "AA-Revelrous.bbd banterHardfight1"}
+{"id": "P2_00313", "en": "You can kill me, I know you can.\nBring it on!", "cat": "dialogue", "ctx": "AA-Revelrous.bbd banterHardfight2"}
+{"id": "P2_00314", "en": "Aw, cheer up.\nYou got a front seat to the slaughter!", "cat": "dialogue", "ctx": "AA-Revelrous.bbd banterHardfriend1"}
+{"id": "P2_00315", "en": "Oh don't worry.\nI'll kill 'em extra dead, just for you!", "cat": "dialogue", "ctx": "AA-Revelrous.bbd banterHardfriend2"}
+{"id": "P2_00316", "en": "Get out of the way, you damn pussy!", "cat": "dialogue", "ctx": "AA-Revelrous.bbd banterHardrival1"}
+{"id": "P2_00317", "en": "What the fuck do you know,\nyou whinging brat?", "cat": "dialogue", "ctx": "AA-Revelrous.bbd banterHardrival2"}
+{"id": "P2_00318", "en": "Hah!\nShit, that's messy!", "cat": "dialogue", "ctx": "AA-Revelrous.bbd banterRivaldies1"}
+{"id": "P2_00319", "en": "Is that all you got?", "cat": "dialogue", "ctx": "AA-Revelrous.bbd banterRivaldies2"}
+{"id": "P2_00320", "en": "Look, I know we gotta eat and sleep and wash our fucking socks and shit, but this sitting still is driving me nuts. They keep sending me out to hunt for meat, which is fine, but I want to kill something that understands what's going on when I crush its fucking windpipe. Take me with you to the next fight.", "cat": "dialogue", "ctx": "AA-Revelrous.bbd civilChat"}
+{"id": "P2_00321", "en": "So what you're saying is that you're too fucking spineless to handle me, have I got that right?", "cat": "dialogue", "ctx": "AA-Revelrous.bbd civilDismiss"}
+{"id": "P2_00322", "en": "What do you want?", "cat": "dialogue", "ctx": "AA-Revelrous.bbd civilIntro"}
+{"id": "P2_00323", "en": "Oh really? Prove it then! Lead me to the next slaughter.", "cat": "dialogue", "ctx": "AA-Revelrous.bbd civilNo"}
+{"id": "P2_00324", "en": "I might've known. I know better than to start shit when I'm surrounded, but If I ever see you again, I'll kill you.", "cat": "dialogue", "ctx": "AA-Revelrous.bbd civilYes"}
+{"id": "P2_00325", "en": "Haha, alright. My life is clearly in your hands. What will you do with it?", "cat": "dialogue", "ctx": "AA-Revelrous.bbd hostileIntro"}
+{"id": "P2_00326", "en": "Will you still want it when it's soaked in blood? Come and get it asshole!", "cat": "dialogue", "ctx": "AA-Revelrous.bbd hostileRansomFailure"}
+{"id": "P2_00327", "en": "The strong take what they want, and you have beaten me. Take it.", "cat": "dialogue", "ctx": "AA-Revelrous.bbd hostileRansomSuccess"}
+{"id": "P2_00328", "en": "I'll kill you the moment you turn your back! How does that sound?", "cat": "dialogue", "ctx": "AA-Revelrous.bbd hostileRecruitFailure"}
+{"id": "P2_00329", "en": "Fine then. Lead me to the next fight.", "cat": "dialogue", "ctx": "AA-Revelrous.bbd hostileRecruitSuccess"}
+{"id": "P2_00330", "en": "Alright then.", "cat": "dialogue", "ctx": "AA-Revelrous.bbd hostileRelease"}
+{"id": "P2_00331", "en": "I can already smell the blood. What are we waiting for?", "cat": "dialogue", "ctx": "AA-Revelrous.bbd neutralAccept"}
+{"id": "P2_00332", "en": "I'm not interested in chitchat. If you aren't going to start a fight, I suggest you shove off before I decide to start one for you.", "cat": "dialogue", "ctx": "AA-Revelrous.bbd neutralChat"}
+{"id": "P2_00333", "en": "Come at me, asshole. I dare you.", "cat": "dialogue", "ctx": "AA-Revelrous.bbd neutralIntro"}
+{"id": "P2_00334", "en": "Follow you? Sure. You lead me to the fight and I'll kill for you, as long as you let me kill the way I want.", "cat": "dialogue", "ctx": "AA-Revelrous.bbd neutralRecruit"}
+{"id": "P2_00335", "en": "Fucking spineless dog. Get out of my sight.", "cat": "dialogue", "ctx": "AA-Revelrous.bbd neutralRefuse"}
+{"id": "P2_00336", "en": "When we met I thought you were a goddamn pussy, and I only joined you because I was bored and didn't give a shit, but some of the bloodiest fights of my career have been fought right here, in your group. Nothing in the world is more exquisite. The blood, the screams, the gaze of eyes losing their grip on life. Everything on this island fears my name, or will learn to. Here. Think of it as a trophy. And don't you ever get on my bad side.", "cat": "dialogue", "ctx": "AA-Revelrous.bbd trustCampfire"}
+{"id": "P2_00337", "en": "You know, I can't really sleep if I haven't killed recently. I see how easy it is to destroy life, and that's the only way to get any satisfaction out of being alive myself. Since being here with you though, I sleep good. I sleep real good. When's the next raid?", "cat": "dialogue", "ctx": "AA-Revelrous.bbd trustChat"}
+{"id": "P2_00338", "en": "You better not be telling me to piss off, or you'll find yourself on the wrong side next time we meet. Is that what you want?", "cat": "dialogue", "ctx": "AA-Revelrous.bbd trustDismiss"}
+{"id": "P2_00339", "en": "I can still smell it. It's fucking everywhere!", "cat": "dialogue", "ctx": "AA-Revelrous.bbd trustIntro"}
+{"id": "P2_00340", "en": "Then you're smarter than you look. You keep pointing and I'll keep killing. No reason to make things complicated.", "cat": "dialogue", "ctx": "AA-Revelrous.bbd trustNo"}
+{"id": "P2_00341", "en": "I look forward to the day I get to snap your pretty little neck in my bare hands.", "cat": "dialogue", "ctx": "AA-Revelrous.bbd trustYes"}
+{"id": "P2_00342", "en": "This will be simple.", "cat": "dialogue", "ctx": "AA-Terse.bbd banterEasyfight1"}
+{"id": "P2_00343", "en": "Nothing to worry about.", "cat": "dialogue", "ctx": "AA-Terse.bbd banterEasyfight2"}
+{"id": "P2_00344", "en": "Something here.", "cat": "dialogue", "ctx": "AA-Terse.bbd banterEvent1"}
+{"id": "P2_00345", "en": "What is that?", "cat": "dialogue", "ctx": "AA-Terse.bbd banterEvent2"}
+{"id": "P2_00346", "en": "A shame.", "cat": "dialogue", "ctx": "AA-Terse.bbd banterFrienddies1"}
+{"id": "P2_00347", "en": "You will be missed.", "cat": "dialogue", "ctx": "AA-Terse.bbd banterFrienddies2"}
+{"id": "P2_00348", "en": "Seems safe, for now.", "cat": "dialogue", "ctx": "AA-Terse.bbd banterGeneral1"}
+{"id": "P2_00349", "en": "Nothing to report.", "cat": "dialogue", "ctx": "AA-Terse.bbd banterGeneral2"}
+{"id": "P2_00350", "en": "Hmm.\nThis will be complicated.", "cat": "dialogue", "ctx": "AA-Terse.bbd banterHardfight1"}
+{"id": "P2_00351", "en": "This does not look good.", "cat": "dialogue", "ctx": "AA-Terse.bbd banterHardfight2"}
+{"id": "P2_00352", "en": "Don't worry.\nWe can do this.", "cat": "dialogue", "ctx": "AA-Terse.bbd banterHardfriend1"}
+{"id": "P2_00353", "en": "We've done worse.\nFocus.", "cat": "dialogue", "ctx": "AA-Terse.bbd banterHardfriend2"}
+{"id": "P2_00354", "en": "Your judgement is poor.\nWe can win.", "cat": "dialogue", "ctx": "AA-Terse.bbd banterHardrival1"}
+{"id": "P2_00355", "en": "You are wrong.\nJust watch.", "cat": "dialogue", "ctx": "AA-Terse.bbd banterHardrival2"}
+{"id": "P2_00356", "en": "That's inconvenient.", "cat": "dialogue", "ctx": "AA-Terse.bbd banterRivaldies1"}
+{"id": "P2_00357", "en": "Now we're shorthanded.", "cat": "dialogue", "ctx": "AA-Terse.bbd banterRivaldies2"}
+{"id": "P2_00358", "en": "Is there something you need?", "cat": "dialogue", "ctx": "AA-Terse.bbd civilChat"}
+{"id": "P2_00359", "en": "You're certain?", "cat": "dialogue", "ctx": "AA-Terse.bbd civilDismiss"}
+{"id": "P2_00360", "en": "Hello.", "cat": "dialogue", "ctx": "AA-Terse.bbd civilIntro"}
+{"id": "P2_00361", "en": "I remain then.", "cat": "dialogue", "ctx": "AA-Terse.bbd civilNo"}
+{"id": "P2_00362", "en": "Farewell then.", "cat": "dialogue", "ctx": "AA-Terse.bbd civilYes"}
+{"id": "P2_00363", "en": "You win!", "cat": "dialogue", "ctx": "AA-Terse.bbd hostileIntro"}
+{"id": "P2_00364", "en": "No, that's mine!", "cat": "dialogue", "ctx": "AA-Terse.bbd hostileRansomFailure"}
+{"id": "P2_00365", "en": "A trade then. Take it.", "cat": "dialogue", "ctx": "AA-Terse.bbd hostileRansomSuccess"}
+{"id": "P2_00366", "en": "I am no slave!", "cat": "dialogue", "ctx": "AA-Terse.bbd hostileRecruitFailure"}
+{"id": "P2_00367", "en": "Very well, I will serve.", "cat": "dialogue", "ctx": "AA-Terse.bbd hostileRecruitSuccess"}
+{"id": "P2_00368", "en": "Fine. I go.", "cat": "dialogue", "ctx": "AA-Terse.bbd hostileRelease"}
+{"id": "P2_00369", "en": "Then we go together.", "cat": "dialogue", "ctx": "AA-Terse.bbd neutralAccept"}
+{"id": "P2_00370", "en": "Speak or begone.", "cat": "dialogue", "ctx": "AA-Terse.bbd neutralChat"}
+{"id": "P2_00371", "en": "What?", "cat": "dialogue", "ctx": "AA-Terse.bbd neutralIntro"}
+{"id": "P2_00372", "en": "If you share supplies, I will join.", "cat": "dialogue", "ctx": "AA-Terse.bbd neutralRecruit"}
+{"id": "P2_00373", "en": "Then I refuse. Leave.", "cat": "dialogue", "ctx": "AA-Terse.bbd neutralRefuse"}
+{"id": "P2_00374", "en": "My turn for watch. Before you go, take this. It is my thanks.", "cat": "dialogue", "ctx": "AA-Terse.bbd trustCampfire"}
+{"id": "P2_00375", "en": "What do you need?", "cat": "dialogue", "ctx": "AA-Terse.bbd trustChat"}
+{"id": "P2_00376", "en": "You want me gone?", "cat": "dialogue", "ctx": "AA-Terse.bbd trustDismiss"}
+{"id": "P2_00377", "en": "Ah, hello.", "cat": "dialogue", "ctx": "AA-Terse.bbd trustIntro"}
+{"id": "P2_00378", "en": "Then I will stay.", "cat": "dialogue", "ctx": "AA-Terse.bbd trustNo"}
+{"id": "P2_00379", "en": "I go alone then.", "cat": "dialogue", "ctx": "AA-Terse.bbd trustYes"}
+{"id": "P2_00380", "en": "Oh goodness!\nThey... they're weak, right?", "cat": "dialogue", "ctx": "AA-Timid.bbd banterEasyfight1"}
+{"id": "P2_00381", "en": "Okay, we'll be fine.\nWe'll be fine.", "cat": "dialogue", "ctx": "AA-Timid.bbd banterEasyfight2"}
+{"id": "P2_00382", "en": "Do... you think it's smart for us\nto be playing with that?", "cat": "dialogue", "ctx": "AA-Timid.bbd banterEvent1"}
+{"id": "P2_00383", "en": "I wonder if that's a good idea.", "cat": "dialogue", "ctx": "AA-Timid.bbd banterEvent2"}
+{"id": "P2_00384", "en": "Not you!", "cat": "dialogue", "ctx": "AA-Timid.bbd banterFrienddies1"}
+{"id": "P2_00385", "en": "I can't... I can't!", "cat": "dialogue", "ctx": "AA-Timid.bbd banterFrienddies2"}
+{"id": "P2_00386", "en": "Oh goodness.\nDid you hear something?", "cat": "dialogue", "ctx": "AA-Timid.bbd banterGeneral1"}
+{"id": "P2_00387", "en": "This place makes me so nervous.", "cat": "dialogue", "ctx": "AA-Timid.bbd banterGeneral2"}
+{"id": "P2_00388", "en": "Why... why are you making that face?\nAre we going to die?", "cat": "dialogue", "ctx": "AA-Timid.bbd banterHardfight1"}
+{"id": "P2_00389", "en": "Oh God, that's more than we\ncan handle, isn't it? It is!", "cat": "dialogue", "ctx": "AA-Timid.bbd banterHardfight2"}
+{"id": "P2_00390", "en": "No, no, we'll be okay, right?\nWe've always been okay before...", "cat": "dialogue", "ctx": "AA-Timid.bbd banterHardfriend1"}
+{"id": "P2_00391", "en": "It... should be fine.\nWe'll think of something!", "cat": "dialogue", "ctx": "AA-Timid.bbd banterHardfriend2"}
+{"id": "P2_00392", "en": "We're all dead, I just know it!", "cat": "dialogue", "ctx": "AA-Timid.bbd banterHardrival1"}
+{"id": "P2_00393", "en": "Why, why does it have to end like this?", "cat": "dialogue", "ctx": "AA-Timid.bbd banterHardrival2"}
+{"id": "P2_00394", "en": "I'm gonna die here...", "cat": "dialogue", "ctx": "AA-Timid.bbd banterRivaldies1"}
+{"id": "P2_00395", "en": "I can't breathe...", "cat": "dialogue", "ctx": "AA-Timid.bbd banterRivaldies2"}
+{"id": "P2_00396", "en": "I thought I saw a monster outside the entrance just a moment ago, but nobody else saw it. Maybe it was just my imagination. I really don't like monsters, so I hope I was just seeing things. \nAnyway, did you need me?", "cat": "dialogue", "ctx": "AA-Timid.bbd civilChat"}
+{"id": "P2_00397", "en": "Oh, uhm... okay, I'll get my things and leave.", "cat": "dialogue", "ctx": "AA-Timid.bbd civilDismiss"}
+{"id": "P2_00398", "en": "Oh! You startled me. Did... you need something?", "cat": "dialogue", "ctx": "AA-Timid.bbd civilIntro"}
+{"id": "P2_00399", "en": "No? Well... alright I'll stay for now then.", "cat": "dialogue", "ctx": "AA-Timid.bbd civilNo"}
+{"id": "P2_00400", "en": "Goodbye then.", "cat": "dialogue", "ctx": "AA-Timid.bbd civilYes"}
+{"id": "P2_00401", "en": "No, please!  I've had enough!", "cat": "dialogue", "ctx": "AA-Timid.bbd hostileIntro"}
+{"id": "P2_00402", "en": "I don't want to fight for this but.. I will if I must!", "cat": "dialogue", "ctx": "AA-Timid.bbd hostileRansomFailure"}
+{"id": "P2_00403", "en": "Yes, just let me go and it's yours!", "cat": "dialogue", "ctx": "AA-Timid.bbd hostileRansomSuccess"}
+{"id": "P2_00404", "en": "You'll spare me now so you can work me to death later? I.. I won't!", "cat": "dialogue", "ctx": "AA-Timid.bbd hostileRecruitFailure"}
+{"id": "P2_00405", "en": "Fine, whatever you say! I'll do whatever you want.", "cat": "dialogue", "ctx": "AA-Timid.bbd hostileRecruitSuccess"}
+{"id": "P2_00406", "en": "I won't get in your way again. Thank you!", "cat": "dialogue", "ctx": "AA-Timid.bbd hostileRelease"}
+{"id": "P2_00407", "en": "This place is so awful... I still don't trust you, but I suppose I can follow you for a while and see how it goes.", "cat": "dialogue", "ctx": "AA-Timid.bbd neutralAccept"}
+{"id": "P2_00408", "en": "I haven't met a single person since I've been here who hasn't tried to slip a knife in my ribs. I'm sorry if you're the rare nice one, but I just can't take any chances. If you have nothing to say to me, just please go away!", "cat": "dialogue", "ctx": "AA-Timid.bbd neutralChat"}
+{"id": "P2_00409", "en": "Please just stay back. I don't want any trouble.", "cat": "dialogue", "ctx": "AA-Timid.bbd neutralIntro"}
+{"id": "P2_00410", "en": "Wait, what? You want me to join up with you? That... can't be right. I'm so useless. You're not serious, are you?", "cat": "dialogue", "ctx": "AA-Timid.bbd neutralRecruit"}
+{"id": "P2_00411", "en": "This conversation is making me really uncomfortable. Please just go.", "cat": "dialogue", "ctx": "AA-Timid.bbd neutralRefuse"}
+{"id": "P2_00412", "en": "Another quiet night? It's good to have those again. I can't believe what a mess I got into, getting shipped out here like this, being forced to fight just to survive. I thought I'd die starving and alone in some old burned-out basement. If I hadn't met you, I probably would have. \nI know our meeting was awkward, but I'm glad you came along when you did. Thank you. This isn't much, but I'd like you to have it.", "cat": "dialogue", "ctx": "AA-Timid.bbd trustCampfire"}
+{"id": "P2_00413", "en": "I don't really know where this is all going or just how it's going to end up, but lately I've had the feeling that we're going to be alright. I mean, as alright as you can get while being stuck on an island like this one. I was quite terrified of some of the other people here, but I have to admit it's working out well enough so far.", "cat": "dialogue", "ctx": "AA-Timid.bbd trustChat"}
+{"id": "P2_00414", "en": "Out there... by myself? But I'll die!", "cat": "dialogue", "ctx": "AA-Timid.bbd trustDismiss"}
+{"id": "P2_00415", "en": "Hello. Is there something you need?", "cat": "dialogue", "ctx": "AA-Timid.bbd trustIntro"}
+{"id": "P2_00416", "en": "Thank you. I'll do whatever you need, just please don't make me go out there alone!", "cat": "dialogue", "ctx": "AA-Timid.bbd trustNo"}
+{"id": "P2_00417", "en": "You wanna fight?\nCuz I do!", "cat": "dialogue", "ctx": "AA-Violent.bbd banterEasyfight1"}
+{"id": "P2_00418", "en": "Little on the weak side,\nbut a fight's a fight!", "cat": "dialogue", "ctx": "AA-Violent.bbd banterEasyfight2"}
+{"id": "P2_00419", "en": "Maybe some loot or somethin'?", "cat": "dialogue", "ctx": "AA-Violent.bbd banterEvent1"}
+{"id": "P2_00420", "en": "Wonder what that's for.", "cat": "dialogue", "ctx": "AA-Violent.bbd banterEvent2"}
+{"id": "P2_00421", "en": "Oh, you are gonna pay for that!", "cat": "dialogue", "ctx": "AA-Violent.bbd banterFrienddies1"}
+{"id": "P2_00422", "en": "Pick on someone your own size, asshole!", "cat": "dialogue", "ctx": "AA-Violent.bbd banterFrienddies2"}
+{"id": "P2_00423", "en": "Nothin' movin' over this way.", "cat": "dialogue", "ctx": "AA-Violent.bbd banterGeneral1"}
+{"id": "P2_00424", "en": "I got a weird feeling about this place.", "cat": "dialogue", "ctx": "AA-Violent.bbd banterGeneral2"}
+{"id": "P2_00425", "en": "Ah shit, we really stepped in it this time.", "cat": "dialogue", "ctx": "AA-Violent.bbd banterHardfight1"}
+{"id": "P2_00426", "en": "Bear down guys,\nthis one's gonna hurt.", "cat": "dialogue", "ctx": "AA-Violent.bbd banterHardfight2"}
+{"id": "P2_00427", "en": "What's a few bruises?\nShow 'em what we got!", "cat": "dialogue", "ctx": "AA-Violent.bbd banterHardfriend1"}
+{"id": "P2_00428", "en": "What, you don't really think this'll stop us?", "cat": "dialogue", "ctx": "AA-Violent.bbd banterHardfriend2"}
+{"id": "P2_00429", "en": "Just lay down and die then!\nI ain't goin' out yet!", "cat": "dialogue", "ctx": "AA-Violent.bbd banterHardrival1"}
+{"id": "P2_00430", "en": "Shut up and hurt something!", "cat": "dialogue", "ctx": "AA-Violent.bbd banterHardrival2"}
+{"id": "P2_00431", "en": "Yeah yeah, brokenhearted and shit.", "cat": "dialogue", "ctx": "AA-Violent.bbd banterRivaldies1"}
+{"id": "P2_00432", "en": "Can't really find a fuck to give, buddy.", "cat": "dialogue", "ctx": "AA-Violent.bbd banterRivaldies2"}
+{"id": "P2_00433", "en": "It's nice being able to get enough sleep for once, but it is really hard not to punch some of the people you're keeping on here. I need some action, so take me along for the next outing, alright?", "cat": "dialogue", "ctx": "AA-Violent.bbd civilChat"}
+{"id": "P2_00434", "en": "Ah shit, really? Was it something I said?", "cat": "dialogue", "ctx": "AA-Violent.bbd civilDismiss"}
+{"id": "P2_00435", "en": "Are we going out? I get antsy just sitting around here all day.", "cat": "dialogue", "ctx": "AA-Violent.bbd civilIntro"}
+{"id": "P2_00436", "en": "Hah, I knew you liked me! Come on, let's go clobber something!", "cat": "dialogue", "ctx": "AA-Violent.bbd civilNo"}
+{"id": "P2_00437", "en": "Ah well, it was nice while it lasted. Thanks for the grub.", "cat": "dialogue", "ctx": "AA-Violent.bbd civilYes"}
+{"id": "P2_00438", "en": "Gah, you win! Finish me already!", "cat": "dialogue", "ctx": "AA-Violent.bbd hostileIntro"}
+{"id": "P2_00439", "en": "You want it? Come and get it!", "cat": "dialogue", "ctx": "AA-Violent.bbd hostileRansomFailure"}
+{"id": "P2_00440", "en": "Take it then, and let me go!", "cat": "dialogue", "ctx": "AA-Violent.bbd hostileRansomSuccess"}
+{"id": "P2_00441", "en": "If you think you can tame me, let's see you fucking try!", "cat": "dialogue", "ctx": "AA-Violent.bbd hostileRecruitFailure"}
+{"id": "P2_00442", "en": "If you're strong enough to beat me, I'm better off on your side anyway. It's a deal.", "cat": "dialogue", "ctx": "AA-Violent.bbd hostileRecruitSuccess"}
+{"id": "P2_00443", "en": "You're letting me walk? Hmph.", "cat": "dialogue", "ctx": "AA-Violent.bbd hostileRelease"}
+{"id": "P2_00444", "en": "Well shit, show me who to punch!", "cat": "dialogue", "ctx": "AA-Violent.bbd neutralAccept"}
+{"id": "P2_00445", "en": "What the hell do you want with me anyway? I already warned you. I'm real good at hurting people, so if you don't want to get hurt, you'd best back off and just leave me alone.", "cat": "dialogue", "ctx": "AA-Violent.bbd neutralChat"}
+{"id": "P2_00446", "en": "Keep your distance if you don't want me to hurt you.", "cat": "dialogue", "ctx": "AA-Violent.bbd neutralIntro"}
+{"id": "P2_00447", "en": "You actually WANT me to hurt someone? And you'll like... share your food with me and stuff?", "cat": "dialogue", "ctx": "AA-Violent.bbd neutralRecruit"}
+{"id": "P2_00448", "en": "All talk huh?  Now I kinda feel like punching you, so you'd best screw off.", "cat": "dialogue", "ctx": "AA-Violent.bbd neutralRefuse"}
+{"id": "P2_00449", "en": "You might've pieced this together, but I like to fight. I've fought most of my life. I'm real good at it, but it's also the only thing I got. Makes a big difference when you can fight with someone decent covering your ass, so I gotta thank you for that. You put me through some of the roughest fights I've ever seen, and I wouldn't have it any other way. Here, this is for you. It's just my way of saying thanks.", "cat": "dialogue", "ctx": "AA-Violent.bbd trustCampfire"}
+{"id": "P2_00450", "en": "You need me for anything? I could use a little exercise. I get really goddamn bored sitting around guarding the base, so I'd much rather go out with you and help you break some heads. Always a good time.", "cat": "dialogue", "ctx": "AA-Violent.bbd trustChat"}
+{"id": "P2_00451", "en": "What? You need me though, don't you? I mean, I thought we were... you seriously want me to just leave?", "cat": "dialogue", "ctx": "AA-Violent.bbd trustDismiss"}
+{"id": "P2_00452", "en": "Hey, I'm bored. Wanna wrestle? No? Maybe later.", "cat": "dialogue", "ctx": "AA-Violent.bbd trustIntro"}
+{"id": "P2_00453", "en": "Well don't scare me like that! I don't want to leave.", "cat": "dialogue", "ctx": "AA-Violent.bbd trustNo"}
+{"id": "P2_00454", "en": "I really respect you, and that is the only thing that is keeping me from punching your lights out right now.  Get out of my way.", "cat": "dialogue", "ctx": "AA-Violent.bbd trustYes"}
+{"id": "P2_00455", "en": "This arrangement seems good so far.", "cat": "dialogue", "ctx": "AAZ-Template.bbd civilChat"}
+{"id": "P2_00456", "en": "You want me to leave?", "cat": "dialogue", "ctx": "AAZ-Template.bbd civilDismiss"}
+{"id": "P2_00457", "en": "Hello ally.", "cat": "dialogue", "ctx": "AAZ-Template.bbd civilIntro"}
+{"id": "P2_00458", "en": "Then I shall remain for now.", "cat": "dialogue", "ctx": "AAZ-Template.bbd civilNo"}
+{"id": "P2_00459", "en": "Fine, I will go. Goodbye.", "cat": "dialogue", "ctx": "AAZ-Template.bbd civilYes"}
+{"id": "P2_00460", "en": "You have beaten me. What is your intention?", "cat": "dialogue", "ctx": "AAZ-Template.bbd hostileIntro"}
+{"id": "P2_00461", "en": "I don't think so. You'll have to wrest it from my corpse.", "cat": "dialogue", "ctx": "AAZ-Template.bbd hostileRansomFailure"}
+{"id": "P2_00462", "en": "Fine. I trade this for my life.", "cat": "dialogue", "ctx": "AAZ-Template.bbd hostileRansomSuccess"}
+{"id": "P2_00463", "en": "I'd sooner die than serve you.", "cat": "dialogue", "ctx": "AAZ-Template.bbd hostileRecruitFailure"}
+{"id": "P2_00464", "en": "Very well, I will join you.", "cat": "dialogue", "ctx": "AAZ-Template.bbd hostileRecruitSuccess"}
+{"id": "P2_00465", "en": "I will leave then.", "cat": "dialogue", "ctx": "AAZ-Template.bbd hostileRelease"}
+{"id": "P2_00466", "en": "Do you want something?", "cat": "dialogue", "ctx": "AAZ-Template.bbd neutralChat"}
+{"id": "P2_00467", "en": "Hello stranger.", "cat": "dialogue", "ctx": "AAZ-Template.bbd neutralIntro"}
+{"id": "P2_00468", "en": "Yes, I will join you, if you accept my terms.", "cat": "dialogue", "ctx": "AAZ-Template.bbd neutralRecruit"}
+{"id": "P2_00469", "en": "If you cannot accept my terms, I cannot join you.", "cat": "dialogue", "ctx": "AAZ-Template.bbd neutralRefuse"}
+{"id": "P2_00470", "en": "You have honoured our deal, and I thank you. This is a gift for you.", "cat": "dialogue", "ctx": "AAZ-Template.bbd trustCampfire"}
+{"id": "P2_00471", "en": "I am pleased to be here.", "cat": "dialogue", "ctx": "AAZ-Template.bbd trustChat"}
+{"id": "P2_00472", "en": "Hello friend.", "cat": "dialogue", "ctx": "AAZ-Template.bbd trustIntro"}
+{"id": "P2_00473", "en": "Carry the food, carry the loot, I don't care. Load me up and let's go.", "cat": "dialogue", "ctx": "Aide.bbd neutralChat"}
+{"id": "P2_00474", "en": "Did you need me for something?", "cat": "dialogue", "ctx": "Aide.bbd neutralIntro"}
+{"id": "P2_00475", "en": "Right behind you.", "cat": "dialogue", "ctx": "Aide.bbd neutralRefuse"}
+{"id": "P2_00476", "en": "What a charming... place... you've put together here, and I would know. You can tell by just looking at me that I have impeccable taste, not to mention my credentials. That's why merchants are in such a good mood while I'm around, of course.", "cat": "dialogue", "ctx": "Arbiter.bbd neutralChat"}
+{"id": "P2_00477", "en": "Oh hello!", "cat": "dialogue", "ctx": "Arbiter.bbd neutralIntro"}
+{"id": "P2_00478", "en": "Naturally. You keep the gears turning, and I'll keep everything well-oiled.", "cat": "dialogue", "ctx": "Arbiter.bbd neutralRefuse"}
+{"id": "P2_00479", "en": "You know, it's a good thing I am here, or every passing merchant would swindle you for your last quarter! You can trust me, of course. More gold for you means more gold for the stronghold, and what's good for the stronghold is good for all of us!", "cat": "dialogue", "ctx": "Auditor.bbd neutralChat"}
+{"id": "P2_00480", "en": "Greetings to you!", "cat": "dialogue", "ctx": "Auditor.bbd neutralIntro"}
+{"id": "P2_00481", "en": "I'll stay on top of those slippery vendors, don't you worry!", "cat": "dialogue", "ctx": "Auditor.bbd neutralRefuse"}
+{"id": "P2_00482", "en": "No doubt you come to see me because you've heard tales of my wondrous brew! You want someone turned into a toad, or wounds magically healed? I can do these things, and much more!", "cat": "dialogue", "ctx": "Baba.bbd neutralChat"}
+{"id": "P2_00483", "en": "Well hello there, Deary. Come to visit your Nan, have you?", "cat": "dialogue", "ctx": "Baba.bbd neutralIntro"}
+{"id": "P2_00484", "en": "I won't be staying on long, Deary, so buy what you need while you can!", "cat": "dialogue", "ctx": "Baba.bbd neutralRefuse"}
+{"id": "P2_00485", "en": "You know, I hear all kinds of interesting things here. People trust the man who pours the drinks, so I make sure everyone gets their fair share. If you want to leave any stuff for me to keep tucked away, or to sell off for coin, just put it there and I'll take care of it.", "cat": "dialogue", "ctx": "Barkeep.bbd neutralChat"}
+{"id": "P2_00486", "en": "Sit down for a spell.", "cat": "dialogue", "ctx": "Barkeep.bbd neutralIntro"}
+{"id": "P2_00487", "en": "Don't go gettin' yourself killed, now.", "cat": "dialogue", "ctx": "Barkeep.bbd neutralRefuse"}
+{"id": "P2_00488", "en": "I am right behind you.", "cat": "dialogue", "ctx": "Bato.bbd banterEasyfight1"}
+{"id": "P2_00489", "en": "I ain't scared! I ain't!", "cat": "dialogue", "ctx": "Bato.bbd banterEasyfight2"}
+{"id": "P2_00490", "en": "Let me take a look.", "cat": "dialogue", "ctx": "Bato.bbd banterEvent1"}
+{"id": "P2_00491", "en": "Want me to take care of that?", "cat": "dialogue", "ctx": "Bato.bbd banterEvent2"}
+{"id": "P2_00492", "en": "We got a man down!", "cat": "dialogue", "ctx": "Bato.bbd banterFrienddies1"}
+{"id": "P2_00493", "en": "Don't just stand there!", "cat": "dialogue", "ctx": "Bato.bbd banterFrienddies2"}
+{"id": "P2_00494", "en": "Feels good to be walkin' around.", "cat": "dialogue", "ctx": "Bato.bbd banterGeneral1"}
+{"id": "P2_00495", "en": "Hear that? Guess I'm just jumpy.", "cat": "dialogue", "ctx": "Bato.bbd banterGeneral2"}
+{"id": "P2_00496", "en": "It's the fish all over again!", "cat": "dialogue", "ctx": "Bato.bbd banterHardfight1"}
+{"id": "P2_00497", "en": "I'm ready to die.", "cat": "dialogue", "ctx": "Bato.bbd banterHardfight2"}
+{"id": "P2_00498", "en": "We'll come through, you'll see!", "cat": "dialogue", "ctx": "Bato.bbd banterHardfriend1"}
+{"id": "P2_00499", "en": "The boss will take 'em!", "cat": "dialogue", "ctx": "Bato.bbd banterHardfriend2"}
+{"id": "P2_00500", "en": "Quit your blubberin' and fight!", "cat": "dialogue", "ctx": "Bato.bbd banterHardrival1"}
+{"id": "P2_00501", "en": "Don't be so damn stupid.", "cat": "dialogue", "ctx": "Bato.bbd banterHardrival2"}
+{"id": "P2_00502", "en": "Step it up, or that's all of us!", "cat": "dialogue", "ctx": "Bato.bbd banterRivaldies1"}
+{"id": "P2_00503", "en": "That looked like it hurt.", "cat": "dialogue", "ctx": "Bato.bbd banterRivaldies2"}
+{"id": "P2_00504", "en": "Ugh, I still can't get the fish smell out of my beard. Still, there'd be worse in it if you hadn't come along when you did. I don't care what you did to end up here, you saved me and that's worth something, so I'm with you. Whatever you need.", "cat": "dialogue", "ctx": "Bato.bbd civilChat"}
+{"id": "P2_00505", "en": "Are you sure? I mean, are you going to be able to hold this place together without me?", "cat": "dialogue", "ctx": "Bato.bbd civilDismiss"}
+{"id": "P2_00506", "en": "Hey, good to see you! Everything going well today, I hope?", "cat": "dialogue", "ctx": "Bato.bbd civilIntro"}
+{"id": "P2_00507", "en": "I won't hear it. I still owe you for saving my life, and I'll find some way to be of use, you'll see.", "cat": "dialogue", "ctx": "Bato.bbd civilNo"}
+{"id": "P2_00508", "en": "It's a shame I didn't get a chance to pay you back proper for what you did, but I won't argue. Try not to get yourself killed, alright?", "cat": "dialogue", "ctx": "Bato.bbd civilYes"}
+{"id": "P2_00509", "en": "What the fuck are you trying to do? Are you crazy?", "cat": "dialogue", "ctx": "Bato.bbd hostileIntro"}
+{"id": "P2_00510", "en": "In case you didn't notice, I don't have shit all! If you're going to kill me just get it over with!", "cat": "dialogue", "ctx": "Bato.bbd hostileRansomFailure"}
+{"id": "P2_00511", "en": "Take it, I'm gone!", "cat": "dialogue", "ctx": "Bato.bbd hostileRansomSuccess"}
+{"id": "P2_00512", "en": "After seing how you treat people, I don't think so! Fuck you!", "cat": "dialogue", "ctx": "Bato.bbd hostileRecruitFailure"}
+{"id": "P2_00513", "en": "You could've just said so, you fucking psycho!", "cat": "dialogue", "ctx": "Bato.bbd hostileRecruitSuccess"}
+{"id": "P2_00514", "en": "Why didn't you goddamn say so? Fuck.", "cat": "dialogue", "ctx": "Bato.bbd hostileRelease"}
+{"id": "P2_00515", "en": "Well, this day is lookin' up! I'll be right behind you. Need me to carry a torch or anything?", "cat": "dialogue", "ctx": "Bato.bbd neutralAccept"}
+{"id": "P2_00516", "en": "Me and a few others ended up stuck in the cliffs when the boat they pushed us in on went off course. Sahaguin rounded us up and put us in this cell. The others were all dragged off. Drowned and diced up for fish food no doubt. There's a lot of ways to die, and almost any of 'em are better than that.", "cat": "dialogue", "ctx": "Bato.bbd neutralChat"}
+{"id": "P2_00517", "en": "Thanks so much. I ain't got much to offer, but I'd at least like to shake your hand.", "cat": "dialogue", "ctx": "Bato.bbd neutralIntro"}
+{"id": "P2_00518", "en": "Really? I mean, I'm in your debt for sure, and it ain't like I got anywhere else to be. I ain't much of a fighter, but I'll help out however I can.", "cat": "dialogue", "ctx": "Bato.bbd neutralRecruit"}
+{"id": "P2_00519", "en": "You saved my life, and I well know it. I'll bugger off once I catch my breath and scavenge what I can from this camp.", "cat": "dialogue", "ctx": "Bato.bbd neutralRefuse"}
+{"id": "P2_00520", "en": "A stupid deer. That was what got me sent here, you know? \n\nI hunted in the forest back home for years. I mean, sure I knew it was poaching, but I never figured it mattered. \n\nNot like the duke could eat every deer, right? \n\nI did it for so long I hardly even thought about it. \n\n|Well one day I'm out with my bow and I bag this monster stag. You should've seen the rack on it! \n\nTurns out though, I wasn't the only one out for a hunt. Me up to my elbows in deer guts and who comes riding along but old twirly-tits himself, and a half dozen sidekicks besides. \n\nHe nearly shot me dead right there, but one of his hounds convinced him it would be more fitting to have me shipped out here. \n\nI didn't think he could really make it happen, but here I am. \n\n|So ends the story of Bato. \n\nAt least, that's how I thought it ended, before you came along and hauled my ass out of the brine. \n\nBecause of you, I get a chance to write a better ending, and I will never, ever forget. \n\nI am your man, and glad about it.", "cat": "dialogue", "ctx": "Bato.bbd trustCampfire"}
+{"id": "P2_00521", "en": "Seems like forever ago we were crawling through that damned cave together. I never thought of myself as much of an adventurer you know, but this? After staring fishy death in the face, I am having more fun than I ever did. We got something good here, and it's thanks to you.", "cat": "dialogue", "ctx": "Bato.bbd trustChat"}
+{"id": "P2_00522", "en": "Wait, what? After all my hard work I get the boot?", "cat": "dialogue", "ctx": "Bato.bbd trustDismiss"}
+{"id": "P2_00523", "en": "Everything's in order here. Got something on your mind?", "cat": "dialogue", "ctx": "Bato.bbd trustIntro"}
+{"id": "P2_00524", "en": "I know I ain't as tough as some of these fuckers, but I do more to keep this place in order than you might think. Please trust me.", "cat": "dialogue", "ctx": "Bato.bbd trustNo"}
+{"id": "P2_00525", "en": "Alright, fine. You're the boss, and I don't owe you nothin' anymore.", "cat": "dialogue", "ctx": "Bato.bbd trustYes"}
+{"id": "P2_00526", "en": "I haven't forgotten how to fight!", "cat": "dialogue", "ctx": "Beauregard.bbd banterEasyfight1"}
+{"id": "P2_00527", "en": "Some things never change.", "cat": "dialogue", "ctx": "Beauregard.bbd banterEasyfight2"}
+{"id": "P2_00528", "en": "Is this important?", "cat": "dialogue", "ctx": "Beauregard.bbd banterEvent1"}
+{"id": "P2_00529", "en": "Something's there.", "cat": "dialogue", "ctx": "Beauregard.bbd banterEvent2"}
+{"id": "P2_00530", "en": "We're losing numbers!", "cat": "dialogue", "ctx": "Beauregard.bbd banterFrienddies1"}
+{"id": "P2_00531", "en": "Man down!", "cat": "dialogue", "ctx": "Beauregard.bbd banterFrienddies2"}
+{"id": "P2_00532", "en": "Ort.", "cat": "dialogue", "ctx": "Beauregard.bbd banterGeneral1"}
+{"id": "P2_00533", "en": "I could do with a sit down.", "cat": "dialogue", "ctx": "Beauregard.bbd banterGeneral2"}
+{"id": "P2_00534", "en": "Come then. \nI am already dead.", "cat": "dialogue", "ctx": "Beauregard.bbd banterHardfight1"}
+{"id": "P2_00535", "en": "I'll drag you down with me!", "cat": "dialogue", "ctx": "Beauregard.bbd banterHardfight2"}
+{"id": "P2_00536", "en": "Keep a cool head,\nand we will win!", "cat": "dialogue", "ctx": "Beauregard.bbd banterHardfriend1"}
+{"id": "P2_00537", "en": "Get into position!", "cat": "dialogue", "ctx": "Beauregard.bbd banterHardfriend2"}
+{"id": "P2_00538", "en": "Quiet, soldier!\nForm up!", "cat": "dialogue", "ctx": "Beauregard.bbd banterHardrival1"}
+{"id": "P2_00539", "en": "Either form up, \nor fall back!", "cat": "dialogue", "ctx": "Beauregard.bbd banterHardrival2"}
+{"id": "P2_00540", "en": "This isn't going well.", "cat": "dialogue", "ctx": "Beauregard.bbd banterRivaldies1"}
+{"id": "P2_00541", "en": "Press the advantage!", "cat": "dialogue", "ctx": "Beauregard.bbd banterRivaldies2"}
+{"id": "P2_00542", "en": "I am well-used to living like this, moving from holdout to holdout, fighting skirmishes, rationing supplies. If not for the utter ruin of this place, I could believe that nothing has changed.", "cat": "dialogue", "ctx": "Beauregard.bbd civilChat"}

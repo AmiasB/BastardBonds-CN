@@ -1,0 +1,166 @@
+{"id": "P2_00935", "en": "May I sit?\"\n\nGreave takes his cap off as he sits, wiping his sleeve across his forehead. He looks ragged now, his hair and beard unkempt, his armour battered, and his uniform stained and frayed. \n\nHe is a far cry from the straight-laced man you met weeks ago, but his eyes sparkle with confidence, and he carries himself more easily.\n\nHe takes a small object on a chain out of his pocket and sets it in the fire, then turns toward you and smiles.\n\n|\"You know, it doesn't take much to see how I'm the odd man out in this operation. I may well have held the key to many of these peoples' cells myself. \n\nIt's with no small amount of humility that I admit I regret that. \n\nWhen I first talked myself into coming to Lukatt, it was because I believed what I was told, that this place is a fortress where the most dangerous of criminals are locked up, to keep the rest of our nation safe. \n\n|Maybe once, that was even true, but that isn't the Lukatt I found when I got here. \n\nAt first, I thought it was just because I was new, that I didn't yet understand, but more and more, I began to see the stocks as what they really are - a miscreants' playground masquerading as a pillar of justice. \n\nThe guards, most of them are every bit as criminal as the people in the cells. Men who abused their power, and who were 'reassigned' to the imposing but important station here, not out of any sense of duty, but so that their superiors could quietly cover scandals and sweep their complicity under the rug. \n\nIt's just a place to toss inconvenient people and hope that they disappear.\n\n|I came here because I believed there was an important job to be done. My superiors on the mainland tried to dissuade me, but none of them told me anything resembling the truth. \n\nI think eventually, they decided that someone as wholeheartedly 'do-gooder' as me would be better off shipped out anyway. \n\nHaving joined up with you, I'm more convinced than ever that I was right. \n\nThere is a very important job to do here, and it is nothing less than the complete dismantling of the lie we are all told. \n\n|I think that if we keep going, we can take this island, corner-to-corner. The mainland powers will not dare land soldiers here because they know they will never get them back. \n\nIf we conquer this island, people will notice. \n\nThe mainland will notice, and the lie will shatter, and if nothing else, conquering this island will stop them sending more convicts. Once that happens, all sorts of remarkable things are possible.\n\nRebuilding. Commerce. Families. \n\nThat possibility alone is reason enough to turn my sword back on the dogs who shepherd this place.\"\n\n|Greave reaches down with a carefully gloved hand and pulls the metal object out of the fire. Holding your gaze intently, he draws his collar back and presses the trinket against his neck.\n\nHe winces and draws a sharp breath, but does not waver, and when he pulls his hand away a moment later, you see it. \n\nIt is crudely shaped, but clear. Greave has branded the glyph for \"traitor\" into his own flesh.\n\nWhen he speaks again, his voice quavers, but his smile is confident. \n\n\"Here until the end.", "cat": "dialogue", "ctx": "Greave.bbd trustCampfire"}
+{"id": "P2_00936", "en": "I can't believe I used to see things in such simple black and white. I was not tried, but truly, I am no less a criminal than those who were. I'm not sorry, either. I did what was right. I wonder how many others have like reasons for wearing their scars?", "cat": "dialogue", "ctx": "Greave.bbd trustChat"}
+{"id": "P2_00937", "en": "You can't be serious. After all of this? After I... you'd just throw me out?", "cat": "dialogue", "ctx": "Greave.bbd trustDismiss"}
+{"id": "P2_00938", "en": "Hello, friend. I hope everything is well.", "cat": "dialogue", "ctx": "Greave.bbd trustIntro"}
+{"id": "P2_00939", "en": "Are you testing my commitment? There are kinder ways to do so, you realize.", "cat": "dialogue", "ctx": "Greave.bbd trustNo"}
+{"id": "P2_00940", "en": "This comes as a shock, I have to say. Just... give me a bit to collect myself and I'll go.", "cat": "dialogue", "ctx": "Greave.bbd trustYes"}
+{"id": "P2_00941", "en": "This salty air is terrible for the iron. Maybe I can find someplace inland that needs a smith.", "cat": "dialogue", "ctx": "Greenback Blacksmith.bbd neutralChat"}
+{"id": "P2_00942", "en": "I haven't had a good hard hammering in a while. You need something worked over?", "cat": "dialogue", "ctx": "Greenback Blacksmith.bbd neutralIntro"}
+{"id": "P2_00943", "en": "Right, back to unskilled labour.", "cat": "dialogue", "ctx": "Greenback Blacksmith.bbd neutralRefuse"}
+{"id": "P2_00944", "en": "There are more wandering merchants and tradesmen on this island than you might think. If you set up an attractive place to do business, you'll probably attract some. I might even come out and see it myself!", "cat": "dialogue", "ctx": "Greenback Trader.bbd neutralChat"}
+{"id": "P2_00945", "en": "New faces! Hopefully you remembered to bring some money with you, eh?", "cat": "dialogue", "ctx": "Greenback Trader.bbd neutralIntro"}
+{"id": "P2_00946", "en": "Right, well come back if you realize you forgot something. I'll be here.", "cat": "dialogue", "ctx": "Greenback Trader.bbd neutralRefuse"}
+{"id": "P2_00947", "en": "Oh how exciting!", "cat": "dialogue", "ctx": "Greening.bbd banterEasyfight1"}
+{"id": "P2_00948", "en": "A pack of villains!", "cat": "dialogue", "ctx": "Greening.bbd banterEasyfight2"}
+{"id": "P2_00949", "en": "Oh, a dingledoo or somesuch.", "cat": "dialogue", "ctx": "Greening.bbd banterEvent1"}
+{"id": "P2_00950", "en": "What's this thingamajig for,\ndo you think?", "cat": "dialogue", "ctx": "Greening.bbd banterEvent2"}
+{"id": "P2_00951", "en": "Oh, that poor sod...", "cat": "dialogue", "ctx": "Greening.bbd banterFrienddies1"}
+{"id": "P2_00952", "en": "That tears it!\nI'll make crepes out of you!", "cat": "dialogue", "ctx": "Greening.bbd banterFrienddies2"}
+{"id": "P2_00953", "en": "What a strange smell.", "cat": "dialogue", "ctx": "Greening.bbd banterGeneral1"}
+{"id": "P2_00954", "en": "Ugh, I need to sneeze,\nbut it won't come out.", "cat": "dialogue", "ctx": "Greening.bbd banterGeneral2"}
+{"id": "P2_00955", "en": "This one... doesn't have a\nhappy ending, does it?", "cat": "dialogue", "ctx": "Greening.bbd banterHardfight1"}
+{"id": "P2_00956", "en": "No dessert tonight lads. Sorry.", "cat": "dialogue", "ctx": "Greening.bbd banterHardfight2"}
+{"id": "P2_00957", "en": "But if we don't win, there'll be no dessert!\nEntirely unacceptable!", "cat": "dialogue", "ctx": "Greening.bbd banterHardfriend1"}
+{"id": "P2_00958", "en": "What a silly thing to say.\nI've got more tricks up my sleeve yet!", "cat": "dialogue", "ctx": "Greening.bbd banterHardfriend2"}
+{"id": "P2_00959", "en": "I'll have your share of dinner then!", "cat": "dialogue", "ctx": "Greening.bbd banterHardrival1"}
+{"id": "P2_00960", "en": "If you're going to be such a glum-bum about it,\nwe'll do it without you!", "cat": "dialogue", "ctx": "Greening.bbd banterHardrival2"}
+{"id": "P2_00961", "en": "Oh. Well, that's a shame.", "cat": "dialogue", "ctx": "Greening.bbd banterRivaldies1"}
+{"id": "P2_00962", "en": "Any of us could be next!", "cat": "dialogue", "ctx": "Greening.bbd banterRivaldies2"}
+{"id": "P2_00963", "en": "Really, you ruin one lousy nobleman's wedding, and you get locked up for conspiracy and shipped out to this horrid place. What is the world coming to?", "cat": "dialogue", "ctx": "Greening.bbd civilChat"}
+{"id": "P2_00964", "en": "Gracious, that's sudden.  You're saying you want to be rid of me?", "cat": "dialogue", "ctx": "Greening.bbd civilDismiss"}
+{"id": "P2_00965", "en": "A good day to you, such as it is.", "cat": "dialogue", "ctx": "Greening.bbd civilIntro"}
+{"id": "P2_00966", "en": "Oh, forgive me for misunderstanding then. Would you like a biscuit? I'm going to have a biscuit.", "cat": "dialogue", "ctx": "Greening.bbd civilNo"}
+{"id": "P2_00967", "en": "Well I certainly don't want to be on your bad side, so I'll get my things and go. I'm sorry you didn't find me helpful. Goodbye.", "cat": "dialogue", "ctx": "Greening.bbd civilYes"}
+{"id": "P2_00968", "en": "Stop it, stop it! I give up!", "cat": "dialogue", "ctx": "Greening.bbd hostileIntro"}
+{"id": "P2_00969", "en": "You're only trying to disarm me for a slaughter!  I'll have none of it!", "cat": "dialogue", "ctx": "Greening.bbd hostileRansomFailure"}
+{"id": "P2_00970", "en": "Oh goodness, fine just take it and leave me be!", "cat": "dialogue", "ctx": "Greening.bbd hostileRansomSuccess"}
+{"id": "P2_00971", "en": "Isn't being prisoner here bad enough already? No, I won't be a slave!", "cat": "dialogue", "ctx": "Greening.bbd hostileRecruitFailure"}
+{"id": "P2_00972", "en": "And... then you'll stop hitting me, right? Fine, I'll go with you!", "cat": "dialogue", "ctx": "Greening.bbd hostileRecruitSuccess"}
+{"id": "P2_00973", "en": "Oh thank goodness! I'll be right off!", "cat": "dialogue", "ctx": "Greening.bbd hostileRelease"}
+{"id": "P2_00974", "en": "Oh, smashing, my mouth is already watering! Lead the way!", "cat": "dialogue", "ctx": "Greening.bbd neutralAccept"}
+{"id": "P2_00975", "en": "I came here hoping to find an easy meal and ended up with nothing but a sprained ankle. Ugh, it's quite a pickle I'm in. Goodness, I could go for a pickle about now, and I don't even like pickles.", "cat": "dialogue", "ctx": "Greening.bbd neutralChat"}
+{"id": "P2_00976", "en": "I don't know what I'd have done if you hadn't come along. Thanks again.", "cat": "dialogue", "ctx": "Greening.bbd neutralIntro"}
+{"id": "P2_00977", "en": "You want me to follow along, do you? Well, if it ups my chances of a full belly, I'm all for it. You keep me fed, and I'll conjure all you like. Sound good?", "cat": "dialogue", "ctx": "Greening.bbd neutralRecruit"}
+{"id": "P2_00978", "en": "Well, if you can't help me find food I'm going to have to focus on it alone. It really is pretty important you know.", "cat": "dialogue", "ctx": "Greening.bbd neutralRefuse"}
+{"id": "P2_00979", "en": "I hope I'm not imposing. I just needed to get away from my tent for a bit.\n\nI magicked up what was, in hindsight, a very ill-advised crock of molasses beans. \n\nI am not cut out for wilderness survival, but this feels halfway civilized. Most nights, nobody goes hungry, and while the accomodations aren't what I might call \"inviting\", we're warm and dry. \n\n|And hey, you invited me along! \n\nStill a bit surprised by that one, honestly. Nobody's ever really taken me seriously before. \n\nBack at the academy when I was practicing, nobody thought that my flavour of conjuring was worth much notice. \n\nI mean, when you consider all the strange and magnificent things that magic can do, I guess conjuring food seems a little elementary, but I conjure excellent food, and honestly, what if you were all by yourself on an inescapable island? \n\nConjuring food would be positively brilliant then, wouldn't it?\n\n|But maybe it's too much trouble sometimes. The last time I did something really big, it got me sent here. What a rotten time that was. \n\nI'd perfected a formula for conjuring cake, you see. A nice big one, all fluffy and warm with lemon-buttercreme, sugar roses, and jelly ribbons. \n\nJelly ribbons, for heaven's sake. \n\nLet that sink in for a moment.\n\n|Well I finally tested out the formula and it works a treat, and that cake is positively the best one I've ever tasted. You really couldn't blame me for indulging, could you?\n\nWell, later that night, when I'm so deliriously full of cake I can scarcely stand, some guards come crashing in. \n\nYou see, it turns out I didn't conjure the cake from noplace, as I thought, but instead I conjured it from Prince Jank's wedding party, right out from under their noses!\n\nSuch a scandal over a cake, honestly. \n\n|They accused me of conspiring to disrupt the royal wedding, of being some kind of political saboteur.\n\nThey put that awful burn on my neck and then sent me out here to waste away in obscurity.\n\nIt's really not all bad though, is it? Here, my skills are actually useful!\n\nJust... for the love of god, don't ask me to make another crock of molasses beans. \n\n|Oh, and also, I magicked up something for you, as a way of saying thanks. It's just a little trinket, really, a gesture more than a treasure, but I wanted you to know that I appreciate my place here. \n\nI've put it in your stash, so take a look when you get a chance.", "cat": "dialogue", "ctx": "Greening.bbd trustCampfire"}
+{"id": "P2_00980", "en": "This is quite an adventure after all isn't it? With monsters and maidens and... well more monsters than maidens really. And what maidens there are tend to be more menacing than the monsters. Also, all this alliteration is making me quite hungry. Maybe I'll magic up some meringues?", "cat": "dialogue", "ctx": "Greening.bbd trustChat"}
+{"id": "P2_00981", "en": "Oh my. I hope I'm hearing that wrong. Are you telling me to go out there on my own again?", "cat": "dialogue", "ctx": "Greening.bbd trustDismiss"}
+{"id": "P2_00982", "en": "Ah hello! It's good to see you.", "cat": "dialogue", "ctx": "Greening.bbd trustIntro"}
+{"id": "P2_00983", "en": "I'm being paranoid, sorry. The thought of being alone again now that I'm here is quite a dreary one.", "cat": "dialogue", "ctx": "Greening.bbd trustNo"}
+{"id": "P2_00984", "en": "I really... thought we were becoming friends. I suppose that's my just dessert for being so naive. Keep the meringues. I've rather lost my appetite.", "cat": "dialogue", "ctx": "Greening.bbd trustYes"}
+{"id": "P2_00985", "en": "I might not have the best grain on this island, but the boys need their beer, and I know how to make do with what's available. I'm getting pretty damn good at it too. Try a tankard and judge for yourself.", "cat": "dialogue", "ctx": "Hayill Barkeep.bbd neutralChat"}
+{"id": "P2_00986", "en": "Come on in, put your feet up. What can I get you?", "cat": "dialogue", "ctx": "Hayill Barkeep.bbd neutralIntro"}
+{"id": "P2_00987", "en": "You come back whenever you're thirsty.", "cat": "dialogue", "ctx": "Hayill Barkeep.bbd neutralRefuse"}
+{"id": "P2_00988", "en": "Sorry, I'm not buying right now, got too much stock as it is. If you're looking to spend some coin though, I've got plenty of room for that.", "cat": "dialogue", "ctx": "Hayill Trader.bbd neutralChat"}
+{"id": "P2_00989", "en": "You're probably looking for some weapons and gear, right? I can hook you up.", "cat": "dialogue", "ctx": "Hayill Trader.bbd neutralIntro"}
+{"id": "P2_00990", "en": "Come back anytime. As long as you got coin, I got goods.", "cat": "dialogue", "ctx": "Hayill Trader.bbd neutralRefuse"}
+{"id": "P2_00991", "en": "Subtle magics can be used to ease the body back to wholeness. These magics I can perform, and the injured among us will recover more quickly for it.", "cat": "dialogue", "ctx": "Healer.bbd neutralChat"}
+{"id": "P2_00992", "en": "Do you need something?", "cat": "dialogue", "ctx": "Healer.bbd neutralIntro"}
+{"id": "P2_00993", "en": "Do take care.", "cat": "dialogue", "ctx": "Healer.bbd neutralRefuse"}
+{"id": "P2_00994", "en": "I know much of herbs, salves, poisons, and the like. There is much that surrounds us that can be used to mend our bodies, if one knows what to look for. The injured will need my expertise.", "cat": "dialogue", "ctx": "Herbalist.bbd neutralChat"}
+{"id": "P2_00995", "en": "Yes? What is it?", "cat": "dialogue", "ctx": "Herbalist.bbd neutralIntro"}
+{"id": "P2_00996", "en": "Of course. I've preparations to make.", "cat": "dialogue", "ctx": "Herbalist.bbd neutralRefuse"}
+{"id": "P2_00997", "en": "Yes, have a look at my collection. I'm sure there is something you will want. You have coin, yes?", "cat": "dialogue", "ctx": "Hoarder.bbd neutralChat"}
+{"id": "P2_00998", "en": "I have many things. Things which may be of use to you.", "cat": "dialogue", "ctx": "Hoarder.bbd neutralIntro"}
+{"id": "P2_00999", "en": "I must go hunting soon, yes. Buy what you need now, before I leave.", "cat": "dialogue", "ctx": "Hoarder.bbd neutralRefuse"}
+{"id": "P2_01000", "en": "Yeah, I got a few things, I know a few folks. I'll help you out if you help me out. Simple.", "cat": "dialogue", "ctx": "Hunter.bbd neutralChat"}
+{"id": "P2_01001", "en": "It's rude to stare, you know.", "cat": "dialogue", "ctx": "Hunter.bbd neutralIntro"}
+{"id": "P2_01002", "en": "Gotta keep moving. See you later, maybe.", "cat": "dialogue", "ctx": "Hunter.bbd neutralRefuse"}
+{"id": "P2_01003", "en": "I can forge keys with the best of 'em! Let's see what you got, and I'll show you what I can do.", "cat": "dialogue", "ctx": "Keysmith.bbd neutralChat"}
+{"id": "P2_01004", "en": "Evenin', chaps. Don't get many customers 'round 'ere no more.", "cat": "dialogue", "ctx": "Keysmith.bbd neutralIntro"}
+{"id": "P2_01005", "en": "Lots o' nasties been crawlin' around 'ere lately. Mind 'ow you go.", "cat": "dialogue", "ctx": "Keysmith.bbd neutralRefuse"}
+{"id": "P2_01006", "en": "All part of the job!", "cat": "dialogue", "ctx": "Kirilo.bbd banterEasyfight1"}
+{"id": "P2_01007", "en": "You should really surrender.", "cat": "dialogue", "ctx": "Kirilo.bbd banterEasyfight2"}
+{"id": "P2_01008", "en": "Shall we?", "cat": "dialogue", "ctx": "Kirilo.bbd banterEvent1"}
+{"id": "P2_01009", "en": "I can do that.", "cat": "dialogue", "ctx": "Kirilo.bbd banterEvent2"}
+{"id": "P2_01010", "en": "Shit, we lost someone!", "cat": "dialogue", "ctx": "Kirilo.bbd banterFrienddies1"}
+{"id": "P2_01011", "en": "Neutralize them now!", "cat": "dialogue", "ctx": "Kirilo.bbd banterFrienddies2"}
+{"id": "P2_01012", "en": "Hey, what... oh. \nNah, it's nothing.", "cat": "dialogue", "ctx": "Kirilo.bbd banterGeneral2"}
+{"id": "P2_01013", "en": "Should we really be doing this?", "cat": "dialogue", "ctx": "Kirilo.bbd banterHardfight1"}
+{"id": "P2_01014", "en": "Okay, come on Ki. Game face.", "cat": "dialogue", "ctx": "Kirilo.bbd banterHardfight2"}
+{"id": "P2_01015", "en": "Pff, this isn't even a thing.", "cat": "dialogue", "ctx": "Kirilo.bbd banterHardfriend1"}
+{"id": "P2_01016", "en": "Keey your eyes and your weapons up!", "cat": "dialogue", "ctx": "Kirilo.bbd banterHardfriend2"}
+{"id": "P2_01017", "en": "You don't have to like it, you just have to DO it!", "cat": "dialogue", "ctx": "Kirilo.bbd banterHardrival1"}
+{"id": "P2_01018", "en": "If your complaining doesn't kill us first.", "cat": "dialogue", "ctx": "Kirilo.bbd banterHardrival2"}
+{"id": "P2_01019", "en": "Keep your eyes forward!", "cat": "dialogue", "ctx": "Kirilo.bbd banterRivaldies1"}
+{"id": "P2_01020", "en": "It's not over yet!", "cat": "dialogue", "ctx": "Kirilo.bbd banterRivaldies2"}
+{"id": "P2_01021", "en": "Before joining up with you, I was mostly hanging out in caves and stuff. This is way better. It's nice to be able to share the chores and let someone else watch the fire for once.", "cat": "dialogue", "ctx": "Kirilo.bbd civilChat"}
+{"id": "P2_01022", "en": "You want to get rid of me? Well... I know I don't know you all that well, but... are you sure?", "cat": "dialogue", "ctx": "Kirilo.bbd civilDismiss"}
+{"id": "P2_01023", "en": "Iday. What can I do for you?", "cat": "dialogue", "ctx": "Kirilo.bbd civilIntro"}
+{"id": "P2_01024", "en": "I know it's hard to trust people here, but give me a shot, huh?", "cat": "dialogue", "ctx": "Kirilo.bbd civilNo"}
+{"id": "P2_01025", "en": "Huh. Well, back to the caves for me, I guess.", "cat": "dialogue", "ctx": "Kirilo.bbd civilYes"}
+{"id": "P2_01026", "en": "You're insane!", "cat": "dialogue", "ctx": "Kirilo.bbd hostileIntro"}
+{"id": "P2_01027", "en": "So you'd beat me down and strip me of the only thing I have?  Fuck you!", "cat": "dialogue", "ctx": "Kirilo.bbd hostileRansomFailure"}
+{"id": "P2_01028", "en": "It's not worth dying over. Take it and fuck off.", "cat": "dialogue", "ctx": "Kirilo.bbd hostileRansomSuccess"}
+{"id": "P2_01029", "en": "I'm already on a goddamn prison island, and now you want to make me a slave too? No dice!", "cat": "dialogue", "ctx": "Kirilo.bbd hostileRecruitFailure"}
+{"id": "P2_01030", "en": "You could have just asked, you fucking lunatic. How am I supposed to trust you? \n\nLook, just... cool it, alright? We'll see.", "cat": "dialogue", "ctx": "Kirilo.bbd hostileRecruitSuccess"}
+{"id": "P2_01031", "en": "Then I'm gone.", "cat": "dialogue", "ctx": "Kirilo.bbd hostileRelease"}
+{"id": "P2_01032", "en": "This should be interesting. Where are we off to?", "cat": "dialogue", "ctx": "Kirilo.bbd neutralAccept"}
+{"id": "P2_01033", "en": "Was there something you needed? I've been on this island for a while now, but I haven't gone too far east. Some whackjob named Frico has it all choked off, and you can't get through without paying tribute or some bullshit.", "cat": "dialogue", "ctx": "Kirilo.bbd neutralChat"}
+{"id": "P2_01034", "en": "Thanks again. I said thanks already, right?", "cat": "dialogue", "ctx": "Kirilo.bbd neutralIntro"}
+{"id": "P2_01035", "en": "Come with you? Well you certainly know how to handle yourself, and it was awfully stand-up of you to jump in and help those folks earlier. Why not?", "cat": "dialogue", "ctx": "Kirilo.bbd neutralRecruit"}
+{"id": "P2_01036", "en": "Whatever you think. As I said, I'm gonna stick around and help these folks clean up, then I'll be off. See you around.", "cat": "dialogue", "ctx": "Kirilo.bbd neutralRefuse"}
+{"id": "P2_01037", "en": "You know, when we first met, I had a good feeling about you. That's not something that Lukatt gives you a lot of opportunities to say. I know there's a sorta \"don't ask\" rule we have about each others' brands, but I wanted to tell you how I got mine. \n\nIt's nothing that crazy, but... well maybe it is sorta crazy, but it's been a while since I told anybody about it, and I trust you, so... here goes. \n\nI used to be a guard, long time ago. Just a small town guard, your standard \"Orc thug in a metal suit\" kinda guy. I loved it though. I love people, I love looking out for people, and I love kicking the bad guys' butts, and for a while, that's what I did. \n\n|At some point though, I blinked and missed it. I started gettin' orders to avoid areas where we knew some rotten stuff was going down. I'd get pulled off of investigations only to find out that nobody else had been put on. \n\nSomeone was getting their palms or their knobs greased to turn a blind eye. Maybe a lot of someones were. I was the only orc in the guard, and... I know that we don't always have the best reputation for being squeaky-clean when it comes to human lands, but I loved my job, and it made me sick to see someone shitting all over it like that. \n\nI quit, but I refused to walk away.\n\n|I... sorta kept doing what I'd been taught to do, but without the authority of the guards. I fucked up a bunch of the people who'd been placing bribes, and a bunch of the guards who'd been taking 'em. \n\nAt first it was just me, but then some of the other guards who felt the same way I did turned coat and started following me instead. We worked in the dark, but we kept that little town safer than it'd ever been, and man was the guard ever pissed at us. \n\nThey smeared us pretty bad, tried to get the people to hate us, but it didn't work too well. The little guys knew who was really looking out for them. \n\n|Problem was, I got too safe in that. One night when I was out on a job, I got injured. Looking for a place to lay low, I went to a guy I'd helped out once. He took me in, bandaged me up and fed me... and then brought the guards right to me while I was asleep. I never had a damn chance. \n\nThey were gonna string me up right there, but they wanted to make an example out of me, put the fear into the rest of my guys. \n\nThey took me to the capital court, and put me through a joke trial just so they could say they had a good reason to ship me out here. \n\nI don't know what happened to the rest of my guys, and I probably never will.  They're smart though, and they can look after themselves. We knew the risks, and we did good work.  No regrets. \n\n|It's even hard to call this place a regret, isn't it? After all, I got to meet you, and here, in our own way, we're still doing good. In a lot of ways, it reminds me of what I was doing back home, which I guess is why I was thinking about it, and why I wanted to talk about it. Just waxing nostalgic, I suppose. \n\nAnyway, I don't mean to make you sit up and listen to me gab all night. I put together a little something for you, but it can wait till tomorrow. Just have a look in your stash when you get a chance. \n\nAnd Bru, thanks again. Mean it.", "cat": "dialogue", "ctx": "Kirilo.bbd trustCampfire"}
+{"id": "P2_01038", "en": "Well this is kind of exciting. I mean, this island is pretty 'exciting' in general, but there's something that feels good about this. Like it's the start of something amazing. Whatever it is we're doing, I'm glad to be here.", "cat": "dialogue", "ctx": "Kirilo.bbd trustChat"}
+{"id": "P2_01039", "en": "Wait, what? Aren't I helping? I mean, I thought... you can't be serious.", "cat": "dialogue", "ctx": "Kirilo.bbd trustDismiss"}
+{"id": "P2_01040", "en": "Id krav oday, bru.", "cat": "dialogue", "ctx": "Kirilo.bbd trustIntro"}
+{"id": "P2_01041", "en": "Bru, that's really not funny. Don't do that to me.", "cat": "dialogue", "ctx": "Kirilo.bbd trustNo"}
+{"id": "P2_01042", "en": "So after all this time it turns out that you're secretly an asshole? Screw you.", "cat": "dialogue", "ctx": "Kirilo.bbd trustYes"}
+{"id": "P2_01043", "en": "I know where lots of good stuff is hidden. Can't use all of it myself, 'course, so I round it up and bring it to folks like you. Buy it up, huh?", "cat": "dialogue", "ctx": "Labourer.bbd neutralChat"}
+{"id": "P2_01044", "en": "Take a look at what I got?", "cat": "dialogue", "ctx": "Labourer.bbd neutralIntro"}
+{"id": "P2_01045", "en": "Maybe next time I come by there'll be something else to your liking.", "cat": "dialogue", "ctx": "Labourer.bbd neutralRefuse"}
+{"id": "P2_01046", "en": "I win!", "cat": "dialogue", "ctx": "LanguageBarrier.bbd banterEasyfight1"}
+{"id": "P2_01047", "en": "You puny!", "cat": "dialogue", "ctx": "LanguageBarrier.bbd banterEasyfight2"}
+{"id": "P2_01048", "en": "What that?", "cat": "dialogue", "ctx": "LanguageBarrier.bbd banterEvent1"}
+{"id": "P2_01049", "en": "Hmm.", "cat": "dialogue", "ctx": "LanguageBarrier.bbd banterEvent2"}
+{"id": "P2_01050", "en": "You hurt friend!\nYou die!", "cat": "dialogue", "ctx": "LanguageBarrier.bbd banterFrienddies2"}
+{"id": "P2_01051", "en": "Bad smell.", "cat": "dialogue", "ctx": "LanguageBarrier.bbd banterGeneral1"}
+{"id": "P2_01052", "en": "I no like.", "cat": "dialogue", "ctx": "LanguageBarrier.bbd banterGeneral2"}
+{"id": "P2_01053", "en": "I scared!", "cat": "dialogue", "ctx": "LanguageBarrier.bbd banterHardfight1"}
+{"id": "P2_01054", "en": "Too strong!", "cat": "dialogue", "ctx": "LanguageBarrier.bbd banterHardfight2"}
+{"id": "P2_01055", "en": "You no hurt friend!", "cat": "dialogue", "ctx": "LanguageBarrier.bbd banterHardfriend1"}
+{"id": "P2_01056", "en": "I strong! Friend see!", "cat": "dialogue", "ctx": "LanguageBarrier.bbd banterHardfriend2"}
+{"id": "P2_01057", "en": "I stronger!", "cat": "dialogue", "ctx": "LanguageBarrier.bbd banterHardrival1"}
+{"id": "P2_01058", "en": "You weak! \nI show strong!", "cat": "dialogue", "ctx": "LanguageBarrier.bbd banterHardrival2"}
+{"id": "P2_01059", "en": "Too weak and die!", "cat": "dialogue", "ctx": "LanguageBarrier.bbd banterRivaldies1"}
+{"id": "P2_01060", "en": "Haha! Funny.", "cat": "dialogue", "ctx": "LanguageBarrier.bbd banterRivaldies2"}
+{"id": "P2_01061", "en": "You much food. Good fire and safe. I like friend.", "cat": "dialogue", "ctx": "LanguageBarrier.bbd civilChat"}
+{"id": "P2_01062", "en": "You want I go?", "cat": "dialogue", "ctx": "LanguageBarrier.bbd civilDismiss"}
+{"id": "P2_01063", "en": "Friend.", "cat": "dialogue", "ctx": "LanguageBarrier.bbd civilIntro"}
+{"id": "P2_01064", "en": "No understand. I bad friend?", "cat": "dialogue", "ctx": "LanguageBarrier.bbd civilNo"}
+{"id": "P2_01065", "en": "You no friend!", "cat": "dialogue", "ctx": "LanguageBarrier.bbd civilYes"}
+{"id": "P2_01066", "en": "Stop! I no can win!", "cat": "dialogue", "ctx": "LanguageBarrier.bbd hostileIntro"}
+{"id": "P2_01067", "en": "No can have. Is mine!", "cat": "dialogue", "ctx": "LanguageBarrier.bbd hostileRansomFailure"}
+{"id": "P2_01068", "en": "Yes. Take, and I go!", "cat": "dialogue", "ctx": "LanguageBarrier.bbd hostileRansomSuccess"}
+{"id": "P2_01069", "en": "No! Am free!", "cat": "dialogue", "ctx": "LanguageBarrier.bbd hostileRecruitFailure"}
+{"id": "P2_01070", "en": "Friend? You no hurt friend?", "cat": "dialogue", "ctx": "LanguageBarrier.bbd hostileRecruitSuccess"}
+{"id": "P2_01071", "en": "Yes, thank.", "cat": "dialogue", "ctx": "LanguageBarrier.bbd hostileRelease"}
+{"id": "P2_01072", "en": "I like friend.", "cat": "dialogue", "ctx": "LanguageBarrier.bbd neutralAccept"}
+{"id": "P2_01073", "en": "You, not afraid? You want talk?", "cat": "dialogue", "ctx": "LanguageBarrier.bbd neutralChat"}
+{"id": "P2_01074", "en": "You want friend?", "cat": "dialogue", "ctx": "LanguageBarrier.bbd neutralRecruit"}
+{"id": "P2_01075", "en": "No understand. You go.", "cat": "dialogue", "ctx": "LanguageBarrier.bbd neutralRefuse"}
+{"id": "P2_01076", "en": "You good friend. I am bad talking, but some help, and I try. \n\nI make present for friend. You take, and I happy. \n\nI love friend.", "cat": "dialogue", "ctx": "LanguageBarrier.bbd trustCampfire"}
+{"id": "P2_01077", "en": "Hello. I love friend. You need? I am big happy help if can.", "cat": "dialogue", "ctx": "LanguageBarrier.bbd trustChat"}
+{"id": "P2_01078", "en": "No understand. You want friend leave?", "cat": "dialogue", "ctx": "LanguageBarrier.bbd trustDismiss"}
+{"id": "P2_01079", "en": "Good friend. Happy.", "cat": "dialogue", "ctx": "LanguageBarrier.bbd trustIntro"}
+{"id": "P2_01080", "en": "I do anything for friend. I love friend. Want stay, please.", "cat": "dialogue", "ctx": "LanguageBarrier.bbd trustNo"}
+{"id": "P2_01081", "en": "No want! No want, please!", "cat": "dialogue", "ctx": "LanguageBarrier.bbd trustYes"}
+{"id": "P2_01082", "en": "Not too many folks around here have the stomach for leatherworking, but I've always loved it. Just let me know what you need and I'll see if I can hook you up.", "cat": "dialogue", "ctx": "Leatherworker.bbd neutralChat"}
+{"id": "P2_01083", "en": "I tan skins and work the leather. Good for clothes, especially for travelers.", "cat": "dialogue", "ctx": "Leatherworker.bbd neutralIntro"}
+{"id": "P2_01084", "en": "Come again.", "cat": "dialogue", "ctx": "Leatherworker.bbd neutralRefuse"}
+{"id": "P2_01085", "en": "Knock some heads? I'm thinking yes.", "cat": "dialogue", "ctx": "Leftie.bbd banterEasyfight1"}
+{"id": "P2_01086", "en": "You don't mess with Leftie, bitch.", "cat": "dialogue", "ctx": "Leftie.bbd banterEasyfight2"}
+{"id": "P2_01087", "en": "There's something here.", "cat": "dialogue", "ctx": "Leftie.bbd banterEvent1"}
+{"id": "P2_01088", "en": "Have a look.", "cat": "dialogue", "ctx": "Leftie.bbd banterEvent2"}
+{"id": "P2_01089", "en": "Fuck. Fuck fuck fuck.", "cat": "dialogue", "ctx": "Leftie.bbd banterFrienddies1"}
+{"id": "P2_01090", "en": "Oh, you're really asking for it now.", "cat": "dialogue", "ctx": "Leftie.bbd banterFrienddies2"}
+{"id": "P2_01091", "en": "Don't get lazy.", "cat": "dialogue", "ctx": "Leftie.bbd banterGeneral1"}
+{"id": "P2_01092", "en": "Anything over there?", "cat": "dialogue", "ctx": "Leftie.bbd banterGeneral2"}
+{"id": "P2_01093", "en": "Oh fuck. Here it comes, boys.", "cat": "dialogue", "ctx": "Leftie.bbd banterHardfight1"}
+{"id": "P2_01094", "en": "Well it's a shit day anyway. Let's get it over with.", "cat": "dialogue", "ctx": "Leftie.bbd banterHardfight2"}
+{"id": "P2_01095", "en": "You obviously haven't been paying attention. Watch this.", "cat": "dialogue", "ctx": "Leftie.bbd banterHardfriend1"}
+{"id": "P2_01096", "en": "Don't go saying such dumb shit.", "cat": "dialogue", "ctx": "Leftie.bbd banterHardfriend2"}
+{"id": "P2_01097", "en": "Shut your stupid mouth.", "cat": "dialogue", "ctx": "Leftie.bbd banterHardrival1"}
+{"id": "P2_01098", "en": "I'd punch you, but I think they deserve it more.", "cat": "dialogue", "ctx": "Leftie.bbd banterHardrival2"}
+{"id": "P2_01099", "en": "Yeah, see if I care.", "cat": "dialogue", "ctx": "Leftie.bbd banterRivaldies1"}
+{"id": "P2_01100", "en": "Looks good on you, asshole.", "cat": "dialogue", "ctx": "Leftie.bbd banterRivaldies2"}
