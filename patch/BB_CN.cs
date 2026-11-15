@@ -10,6 +10,7 @@ public static class BB_CN
 
 	private static Dictionary<string, string> exact;
 	private static List<Template> templates;
+	private static List<string>[] fragments;
 	private static Dictionary<string, string> cache = new Dictionary<string, string>();
 	private static Dictionary<int, KeyValuePair<string, string>> shown = new Dictionary<int, KeyValuePair<string, string>>();
 	private static HashSet<string> dumped;
@@ -58,6 +59,8 @@ public static class BB_CN
 				}
 			}
 		}
+		IndexParagraphs();
+		BuildFragments();
 		if (File.Exists(Path.Combine(dir, "dump.on")))
 		{
 			dumpPath = Path.Combine(dir, "misses.txt");
@@ -75,6 +78,208 @@ public static class BB_CN
 	private static string Unescape(string s)
 	{
 		return s.Replace("\\r", "\r").Replace("\\n", "\n").Replace("\\t", "\t");
+	}
+
+	// Campfire stories are one dictionary entry, but the game splits them on "|"
+	// before they are shown. Register each page and paragraph so a single page can match.
+	private static void IndexParagraphs()
+	{
+		List<string> keys = new List<string>(exact.Keys);
+		for (int k = 0; k < keys.Count; k++)
+		{
+			string en = keys[k];
+			if (en.IndexOf('\n') < 0 && en.IndexOf('|') < 0)
+			{
+				continue;
+			}
+			string zh = exact[en];
+			List<string> enPages = SplitPages(en);
+			List<string> zhPages = SplitPages(zh);
+			if (enPages.Count != zhPages.Count)
+			{
+				continue;
+			}
+			for (int p = 0; p < enPages.Count; p++)
+			{
+				List<string> enParas = SplitParas(enPages[p]);
+				List<string> zhParas = SplitParas(zhPages[p]);
+				if (enParas.Count != zhParas.Count)
+				{
+					continue;
+				}
+				if (enParas.Count < 2 && enPages.Count < 2)
+				{
+					continue;
+				}
+				for (int i = 0; i < enParas.Count; i++)
+				{
+					string ep = enParas[i].Trim();
+					string zp = zhParas[i].Trim();
+					if (ep.Length < 8 || zp.Length == 0 || ep.IndexOf('{') >= 0)
+					{
+						continue;
+					}
+					if (!exact.ContainsKey(ep))
+					{
+						exact[ep] = zp;
+					}
+					// The game adds one quote around the whole story, and the text may
+					// already contain the other. Keep a copy with those edge quotes removed.
+					string bare = StripEdgeQuotes(ep);
+					string bareZh = StripEdgeQuotes(zp);
+					if (bare.Length >= 8 && bareZh.Length > 0 && !exact.ContainsKey(bare))
+					{
+						exact[bare] = bareZh;
+					}
+				}
+			}
+		}
+	}
+
+	private static string StripEdgeQuotes(string s)
+	{
+		s = s.Trim();
+		if (s.Length > 0 && (s[0] == '"' || s[0] == '“'))
+		{
+			s = s.Substring(1).Trim();
+		}
+		if (s.Length > 0 && (s[s.Length - 1] == '"' || s[s.Length - 1] == '”'))
+		{
+			s = s.Substring(0, s.Length - 1).Trim();
+		}
+		return s;
+	}
+
+	private static List<string> SplitPages(string s)
+	{
+		return new List<string>(s.Split('|'));
+	}
+
+	private static List<string> SplitParas(string s)
+	{
+		List<string> list = new List<string>();
+		int start = 0;
+		for (int i = 0; i < s.Length; i++)
+		{
+			if (s[i] != '\n')
+			{
+				continue;
+			}
+			int j = i + 1;
+			while (j < s.Length && (s[j] == ' ' || s[j] == '\t'))
+			{
+				j++;
+			}
+			if (j < s.Length && s[j] == '\n')
+			{
+				list.Add(s.Substring(start, i - start));
+				i = j;
+				start = j + 1;
+			}
+		}
+		list.Add(s.Substring(start));
+		return list;
+	}
+
+	private static void BuildFragments()
+	{
+		fragments = new List<string>[128];
+		foreach (string key in exact.Keys)
+		{
+			if (key.Length < 12)
+			{
+				continue;
+			}
+			char c = key[0];
+			if (c >= 128)
+			{
+				continue;
+			}
+			if (fragments[c] == null)
+			{
+				fragments[c] = new List<string>();
+			}
+			fragments[c].Add(key);
+		}
+		for (int i = 0; i < fragments.Length; i++)
+		{
+			if (fragments[i] != null)
+			{
+				fragments[i].Sort(delegate(string a, string b) { return b.Length - a.Length; });
+			}
+		}
+	}
+
+	private static bool IsAsciiLetter(char c)
+	{
+		return (c >= 'A' && c <= 'Z') || (c >= 'a' && c <= 'z');
+	}
+
+	private static bool SameText(string s, int index, string key)
+	{
+		for (int i = 0; i < key.Length; i++)
+		{
+			if (s[index + i] != key[i])
+			{
+				return false;
+			}
+		}
+		return true;
+	}
+
+	// Replace dictionary sentences inside a longer page. Names between them stay as they are.
+	private static string Splice(string s)
+	{
+		if (fragments == null || s.Length < 12)
+		{
+			return s;
+		}
+		StringBuilder built = null;
+		int i = 0;
+		while (i < s.Length)
+		{
+			string hit = null;
+			char c = s[i];
+			if (c < 128 && fragments[c] != null && (i == 0 || !IsAsciiLetter(s[i - 1])))
+			{
+				List<string> keys = fragments[c];
+				for (int k = 0; k < keys.Count; k++)
+				{
+					string key = keys[k];
+					int n = key.Length;
+					if (n > s.Length - i || !SameText(s, i, key))
+					{
+						continue;
+					}
+					int after = i + n;
+					if (after < s.Length && IsAsciiLetter(s[after]) && IsAsciiLetter(key[n - 1]))
+					{
+						continue;
+					}
+					hit = key;
+					break;
+				}
+			}
+			if (hit != null)
+			{
+				if (built == null)
+				{
+					built = new StringBuilder(s.Length);
+					built.Append(s, 0, i);
+				}
+				built.Append(exact[hit]);
+				i += hit.Length;
+			}
+			else
+			{
+				if (built != null)
+				{
+					built.Append(s[i]);
+				}
+				i++;
+			}
+		}
+		return built == null ? s : built.ToString();
 	}
 
 	private static Template MakeTemplate(string en, string zh)
@@ -116,7 +321,20 @@ public static class BB_CN
 				break;
 			}
 		}
-		if (!templateHasNewline && s.IndexOf('\n') >= 0)
+		// Cutscenes concatenate a paragraph and then "You and {name} ...". Those templates
+		// start with an empty {0} and a long tail. A short "{0}Alleged {1}" must still
+		// refuse a multi-line string, or it glues a whole panel into the first slot.
+		bool prefixSlot = parts[0].Length == 0 && t.Slots.Length >= 2;
+		bool anchored = false;
+		for (int p = 1; p < parts.Length && prefixSlot; p++)
+		{
+			if (parts[p].Length >= 24)
+			{
+				anchored = true;
+				break;
+			}
+		}
+		if (!templateHasNewline && s.IndexOf('\n') >= 0 && !(prefixSlot && anchored))
 		{
 			return false;
 		}
@@ -157,6 +375,11 @@ public static class BB_CN
 			{
 				return false;
 			}
+			// Only the leading {0} of a cutscene template may hold the previous paragraphs.
+			if (i > 0 && (next - pos > 40 || s.IndexOf('\n', pos, next - pos) >= 0 || s.IndexOf('.', pos, next - pos) >= 0))
+			{
+				return false;
+			}
 			// "Man{0}" must not eat the word Manpower. A slot boundary inside a word is not a match.
 			if (pos > 0 && pos < s.Length && char.IsLetter(s[pos - 1]) && char.IsLetter(s[pos]))
 			{
@@ -173,7 +396,8 @@ public static class BB_CN
 				return false;
 			}
 			// "Manpower 38722" is a number. "Manpower is important!" is a sentence.
-			if (i == t.Slots.Length - 1 && (parts[0] == "Manpower " || parts[0] == "Supports " || parts[0] == "Upkeep " || parts[0] == "Level "))
+			// Only the slot that follows the label is numeric. "Level 1 Rapist" keeps the crime in the next slot.
+			if (parts[i] == "Manpower " || parts[i] == "Supports " || parts[i] == "Upkeep " || parts[i] == "Level ")
 			{
 				for (int c = pos; c < next; c++)
 				{
@@ -282,6 +506,97 @@ public static class BB_CN
 		return key != null && exact.TryGetValue(key, out result);
 	}
 
+	private static string PeelQuoted(string s)
+	{
+		int a = 0;
+		int b = s.Length;
+		while (a < b && char.IsWhiteSpace(s[a]))
+		{
+			a++;
+		}
+		while (b > a && char.IsWhiteSpace(s[b - 1]))
+		{
+			b--;
+		}
+		if (b - a < 2)
+		{
+			return null;
+		}
+		bool lead = s[a] == '"';
+		bool tail = s[b - 1] == '"';
+		if (!lead && !tail)
+		{
+			return null;
+		}
+		int ia = lead ? a + 1 : a;
+		int ib = tail ? b - 1 : b;
+		while (ia < ib && char.IsWhiteSpace(s[ia]))
+		{
+			ia++;
+		}
+		while (ib > ia && char.IsWhiteSpace(s[ib - 1]))
+		{
+			ib--;
+		}
+		if (ib <= ia)
+		{
+			return null;
+		}
+		string inner = s.Substring(ia, ib - ia);
+		string spoken;
+		// The story itself sometimes ends with a quote, and the game adds the other one.
+		if (exact.TryGetValue(inner, out spoken))
+		{
+			return s.Substring(0, a) + (lead ? "“" : "") + spoken + (tail ? "”" : "") + s.Substring(b);
+		}
+		if (lead && tail && exact.TryGetValue(inner + "\"", out spoken))
+		{
+			return s.Substring(0, a) + "“" + spoken + s.Substring(b);
+		}
+		if (lead && tail && exact.TryGetValue("\"" + inner, out spoken))
+		{
+			return s.Substring(0, a) + spoken + "”" + s.Substring(b);
+		}
+		return null;
+	}
+
+	private static string TranslateParagraphs(string s)
+	{
+		List<string> parts = SplitParas(s);
+		if (parts.Count < 2)
+		{
+			return s;
+		}
+		bool changed = false;
+		for (int i = 0; i < parts.Count; i++)
+		{
+			if (parts[i].Length == 0 || !HasLetters(parts[i]))
+			{
+				continue;
+			}
+			string zh = Translate(parts[i]);
+			if (!ReferenceEquals(zh, parts[i]))
+			{
+				parts[i] = zh;
+				changed = true;
+			}
+		}
+		if (!changed)
+		{
+			return s;
+		}
+		StringBuilder built = new StringBuilder();
+		for (int i = 0; i < parts.Count; i++)
+		{
+			if (i > 0)
+			{
+				built.Append("\n\n");
+			}
+			built.Append(parts[i]);
+		}
+		return built.ToString();
+	}
+
 	private static string Translate(string s)
 	{
 		// Slot values call Translate directly. A Chinese name has nothing to look up,
@@ -295,17 +610,14 @@ public static class BB_CN
 		{
 			return result;
 		}
-		// Dialogue files wrap a stored line in quotes. Only peel them when the
-		// inside is an exact entry. Recursive matching here lets a short template
-		// such as "{0}, the {1}" eat "Defendant, the court has deliberated...".
-		if (s.Length >= 2 && s[0] == '"' && s[s.Length - 1] == '"')
+		// Dialogue lines are wrapped in quotes, and a campfire page keeps the opening
+		// quote on the first page and the closing quote on the last. A trailing space
+		// is common. Peel whichever of those is present, then look the sentence up.
+		// Do not run the general matcher on the inside, or a short template eats the line.
+		string peeled = PeelQuoted(s);
+		if (peeled != null)
 		{
-			string inner = s.Substring(1, s.Length - 2);
-			string spoken;
-			if (inner.Length > 0 && exact.TryGetValue(inner, out spoken))
-			{
-				return "“" + spoken + "”";
-			}
+			return peeled;
 		}
 		int start = 0;
 		int end = s.Length;
@@ -348,17 +660,15 @@ public static class BB_CN
 				return result;
 			}
 		}
-		// Party plates are "Name - Crime" or "Name - Alleged Crime".
-		int dash = s.IndexOf(" - ", StringComparison.Ordinal);
-		if (dash > 0 && dash <= 32 && s.IndexOf(" - ", dash + 3, StringComparison.Ordinal) < 0)
+		// A campfire page is several paragraphs. Translate each one, including the
+		// "That night" frame and the inventory line, which are their own entries.
+		string paras = TranslateParagraphs(s);
+		if (!ReferenceEquals(paras, s))
 		{
-			string right = s.Substring(dash + 3);
-			string rightZh = Translate(right);
-			if (!ReferenceEquals(rightZh, right))
-			{
-				return s.Substring(0, dash) + " - " + rightZh;
-			}
+			return paras;
 		}
+		// Item cards are one known word per line: Accessory, Rexalign, Valuable.
+		// Do this before splicing, or one long affix is replaced and the short lines stay English.
 		if (s.IndexOf('\n') >= 0)
 		{
 			string[] lines = s.Split('\n');
@@ -373,7 +683,23 @@ public static class BB_CN
 			{
 				return string.Join("\n", lines);
 			}
-			return s;
+		}
+		// Cutscene pages are several dictionary sentences joined with names between them.
+		string spliced = Splice(s);
+		if (!ReferenceEquals(spliced, s))
+		{
+			return spliced;
+		}
+		// Party plates are "Name - Crime" or "Name - Alleged Crime".
+		int dash = s.IndexOf(" - ", StringComparison.Ordinal);
+		if (dash > 0 && dash <= 32 && s.IndexOf(" - ", dash + 3, StringComparison.Ordinal) < 0)
+		{
+			string right = s.Substring(dash + 3);
+			string rightZh = Translate(right);
+			if (!ReferenceEquals(rightZh, right))
+			{
+				return s.Substring(0, dash) + " - " + rightZh;
+			}
 		}
 		Miss(s);
 		return s;

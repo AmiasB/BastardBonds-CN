@@ -13,7 +13,7 @@ Manpower {0}	人力 {0}
 {0} is entangled. Movement and dodging are reduced.	{0}被缠绕。移动和闪避降低。
 {0} is guided by grace. Accuracy is improved.	{0}受优雅引导。命中提高。
 {0} is enraged, and inflicts risk.	{0}狂怒，并施加风险。
-{0} is focused. Blasts are more powerful.	{0}专注。轰击更强。
+{0} is focused. Blasts are more powerful.	{0}专注。施法更强。
 {0} is cloaked in shadow. Evasion is improved.	{0}披上暗影。闪避提高。
 {0} is invigorated. Damage is improved.	{0}充满活力。伤害提高。
 {0} was defeated!	{0}被击败了！
@@ -32,9 +32,9 @@ Manpower {0}	人力 {0}
 {0} regenerated {1} hit points.	{0}再生了{1}点生命。
 {0} regenerated all hit points.	{0}再生了全部生命。
 {0} took {1} ongoing damage.	{0}受到了{1}点持续伤害。
-{0} blasts {1}, but misses!	{0}轰击{1}，但没有命中！
-{0} blasts, but {1} resists!	{0}轰击，但{1}抵抗了！
-{0} blasts {1} for {2} damage!	{0}轰击{1}，造成{2}点伤害！
+{0} blasts {1}, but misses!	{0}对{1}施法，但没有命中！
+{0} blasts, but {1} resists!	{0}施法，但{1}抵抗了！
+{0} blasts {1} for {2} damage!	{0}对{1}施法，造成{2}点伤害！
 {0} attacks {1}, but misses!	{0}攻击{1}，但没有命中！
 {0} attacks, but {1} resists!	{0}攻击，但{1}抵抗了！
 {0} attacks {1} for {2} damage!	{0}攻击{1}，造成{2}点伤害！

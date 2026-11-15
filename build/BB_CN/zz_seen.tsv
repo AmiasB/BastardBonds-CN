@@ -11,7 +11,7 @@ Left clicking on the map will always be a movement. Right clicking will always b
 Objects that can be interacted with will show feedback text when you mouse over them. Unless you are telekinetic, you have to get close in order to interact.	可以互动的物件在鼠标悬停时会显示提示。除非你会念动，否则必须靠近才能互动。
 There is a guard waiting in the next room, and you will have to fight him.	隔壁房间有个守卫等着，你得跟他打一架。
 People with high "Fight" or "Hunt" ratings will deal lots of damage in close combat, while people with high "Guard" or "Dodge" ratings are good at soaking or avoiding it.	“格斗”或“狩猎”高的人近战伤害很高，“守护”或“闪避”高的人则擅长硬扛或躲开伤害。
-People with a high "Blast" rating can do a lot of damage when they are not in close combat, and a high "Ward" rating allows you to heal wounds and disrupt enemy magic.	“轰击”高的人在不近身时也能造成大量伤害，“护佑”高则能治疗伤口、干扰敌人的魔法。
+People with a high "Blast" rating can do a lot of damage when they are not in close combat, and a high "Ward" rating allows you to heal wounds and disrupt enemy magic.	“施法”高的人在不近身时也能造成大量伤害，“护佑”高则能治疗伤口、干扰敌人的魔法。
 Try to position fighters so that the enemy is forced to come to you. This lets you have the first strike in close combat.	尽量让敌人不得不朝你走过来。这样近战时你就能先手。
 Sometimes, having someone in close combat who just defends themselves is more helpful than having them attack!	有时候，近战里有个人只顾防守，比让他进攻更有用！
 Right-click an item on the ground to pick it up, then drop it on an inventory or equipment slot.	右键点击地上的物品拾取，再把它放到物品栏或装备栏。
@@ -30,7 +30,7 @@ A reckless action increases your risk gauge every time you perform one, but it o
 A small iron key has been left on the table here.	桌上留着一把小铁钥匙。
 Any items left on the floor will disappear when you leave, however, so make sure you haven't left anything that you'd rather keep.	不过，离开时留在地上的物品会消失，所以别落下想留的东西。
 Cautious actions will never fumble, regardless of risk, but they will immediately end your turn.	谨慎行动无论风险多高都不会失手，但会立刻结束你的回合。
-Daredevils, however, contribute bonus experience to the party, so it may, on occasion, be worthwhile to throw caution to the wind. Experiment some.	不过，蛮干的人会给队伍带来额外经验，所以偶尔值得把谨慎抛到一边。自己试试。
+Daredevils, however, contribute bonus experience to the party, so it may, on occasion, be worthwhile to throw caution to the wind. Experiment some.	不过，勇猛会给队伍带来额外经验，所以偶尔值得把谨慎抛到一边。自己试试。
 Disabling this mechanism is a guile challenge. If your Thwart skill is high enough, you can attempt it, but you may injure yourself trying.	拆除这个机关是诡诈挑战。破解够高就可以尝试，但失败可能会受伤。
 Food is reasonably plentiful and cannot be used in combat, so use it to keep your health topped-up.	食物相当充足，而且不能在战斗中使用，所以拿来把生命补满吧。
 Getting an excellent result on a challenge gives bonus experience and other rewards, if the person challenging is properly qualified.	挑战取得出色结果会给予额外经验和别的奖励，前提是挑战者够资格。
@@ -40,7 +40,7 @@ If someone was injured in the fight with that guard, select that person with the
 In the light of the fire, you can see something glinting inside the woodpile. A search reveals a small stash of coin!	火光下，柴堆里有东西在闪光。翻一翻，是一小笔钱！
 In this case, you can bypass the mechanism by succeeding on one of three challenges.	这一次，三个挑战里成功一个就能绕过机关。
 It says : \nI've finally worked out the spell that will open that damned mechanical door. Now I just need to wait for the right moment to use it.	上面写着：\n我终于琢磨出能打开那扇该死机械门的法术了。现在只差一个合适的时机。
-Like food, potions restore health, and often have other beneficial effects. Unlike food, potions can be used in combat, so they are great for emergencies.	药剂和食物一样能回复生命，而且常常还有别的好处。和食物不同，药剂可以在战斗中使用，适合救急。
+Like food, potions restore health, and often have other beneficial effects. Unlike food, potions can be used in combat, so they are great for emergencies.	药水和食物一样能回复生命，而且常常还有别的好处。和食物不同，药水可以在战斗中使用，适合救急。
 Managing risk effectively by deciding when to be reckless and when to be cautious is the key to success.	成功的关键，是分清什么时候该鲁莽、什么时候该谨慎，把风险管好。
 Once you escape from the Stocks, you will not be able to return. Be sure you are finished before leaving.	一旦离开枷场，就回不来了。走之前确认事情都办完。
 Press the 'R' key, or the spyglass button on the left side of the screen to show you items that may be loose on the floor.	按 R 键，或点屏幕左侧的望远镜按钮，就能看到地上可能散落的物品。
@@ -53,7 +53,7 @@ There is an iron key on the table here.	桌上有一把铁钥匙。
 This crank is a force challenge, and can be attempted if your Labour skill is high enough. You may injure yourself if you fail.	这个摇柄是力量挑战，劳作够高就可以尝试。失败可能会受伤。
 This mechanism has been released.	这个机关已经解开了。
 This scroll is a weave challenge. Challenges require points in utility skills, in this case, weave. Be careful though. You can be injured if you fail to overcome a challenge.	这卷轴是编织挑战。挑战需要辅助技能的点数，这里是编织。当心，失败可能会受伤。
-You can only drink a potion on your own turn, but it can used from anybody's backpack, and it doesn't use up your turn, so you can drink a potion and still take another action.	药剂只能在你自己的回合喝，但可以用任何人背包里的，而且不消耗回合，喝完还能再做一个行动。
+You can only drink a potion on your own turn, but it can used from anybody's backpack, and it doesn't use up your turn, so you can drink a potion and still take another action.	药水只能在你自己的回合喝，但可以用任何人背包里的，而且不消耗回合，喝完还能再做一个行动。
 You finish the spell, and the scroll dissolves.	你完成了法术，卷轴化掉了。
 You have disabled the mechanism. The door should now open.	你拆除了机关。门现在应该能开了。
 You wind the crank fully and latch it into position. The door should now open.	你把摇柄摇到底并卡住。门现在应该能开了。

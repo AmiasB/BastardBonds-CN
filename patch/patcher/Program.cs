@@ -90,6 +90,19 @@ foreach (var type in module.GetTypes())
 }
 Console.WriteLine($"hooked {sets} TextMesh.text setters, {gets} getters");
 
+// Key prompts are the only caller. Show the count as digits so the
+// translation can say 你有3个 instead of turning "one" into 一.
+var intToWords = module.GetType("Gmath").Methods.Single(m => m.Name == "IntToWords");
+intToWords.Body.Instructions.Clear();
+intToWords.Body.ExceptionHandlers.Clear();
+intToWords.Body.Variables.Clear();
+var toString = module.ImportReference(new MethodReference("ToString", module.TypeSystem.String, module.TypeSystem.Int32) { HasThis = true });
+var words = intToWords.Body.GetILProcessor();
+words.Emit(OpCodes.Ldarg_0);
+words.Emit(OpCodes.Call, toString);
+words.Emit(OpCodes.Ret);
+Console.WriteLine("rewrote Gmath.IntToWords");
+
 // Literal replacements. TSV columns: type, original, replacement (\n escapes allowed).
 var replacements = new Dictionary<(string, string), string>();
 if (File.Exists(literalsPath))

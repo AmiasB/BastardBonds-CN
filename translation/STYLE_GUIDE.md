@@ -42,7 +42,7 @@ Bastard Bonds 是 Bigfingers（See no Evil 的作者）做的回合制地牢 RPG
 | Hunt | 狩猎 | 诡诈×攻击 |
 | Dodge | 闪避 | 诡诈×防御 |
 | Thwart | 破解 | 诡诈×辅助（开锁、解陷阱等） |
-| Blast | 轰击 | 魔力×攻击 |
+| Blast | 施法 | 魔力×攻击 |
 | Ward | 护佑 | 魔力×防御 |
 | Weave | 编织 | 魔力×辅助 |
 

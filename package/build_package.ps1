@@ -20,6 +20,10 @@ if (-not (Test-Path $xd)) { throw "missing $xd" }
 Copy-Item $xd (Join-Path $cn "xdelta3.exe") -Force
 & $xd -f -e -9 -s (Join-Path $work "backup\sharedassets0.assets") (Join-Path $work "build\sharedassets0.assets") (Join-Path $cn "font.vcdiff")
 if ($LASTEXITCODE) { throw "xdelta encode failed" }
+& $xd -f -e -9 -s (Join-Path $work "backup\sharedassets4.assets") (Join-Path $work "build\sharedassets4.assets") (Join-Path $cn "help4.vcdiff")
+if ($LASTEXITCODE) { throw "help4 xdelta encode failed" }
+& $xd -f -e -9 -s (Join-Path $work "backup\sharedassets5.assets") (Join-Path $work "build\sharedassets5.assets") (Join-Path $cn "help5.vcdiff")
+if ($LASTEXITCODE) { throw "help5 xdelta encode failed" }
 
 function Copy-Utf8Bom($src, $dst) {
 	$text = [System.IO.File]::ReadAllText($src)

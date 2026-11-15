@@ -28,6 +28,12 @@ if (-not (Test-Path $backupDll) -or -not (Test-Path $backupAssets)) {
 
 Copy-Item $backupDll (Join-Path $game "BB_Data\Managed\Assembly-CSharp.dll") -Force
 Copy-Item $backupAssets (Join-Path $game "BB_Data\sharedassets0.assets") -Force
+foreach ($name in @("sharedassets4.assets", "sharedassets5.assets")) {
+	$kept = Join-Path $backup $name
+	if (Test-Path $kept) {
+		Copy-Item $kept (Join-Path $game "BB_Data\$name") -Force
+	}
+}
 $helper = Join-Path $game "BB_Data\Managed\BB_CN.dll"
 if (Test-Path $helper) { Remove-Item $helper -Force }
 Write-Output "已还原原版程序和字体。词典目录 BB_Data\BB_CN 还留着，不进游戏也不会被读取。"

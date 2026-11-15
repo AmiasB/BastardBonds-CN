@@ -37,6 +37,15 @@ if (-not (Test-Path $backupAssets)) {
 	Copy-Item $assets $backupAssets
 }
 
+$helpFiles = @("sharedassets4.assets", "sharedassets5.assets")
+foreach ($name in $helpFiles) {
+	$live = Join-Path $game "BB_Data\$name"
+	$kept = Join-Path $backup $name
+	if (-not (Test-Path $kept)) {
+		Copy-Item $live $kept
+	}
+}
+
 $dllTmp = Join-Path $backup "Assembly-CSharp.patched.dll"
 $assetTmp = Join-Path $backup "sharedassets0.patched.assets"
 if (Test-Path $dllTmp) { Remove-Item $dllTmp -Force }
@@ -53,6 +62,22 @@ if ($LASTEXITCODE -ne 0) {
 
 Copy-Item $dllTmp $dll -Force
 Copy-Item $assetTmp $assets -Force
+$xd = Join-Path $here "xdelta3.exe"
+foreach ($pair in @(
+	@{ Name = "sharedassets4.assets"; Diff = "help4.vcdiff" },
+	@{ Name = "sharedassets5.assets"; Diff = "help5.vcdiff" }
+)) {
+	$src = Join-Path $backup $pair.Name
+	$dst = Join-Path $game "BB_Data\$($pair.Name)"
+	$tmp = Join-Path $backup ($pair.Name + ".patched")
+	& $xd -f -d -s $src (Join-Path $here $pair.Diff) $tmp
+	if ($LASTEXITCODE -ne 0) {
+		Remove-Item $tmp -Force -ErrorAction SilentlyContinue
+		throw "教程图补丁失败。这个补丁只对应 Steam 1.2.9。"
+	}
+	Copy-Item $tmp $dst -Force
+	Remove-Item $tmp -Force
+}
 Copy-Item (Join-Path $here "BB_CN.dll") (Join-Path $managed "BB_CN.dll") -Force
 $dict = Join-Path $game "BB_Data\BB_CN"
 New-Item -ItemType Directory -Force -Path $dict | Out-Null

@@ -31,6 +31,7 @@ package/BastardBonds_CN/
 package/*.zip
 
 fonts/fp12.zip
+fonts/fp10.zip
 fonts/PIXELDUNGEONXBOX.ttf
 
 # One-off scripts from building the patch. They read the local game or the decompile.

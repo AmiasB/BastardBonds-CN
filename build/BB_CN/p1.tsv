@@ -1,8 +1,9 @@
 # Bastard Bonds phase 1 (UI, items, skills, creatures)
 Criminal	罪犯
+Prisoner	囚犯
 Small	小型
 Large	大型
-Potion	药剂
+Potion	药水
 Developer	开发者
 Player	玩家
 Basics	基础
@@ -73,6 +74,8 @@ Hood	兜帽
 Long Hair	长发
 Nothing	无
 Short Hair	短发
+Beard / Tail	胡须/尾巴
+Body / Bun	体毛/发髻
 Chest Buckle	胸扣
 Collar	领口
 Half Cuirass	半胸甲
@@ -227,13 +230,13 @@ Leftie has excellent offensive capabilities, but poor defense.\n\nRecommendation
 Vankan has long-range magic attacks, but poor melee and poor defense.\n\nRecommendation : split between FIGHT and GUARD so you can keep enemies focused on you, and have Vankan support.	Vankan 有远程魔法攻击，但近战和防御都很差。\n\n建议：在格斗和守护之间分配，让敌人盯着你，由 Vankan 在后面支援。
 Kirilo will inflict powerful critical hits, but his defense is low.\n\nRecommendation : split your points between GUARD and WARD evenly so you fight on the front line while keeping Kirilo's health up.	Kirilo 会打出强力的暴击，但他的防御很低。\n\n建议：把点数平均分给守护和护佑，这样你在前线作战，同时维持 Kirilo 的生命值。
 Nazar has powerful close-range combat abilities and a large number of hit points.\n\nRecommendation : any combination of abilities can be effective with Nazar.	Nazar 拥有强大的近战能力，以及大量生命值。\n\n建议：任何能力组合都能与 Nazar 配合生效。
-Rosaline has good defense, and sometimes forces enemies to fumble.\n\nRecommendation : split your points between BLAST and WARD and support Rosaline from afar or heal her as necessary.	Rosaline 防御不错，有时还会迫使敌人失手。\n\n建议：把点数分给轰击和护佑，从远处支援 Rosaline，或在必要时治疗她。
+Rosaline has good defense, and sometimes forces enemies to fumble.\n\nRecommendation : split your points between BLAST and WARD and support Rosaline from afar or heal her as necessary.	Rosaline 防御不错，有时还会迫使敌人失手。\n\n建议：把点数分给施法和护佑，从远处支援 Rosaline，或在必要时治疗她。
 Moria has powerful attacks, but her defense is lacking.\n\nRecommendation : split your points between GUARD and WARD evenly so you fight on the front line while keeping Moria's health up.	Moria 的攻击很强，但防御不足。\n\n建议：把点数平均分给守护和护佑，这样你在前线作战，同时维持 Moria 的生命值。
 Shapiro has long-range magic attacks, but poor melee and poor defense.\n\nRecommendation : split between FIGHT and GUARD so you can keep enemies focused on you, and have Shapiro support.	Shapiro 有远程魔法攻击，但近战和防御都很差。\n\n建议：在格斗和守护之间分配，让敌人盯着你，由 Shapiro 在后面支援。
 Peregrine can disable some mechanisms, but has poor combat abilities.\n\nRecommendation : split your points between GUARD and WARD evenly so you fight on the front line while keeping Peregrine alive.	Peregrine 能破解一些机关，但战斗能力很差。\n\n建议：把点数平均分给守护和护佑，这样你在前线作战，同时保住 Peregrine 的命。
 Borgnina has solid defense and can heal wounds.\n\nRecommendation : focus on FIGHT, HUNT, or a combination of the two in order to maximize your damage output, while Borgnina defends and heals.	Borgnina 防御扎实，并能治疗伤口。\n\n建议：专注于格斗、狩猎，或二者兼顾，好把你的伤害打到最高，同时由 Borgnina 防御和治疗。
 Greave has good defense and decent attacks.\n\nRecommendation : any combination of abilities can be effective with Greave.	Greave 防御不错，攻击也还行。\n\n建议：任何能力组合都能与 Greave 配合生效。
-Zantanak has balanced traits and a nightmarish aura that will sometimes force the target of his attacks to fumble. \n\nRecommendation : have Zantanak tank and support him with long-range BLAST.	Zantanak 各项均衡，并带有噩梦般的气场，有时会迫使他的攻击目标失手。\n\n建议：让 Zantanak 顶在前排，并用远程轰击支援他。
+Zantanak has balanced traits and a nightmarish aura that will sometimes force the target of his attacks to fumble. \n\nRecommendation : have Zantanak tank and support him with long-range BLAST.	Zantanak 各项均衡，并带有噩梦般的气场，有时会迫使他的攻击目标失手。\n\n建议：让 Zantanak 顶在前排，并用远程施法支援他。
 Violent	暴戾
 Frugal	吝啬
 Godless	无神
@@ -248,7 +251,7 @@ LABOUR is used to perform strength or endurance-based tasks.\nRequires skill "HA
 HUNT improves the frequency and power of critical hits with both weapons and magic,\nas well as improving your combat initiative. Improving HUNT grants 2hp.	狩猎提高武器与魔法暴击的频率和威力，\n并提高你的战斗先机。提升狩猎获得2HP。
 DODGE is used to entirely avoid damage from both weapons and magic, and improves combat initiative. \nImproving DODGE grants 3hp.	闪避用于完全躲开武器与魔法的伤害，并提高战斗先机。\n提升闪避获得3HP。
 THWART is used to perform tasks requiring dexterity and improvisation, and improves combat initiative. \nRequires skill "CRAFTY" to attempt. Improving THWART grants 2hp.	破解用于完成需要灵巧和临场应变的任务，并提高战斗先机。\n需要技能“机巧”才能尝试。提升破解获得2HP。
-BLAST spells attack from a range and apply status effects to both enemies and allies.\nImproving BLAST grants 2hp.	轰击法术从远处攻击，并对敌我双方施加状态。\n提升轰击获得2HP。
+BLAST spells attack from a range and apply status effects to both enemies and allies.\nImproving BLAST grants 2hp.	施法从远处攻击，并对敌我双方施加状态。\n提升施法获得2HP。
 WARD is used to resist and counter offensive magic, and WARD spells heal and invigorate allies.\nImproving WARD grants 3hp.	护佑用于抵抗并反制攻击性魔法，护佑法术则治疗并振奋盟友。\n提升护佑获得3HP。
 WEAVE is used to perform magical or academic tasks. \nRequires skill "RITUALIST" to attempt. Improving WEAVE grants 2hp.	编织用于完成魔法或学术方面的任务。\n需要技能“仪式师”才能尝试。提升编织获得2HP。
 Defendant	被告
@@ -564,7 +567,7 @@ Mountain Soul	山岳之魂
 Sapphire	蓝宝石
 Spellbinder Rod	缚法杖
 Ruby	红宝石
-Blast Rod	轰击杖
+Blast Rod	施法杖
 Emerald	祖母绿
 Flourish Rod	繁茂杖
 Diamond	钻石
@@ -657,7 +660,7 @@ Focus	专注
 Moist Cake	湿软蛋糕
 Shadow Cloak	暗影斗篷
 Vigor	活力
-Daredevil!	玩命！
+Daredevil!	勇猛！
 Nightmarish	梦魇
 Allure	魅惑
 Down to Earth	脚踏实地
@@ -730,7 +733,7 @@ Labour	劳作
 Hunt	狩猎
 Dodge	闪避
 Thwart	破解
-Blast	轰击
+Blast	施法
 Weave	编织
 Skill Name\nGain Condition	技能名\n获得条件
 Skill description\nA lot of skill information goes here.	技能说明\n这里会放大量技能信息。
@@ -792,7 +795,7 @@ Input Item	放入物品
 Forge	锻造
 Door	门
 You are in a great deal of pain.	你正处于剧痛之中。
-Max	已满
+HPFull	已满
 Screenshot Saved	截图已保存
 Recoil!	反震！
 Disarm!	缴械！
@@ -823,6 +826,7 @@ Claim\nStronghold	占据\n据点
 No data available	没有可用数据
 Unexplored Location	未探索地点
 Unsecured Location	未肃清地点
+Defensible Location	可设防地点
 Secured Location	已肃清地点
 Dangerous Location	危险地点
 Insufficient Capacity	容量不足
@@ -851,7 +855,7 @@ There is no way to force recovery for incapacitated band members, \nbut hiring h
 Merchants come and go, so check back at your stronghold regularly \nto see if the selection has changed.	商人来来去去，所以要经常回据点看看，\n货品是否已经更换。
 Don't stand close to someone with the Unsettling, Nightmarish, or Alluring qualities,\neven if they are allies.	不要靠近具有不安、梦魇或魅惑特质的人，\n哪怕他们是同伴。
 Most nonhuman creatures are vulnerable to a particular magic vein.	大多数非人类生物都对某一特定魔脉有弱点。
-The BLAST skill "Imarcus" allows you to heal allies from a great distance.	轰击技能“Imarcus”能让你从很远的地方治疗同伴。
+The BLAST skill "Imarcus" allows you to heal allies from a great distance.	施法技能“Imarcus”能让你从很远的地方治疗同伴。
 The WARD skill "Healing Aura" offers basic, short-range healing for all nearby allies.	护佑技能“治愈光环”能为附近所有同伴提供基础的短距离治疗。
 Equipment with the Wasting trait will slowly erode your hit points in combat.	带有虚耗特质的装备会在战斗中慢慢侵蚀你的生命值。
 All risk is eliminated when a new combat round starts.	新的战斗轮开始时，所有风险都会清除。
@@ -871,6 +875,7 @@ You have a chance to heal incapacitated bandmates\nand sell items after gaining 
 Some characters hate each other, and cannot be in your band together.	有些角色互相憎恨，不能同时留在你的团伙里。
 The "physical" and "magical" equipment traits \nimprove damage dealt in combat.	“物理”和“魔法”装备特质\n会提高战斗中造成的伤害。
 The "threat" and "critical" equipment traits \nimprove the frequency and severity of critical hits.	“威胁”和“暴击”装备特质\n会提高暴击的频率和严重程度。
+Align	调谐
 "Mana" changes your magical output, and "align" changes your magical resistances.\n"Soul" does both.	“法力”会改变你的魔法输出，“调谐”会改变你的魔法抗性。\n“灵魂”两者都会改变。
 Dismissed bandmates will not appear again in your current playthrough.	被遣散的团伙同伴不会在当前这局游戏中再次出现。
 Press "F" or use the side button to toggle whether or not \nyour bandmates try to follow the active character.	按“F”，或使用侧边按钮，切换\n团伙同伴是否会跟随当前角色。
@@ -949,6 +954,8 @@ an {0}	一名{0}
 {0}A dark-skinned woman with wild hair steps up to the bars and struggles to open the lock.\n\n"Moria is my name, {1}. I have slain a guard and taken this key, but before long, more will come. I aim to escape, but two have better odds than one."\n\nThe door pops open, and she ushers you into the hall. She is athletic and travel-worn, and she seems calm, like someone accustomed to violence.\n\n"Are you able to fight, if the need arises?"	{0}一个深色皮肤、头发蓬乱的女人走到铁栏前，费力地开锁。\n\n“我名叫 Moria，{1}。我杀了一名守卫，拿走了这把钥匙，但很快还会有更多人来。我打算逃走，两个人总比一个人机会大。”\n\n门弹开了，她把你让进走廊。她身形矫健，风尘仆仆，神情平静，像是习惯了暴力的人。\n\n“如果有必要，你能打吗？”
 Alleged {0}	涉嫌{0}
 Level {0}	等级 {0}
+Level {0} {1}	等级 {0} {1}
+Lv {0} {1}	{0}级 {1}
 Unspent : {0}	剩余：{0}
 {0}Alleged {1}	{0}涉嫌{1}
 Force\n{0}	力量\n{0}
@@ -963,7 +970,7 @@ Labour\n{0}	劳作\n{0}
 Hunt\n{0}	狩猎\n{0}
 Dodge\n{0}	闪避\n{0}
 Thwart\n{0}	破解\n{0}
-Blast\n{0}	轰击\n{0}
+Blast\n{0}	施法\n{0}
 Ward\n{0}	护佑\n{0}
 Weave\n{0}	编织\n{0}
 HP : {0}	HP：{0}
@@ -1046,6 +1053,8 @@ Save File {0}	存档 {0}
 {0} is not happy.	{0}不太高兴。
 Risk {0}%! Hold SHIFT to attempt another extra turn or release SHIFT for a safe action!	风险 {0}%！按住 SHIFT 再尝试一个额外回合，松开 SHIFT 则采取安全行动！
 Next service requires\n{0} surplus manpower and one vacancy.	下一项服务需要\n{0}点盈余人力和一个空位。
+Next service requires	下一项服务需要
+{0} surplus manpower and one vacancy.	{0}点盈余人力和一个空位。
 {0} Key	{0}钥匙
 Critical {0}	暴击 {0}
 {0}\nJoin Up!	{0}\n加入！
@@ -1053,6 +1062,7 @@ Critical {0}	暴击 {0}
 {0} is not a particularly skilled negotiator.	{0}算不上特别擅长交涉。
 {0} is a shrewd negotiator.	{0}是个精明的交涉者。
 {0} is charismatic and likeable.	{0}富有魅力，讨人喜欢。
+Will {0} negotiate for ransom, or try to recruit the enemy?	{0}要交涉勒索赎金，还是尝试招募敌人？
 Will {0} negotiate for ransom, or try to recruit the enemy?{1}	{0}要交涉勒索赎金，还是尝试招募敌人？{1}
 {0}\nEscape!	{0}\n逃脱！
 {0}'s sales efforts	{0}的销售
@@ -1062,10 +1072,12 @@ Band Funds {0}$	团伙资金 {0}$
 {0} has recovered!	{0}已经康复！
 {0}'s condition has not changed.	{0}的伤势没有变化。
 That night, {0} comes to see you.\n\n"{1}"\n\nAn item has been added to your stronghold inventory.	那天夜里，{0}来见你。\n\n“{1}”\n\n一件物品已加入你的据点库存。
+That night, {0} comes to see you.	那天夜里，{0}来见你。
+An item has been added to your stronghold inventory.	一件物品已加入你的据点库存。
 Clicks Left {0}	剩余点击 {0}
-Needs an ordinary key. You have{0}.	需要一把普通钥匙。你有{0}。
-Needs a rare key. You have{0}.	需要一把稀有钥匙。你有{0}。
-Needs a precious key. You have{0}.	需要一把珍贵钥匙。你有{0}。
+Needs an ordinary key. You have{0}.	需要一把普通钥匙。你有{0}个。
+Needs a rare key. You have{0}.	需要一把稀有钥匙。你有{0}个。
+Needs a precious key. You have{0}.	需要一把珍贵钥匙。你有{0}个。
 Leave {0}?	离开 {0}？
 {0} - Recover from Injury	{0}——治疗伤势
 {0}Increases physical damage proportional to your Fight statistic.	{0}按你的格斗属性成比例提高物理伤害。
@@ -1113,7 +1125,7 @@ Leave {0}?	离开 {0}？
 {0}The base damage of spells cast against you is reduced by a random amount. \nThis can reduce the spell to zero damage.	{0}对你施放的法术，基础伤害会按随机幅度降低。\n这可以把法术伤害降到零。
 {0}You and adjacent allies regenerate some hit points whenever you gain the 'Defense' status.	{0}每当你获得“防御”状态，你和相邻的同伴回复一些生命值。
 {0}The power of your Healing Aura is improved.\nWhenever you fully ward a spell, you regenerate some hit points.	{0}你的治愈光环威力提高。\n每当你以护佑完全挡住一道法术，你回复一些生命值。
-{0}When you consume a potion, it affects all party members.	{0}你服用药剂时，效果作用于所有队员。
+{0}When you consume a potion, it affects all party members.	{0}你服用药水时，效果作用于所有队员。
 {0}When you gain the 'Defense' status, all allies' risk is eliminated.\nYour healing aura now purges all curses from adjacent allies.	{0}当你获得“防御”状态时，所有同伴的风险被清除。\n你的治愈光环现在会净化相邻同伴身上的全部诅咒。
 {0}Whenever you fully ward a spell, the enemy who cast it immediately gains the 'Fumble' status.	{0}每当你以护佑完全挡住一道法术，施放它的敌人立即获得“失手”状态。
 {0}You can attempt weave challenges.	{0}你可以尝试编织挑战。
@@ -1122,7 +1134,7 @@ Leave {0}?	离开 {0}？
 {0}You can attempt negotiation with any creature, regardless of intelligence.	{0}你可以与任何生物交涉，不论其是否有智力。
 {0}You can attempt negotiation with any creature, regardless of intelligence.\nIncreases your manpower contribution by an amount equal to your level times your band size.	{0}你可以与任何生物交涉，不论其是否有智力。\n你的人力贡献增加量等于你的等级乘以团伙人数。
 {0}Personal light level increases dramatically.	{0}个人光照等级大幅提高。
-{0}You create a potion whenever you complete a weave challenge \nwith a 'Good' or better result.	{0}每当你以“良好”或更好的结果完成编织挑战，\n便制出一瓶药剂。
+{0}You create a potion whenever you complete a weave challenge \nwith a 'Good' or better result.	{0}每当你以“良好”或更好的结果完成编织挑战，\n便制出一瓶药水。
 {0}Your carrying load is maximized at five.	{0}你的负重被提升到上限五。
 {0}You can attempt to negotiate with animals.	{0}你可以尝试与动物交涉。
 {0}You are resistant to Lux, but take additional damage from Max and Pox. \nYour natural magic is Luxus instead of Arcus.	{0}你对 Lux 有抗性，但会受到 Max 与 Pox 的额外伤害。\n你的天生魔法是 Luxus，而非 Arcus。
@@ -1432,7 +1444,7 @@ InvulnerableDone	无敌已尽
 TurnOver	回合结束
 Shadowcloak	暗影斗篷
 Lucky	走运
-Unlucky	倒霉
+Unlucky	不祥
 Meteoric	流星
 Rape	强奸
 Accessory	饰品
@@ -1482,7 +1494,7 @@ Repurpose	改制
 Shrewd	精明
 Reflexive	本能
 LuckOfTheDevil	魔运
-BlastSkills	轰击技能
+BlastSkills	施法技能
 LifeDrain	汲命
 PsychicRipple	心波
 Archmage	大法师
@@ -1673,8 +1685,8 @@ Smooth Pebble	光滑卵石
 Mana Battery	魔力电池
 Elixir Vitae	生命灵药
 Unfinished Elixir	未完成的灵药
-Healing Draught	治疗饮剂
-Golden Philter	黄金魔药
+Healing Draught	治疗药水
+Golden Philter	黄金药水
 Wine Tincture	葡萄酒酊
 Love Potion	爱情药水
 Coagulated Fluid	凝结液

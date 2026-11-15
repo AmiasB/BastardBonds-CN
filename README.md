@@ -30,7 +30,8 @@ Bastard Bonds（Steam，作者 Bigfingers）的非官方简体中文补丁。本
 |---|---|
 | `patch/BB_CN.cs` | 运行时翻译。游戏目录里还要有同名的 `BB_CN.dll`。 |
 | `patch/patcher/` | 用 Mono.Cecil 改写玩家自己的 `Assembly-CSharp.dll`。 |
-| `patch/literals.tsv` | 需要改掉的程序内字符串。目前只放宽了取名框，使中文和数字可以留下。 |
+| `patch/literals.tsv` | 需要改掉的程序内字符串。取名框允许中文和数字；战斗里加满生命的 Max 改成 HPFull，避免把魔脉名译掉。 |
+| `patch/draw_help.py`、`patch/inject_help.py` | 重画五张 F1 说明图，并写回资源。说明图用 `fonts/fp10/` 的 10px 字。 |
 | `patch/build_dll.ps1` | 编译 `BB_CN.dll` 并运行补丁器。 |
 | `build/BB_CN/*.tsv` | 游戏实际加载的英中词典。 |
 | `build_font.py`、`make_charset.py`、`charset.txt` | 把中文字形写进字体图集。 |
@@ -56,7 +57,7 @@ Bastard Bonds\
 
 然后双击 `BastardBonds_CN` 里面的 `打补丁.bat`。
 
-脚本会先把原版文件备份到 `BB_Data/BB_CN_backup`，再改写程序、换上中文字体、拷入词典。只对应 Steam 1.2.9 未改过的 `sharedassets0.assets`。想恢复原版，退出游戏后双击同一个文件夹里的 `还原.bat`。
+脚本会先把原版文件备份到 `BB_Data/BB_CN_backup`，再改写程序、换上中文字体、换上五张中文 F1 说明图、拷入词典。只对应 Steam 1.2.9 未改过的 `sharedassets0.assets`、`sharedassets4.assets` 和 `sharedassets5.assets`。想恢复原版，退出游戏后双击同一个文件夹里的 `还原.bat`。
 
 玩家用的压缩包是 `package/BastardBonds_CN.zip`，由 `package/build_package.ps1` 生成。压缩包里没有游戏本体。游戏正在运行时 Windows 会锁住 DLL，脚本会直接停下来。
 
@@ -83,6 +84,6 @@ python build_font.py charset.txt 输出的 sharedassets0.assets
 
 ## 字体许可
 
-`fonts/fp12/` 中的 Fusion Pixel 字体使用 SIL Open Font License 1.1，正文在 `fonts/fp12/OFL.txt`。其中合并的 cubic-11、ark-pixel 许可在 `fonts/fp12/LICENSES/`。字体不能单独拿去卖，衍生字体也要继续用 OFL。
+`fonts/fp12/` 和 `fonts/fp10/` 中的 Fusion Pixel 字体使用 SIL Open Font License 1.1。12px 用于游戏界面，10px 用于 F1 说明图。许可正文在各自目录的 `OFL.txt`。字体不能单独拿去卖，衍生字体也要继续用 OFL。
 
 补丁代码和译文的许可证，等作者授权有结果后再定。玩家包里的 `xdelta3.exe` 是 [Xdelta](https://github.com/jmacd/xdelta) 3.2.2，Apache License 2.0，只用来把字体差异打进玩家自己的资源文件。
