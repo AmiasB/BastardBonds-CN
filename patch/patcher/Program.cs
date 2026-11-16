@@ -105,6 +105,25 @@ words.Emit(OpCodes.Call, toString);
 words.Emit(OpCodes.Ret);
 Console.WriteLine("rewrote Gmath.IntToWords");
 
+// Opening the stronghold inventory destroys the HUD panel, then a later turn
+// refresh turns the exit button back on. Leaving from that button starts the
+// level exit against the destroyed panel and never returns control of the party.
+var mapExplore = module.GetType("MapExplore");
+var inventoryOpen = mapExplore.Fields.Single(f => f.Name == "inventoryManage");
+var baseOpen = mapExplore.Fields.Single(f => f.Name == "baseManage");
+var leaveArea = mapExplore.Methods.Single(m => m.Name == "ButtonHandler_LeaveArea");
+var leaveIl = leaveArea.Body.GetILProcessor();
+var leaveRet = leaveIl.Create(OpCodes.Ret);
+leaveIl.Append(leaveRet);
+var leaveHead = leaveArea.Body.Instructions[0];
+leaveIl.InsertBefore(leaveHead, leaveIl.Create(OpCodes.Ldarg_0));
+leaveIl.InsertBefore(leaveHead, leaveIl.Create(OpCodes.Ldfld, inventoryOpen));
+leaveIl.InsertBefore(leaveHead, leaveIl.Create(OpCodes.Ldarg_0));
+leaveIl.InsertBefore(leaveHead, leaveIl.Create(OpCodes.Ldfld, baseOpen));
+leaveIl.InsertBefore(leaveHead, leaveIl.Create(OpCodes.Or));
+leaveIl.InsertBefore(leaveHead, leaveIl.Create(OpCodes.Brtrue, leaveRet));
+Console.WriteLine("ignored leave-area while stronghold panels are open");
+
 // Literal replacements. TSV columns: type, original, replacement (\n escapes allowed).
 var replacements = new Dictionary<(string, string), string>();
 if (File.Exists(literalsPath))

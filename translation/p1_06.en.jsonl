@@ -87,6 +87,7 @@
 {"id": "P1_01168", "en": "{0}, assisted by {1}", "cat": "code-template", "ctx": "MapExplore.cs:18820  textMesh.text = textMesh.text + \", assisted by \" + appraiserName;"}
 {"id": "P1_01169", "en": "Band Funds {0}$", "cat": "code-template", "ctx": "MapExplore.cs:18823  TextMesh money = PGUI.MakeLabel(\"yourMoney\", tm.transform.position + new Vector3(-120f, 40f, 0f), \"Band Funds \" + Paging.page.Money + \"$\", 2, 500);"}
 {"id": "P1_01170", "en": "{0} - Sold!\n{1}$", "cat": "code-template", "ctx": "MapExplore.cs:18912  t.text = text + \" - Sold!\\n\" + endPrice + \"$\";"}
+{"id": "P1_01170b", "en": "{0} - No Sale", "cat": "code-template", "ctx": "MapExplore.cs:18928  t.text += \" - No Sale\";"}
 {"id": "P1_01171", "en": "{0} has recovered!", "cat": "code-template", "ctx": "MapExplore.cs:18975  t2.text = Paging.page.heroes[injuredIndeces[0]].name + \" has recovered!\";"}
 {"id": "P1_01172", "en": "{0}'s condition has not changed.", "cat": "code-template", "ctx": "MapExplore.cs:18981  t2.text = Paging.page.heroes[injuredIndeces[0]].name + \"'s condition has not changed.\";"}
 {"id": "P1_01173", "en": "That night, {0} comes to see you.\n\n\"{1}\"\n\nAn item has been added to your stronghold inventory.", "cat": "code-template", "ctx": "MapExplore.cs:19119  Paging.page.conversationWith = \"That night, \" + a2.name + \" comes to see you.\\n\\n\\\"\" + DialogueList[a2.dialogueIndex].trustCampfire + \"\\\"\\n\\nAn item has been added to your stronghold inventory.\";"}

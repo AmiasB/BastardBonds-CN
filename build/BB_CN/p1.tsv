@@ -17,6 +17,35 @@ Hostile	敌对
 Lurk	潜伏
 Static	静止
 Merchant	商人
+Man	男人
+Woman	女人
+Voice	声音
+Voices	人声
+Man's Voice	男人的声音
+Woman's Voice	女人的声音
+Distant Voice	远处的声音
+Mysterious Voice	神秘的声音
+Kirilo's Voice	Kirilo的声音
+Shapiro's Voice	Shapiro的声音
+Figure	人影
+Stranger	陌生人
+Traveler	旅人
+Lonely Man	孤独的男人
+Skulking Man	鬼祟的男人
+Smiling Man	微笑的男人
+Axe-Wielding Woman	持斧的女人
+Large Orc	大型兽人
+Guide	向导
+Mage	法师
+Attendant	侍者
+Client	客人
+Bouncer	保镖
+Madame	夫人
+Guardsman	卫兵
+Centaur	半人马
+Bandit Boss	强盗头目
+Bestial Demon	兽形恶魔
+Burning Demon	燃烧的恶魔
 Healer	治疗师
 Porter	脚夫
 Locksmith	锁匠
@@ -699,6 +728,7 @@ Experience Award	经验奖励
 Rediscover Yourself	重新认识自己
 No Experience Awarded	未获得经验
 - No Sale	- 未售出
+No Sale	未售出
 Injury Status	伤势
 Healing Results	治疗结果
 Level Up	升级
@@ -784,6 +814,23 @@ Worst of Three	三中取劣
 Worst of Two	二中取劣
 Best of Three	三中取优
 Best of Two	二中取优
+Labour Best of Two	劳作 二中取优
+Labour Best of Three	劳作 三中取优
+Labour Worst of Two	劳作 二中取劣
+Labour Worst of Three	劳作 三中取劣
+Labour Pick One	劳作 择一
+Weave Best of Two	编织 二中取优
+Weave Best of Three	编织 三中取优
+Weave Worst of Two	编织 二中取劣
+Weave Worst of Three	编织 三中取劣
+Weave Pick One	编织 择一
+Thwart Best of Two	破解 二中取优
+Thwart Best of Three	破解 三中取优
+Thwart Worst of Two	破解 二中取劣
+Thwart Worst of Three	破解 三中取劣
+Thwart Pick One	破解 择一
+Challenge	挑战
+Challenges	挑战
 Out of Your League	力不能及
 This task is clearly outside the range of your ability, and you would only injure yourself for the attempt. You'd best have another, more qualified person attempt this.	这件事务明显超出你的能力范围，硬来只会让自己受伤。最好让另一个更胜任的人来尝试。
 Okay	好的
@@ -1069,6 +1116,7 @@ Will {0} negotiate for ransom, or try to recruit the enemy?{1}	{0}要交涉勒�
 {0}, assisted by {1}	{0}，由{1}协助
 Band Funds {0}$	团伙资金 {0}$
 {0} - Sold!\n{1}$	{0}——售出！\n{1}$
+{0} - No Sale	{0}——未售出
 {0} has recovered!	{0}已经康复！
 {0}'s condition has not changed.	{0}的伤势没有变化。
 That night, {0} comes to see you.\n\n"{1}"\n\nAn item has been added to your stronghold inventory.	那天夜里，{0}来见你。\n\n“{1}”\n\n一件物品已加入你的据点库存。
@@ -1203,6 +1251,7 @@ Results : {0} escaped from Lukatt	结果：{0}逃离了卢卡特
 {0} year	{0}年
 Acrolith	石傀儡
 Actaeon	阿克泰翁
+Aesthedra	感面魔
 Destruction	毁灭
 Alpha	头狼
 Divine Anchor	神锚
