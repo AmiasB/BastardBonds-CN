@@ -354,7 +354,7 @@
 {"id": "P1_00861", "en": "Door", "cat": "code-literal", "ctx": "MapExplore.cs:7251  text = \"Door\";"}
 {"id": "P1_00862", "en": "'s Bond", "cat": "code-literal", "ctx": "MapExplore.cs:7350  stringBuilder.Append(\"'s Bond\");"}
 {"id": "P1_00863", "en": "You are in a great deal of pain.", "cat": "code-literal", "ctx": "MapExplore.cs:744  DoEventMessage(string.Empty, \"You are in a great deal of pain.\");"}
-{"id": "P1_00864", "en": "Max", "cat": "code-literal", "ctx": "MapExplore.cs:7777  empty = \"Max\";"}
+{"id": "P1_00864", "en": "HPFull", "cat": "code-literal", "ctx": "MapExplore.cs:7777  empty = \"Max\"; patched literal HPFull"}
 {"id": "P1_00865", "en": "Screenshot Saved", "cat": "code-literal", "ctx": "MapExplore.cs:778  AddFloatingText(\"Screenshot Saved\", actors[whoseTurn].position, Color.white, 2, 1f, -30);"}
 {"id": "P1_00866", "en": "Recoil!", "cat": "code-literal", "ctx": "MapExplore.cs:7832  AddFloatingText(\"Recoil!\", actors[def].position, Color.white, 1);"}
 {"id": "P1_00867", "en": "Disarm!", "cat": "code-literal", "ctx": "MapExplore.cs:7866  AddFloatingText(\"Disarm!\", actors[def].position, Color.white, 1);"}

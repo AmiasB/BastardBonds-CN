@@ -727,8 +727,28 @@ public static class BB_CN
 	public static void SetText(TextMesh tm, string s)
 	{
 		string zh = T(s);
+		// The stat label and a blocked hit both use the word Guard, meaning the
+		// defence skill. A dialogue title with the same word is the town guard.
+		if (s == "Guard" && InMessagePanel(tm))
+		{
+			zh = "守卫";
+		}
 		tm.text = zh;
 		Remember(tm, s, zh);
+	}
+
+	private static bool InMessagePanel(TextMesh tm)
+	{
+		Transform t = tm.transform;
+		while (t != null)
+		{
+			if (t.name == "GUIMessagePanel")
+			{
+				return true;
+			}
+			t = t.parent;
+		}
+		return false;
 	}
 
 	public static string GetText(TextMesh tm)
