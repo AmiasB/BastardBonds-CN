@@ -629,7 +629,10 @@ public static class BB_CN
 		{
 			end--;
 		}
-		if (start > 0 || end < s.Length)
+		// Only a single line is trimmed. A save card is several lines and may end
+		// with a place name that itself ends in a space, such as "The Pumphouse Brewery ".
+		// Trimming the whole block first drops that space, and the last line misses.
+		if (s.IndexOf('\n') < 0 && (start > 0 || end < s.Length))
 		{
 			string core = s.Substring(start, end - start);
 			if (core.Length > 0 && HasLetters(core))
