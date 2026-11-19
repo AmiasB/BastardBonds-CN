@@ -4,7 +4,7 @@ Bastard Bonds 简体中文补丁
 用法
 1. 退出游戏。
 2. 把 BastardBonds_CN 整个文件夹放进游戏根目录，和 BB.exe 放在同一层。
-3. 双击文件夹里的「打补丁.bat」。
+3. 双击文件夹里的「打补丁.bat」。打好后，游戏根目录里会有「汉化补丁版本.txt」，写着这次装上的补丁版本。同一层还有「README中文版.txt」，是游戏自带 README.txt 的中文版。
 
 只对应 Steam 版 1.2.9。打补丁前会把原版文件备份到：
 BB_Data\BB_CN_backup

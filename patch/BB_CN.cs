@@ -371,7 +371,9 @@ public static class BB_CN
 					return false;
 				}
 			}
-			if (next <= pos || next > s.Length)
+			// next == pos only when the leading {0} is empty, because the sentence
+			// is on its own line after the earlier paragraphs were split off.
+			if (next < pos || next > s.Length || (next == pos && !(i == 0 && parts[0].Length == 0)))
 			{
 				return false;
 			}
@@ -661,6 +663,24 @@ public static class BB_CN
 			if (Match(templates[i], s, out result))
 			{
 				return result;
+			}
+		}
+		// A creation line can start with a space, and a cutscene page can end with a
+		// blank line. That padding is not part of the template. A save card is not
+		// handled here: this only accepts a real template match, and the trailing
+		// space on its last line is still intact for the line lookup below.
+		if ((start > 0 || end < s.Length) && end > start)
+		{
+			string core = s.Substring(start, end - start);
+			if (HasLetters(core))
+			{
+				for (int i = 0; i < templates.Count; i++)
+				{
+					if (Match(templates[i], core, out result))
+					{
+						return s.Substring(0, start) + result + s.Substring(end);
+					}
+				}
 			}
 		}
 		// A campfire page is several paragraphs. Translate each one, including the

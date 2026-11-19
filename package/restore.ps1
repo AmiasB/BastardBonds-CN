@@ -36,4 +36,6 @@ foreach ($name in @("sharedassets4.assets", "sharedassets5.assets")) {
 }
 $helper = Join-Path $game "BB_Data\Managed\BB_CN.dll"
 if (Test-Path $helper) { Remove-Item $helper -Force }
+$note = Join-Path $game "汉化补丁版本.txt"
+if (Test-Path $note) { Remove-Item $note -Force }
 Write-Output "已还原原版程序和字体。词典目录 BB_Data\BB_CN 还留着，不进游戏也不会被读取。"

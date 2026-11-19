@@ -1,6 +1,8 @@
 ﻿$ErrorActionPreference = "Stop"
 $here = $PSScriptRoot
 $bundle = Split-Path $here -Parent
+# Bump this when cutting a release. 打补丁.bat writes it to the game root.
+$patchVersion = "1.1.4"
 
 function Find-Game([string]$start) {
 	foreach ($dir in @($start, (Split-Path $start -Parent))) {
@@ -83,4 +85,8 @@ $dict = Join-Path $game "BB_Data\BB_CN"
 New-Item -ItemType Directory -Force -Path $dict | Out-Null
 Copy-Item (Join-Path $here "dict\*.tsv") $dict -Force
 Remove-Item $dllTmp, $assetTmp -Force
-Write-Output "补丁已装好。原版文件在 BB_Data\BB_CN_backup。启动游戏即可。"
+$note = Join-Path $game "汉化补丁版本.txt"
+$enc = New-Object System.Text.UTF8Encoding $true
+[System.IO.File]::WriteAllText($note, "简体中文补丁 $patchVersion`r`n", $enc)
+Copy-Item (Join-Path $here "README中文版.txt") (Join-Path $game "README中文版.txt") -Force
+Write-Output "补丁已装好。原版文件在 BB_Data\BB_CN_backup。版本写在「汉化补丁版本.txt」，说明写在「README中文版.txt」，都在游戏根目录。启动游戏即可。"

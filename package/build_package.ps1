@@ -35,6 +35,7 @@ Copy-Utf8Bom (Join-Path $PSScriptRoot "restore.ps1") (Join-Path $cn "restore.ps1
 Copy-Item (Join-Path $PSScriptRoot "打补丁.bat") $out -Force
 Copy-Item (Join-Path $PSScriptRoot "还原.bat") $out -Force
 Copy-Utf8Bom (Join-Path $PSScriptRoot "使用说明.txt") (Join-Path $out "使用说明.txt")
+Copy-Utf8Bom (Join-Path $PSScriptRoot "README中文版.txt") (Join-Path $cn "README中文版.txt")
 
 $zip = Join-Path $PSScriptRoot "BastardBonds_CN.zip"
 if (Test-Path $zip) { Remove-Item $zip -Force }
