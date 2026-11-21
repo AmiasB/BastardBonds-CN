@@ -427,7 +427,35 @@ public static class BB_CN
 					}
 				}
 			}
-			values[t.Slots[i]] = Translate(s.Substring(pos, next - pos));
+			string captured = s.Substring(pos, next - pos);
+			// "Amias Level 27 Maledicus" and "Amias Level 27 Alleged Maledicus"
+			// put the rank in the same slot as the number. Translate that tail on its own.
+			if (parts[i] == " Level ")
+			{
+				int n = 0;
+				while (n < captured.Length && char.IsDigit(captured[n]))
+				{
+					n++;
+				}
+				int w = n;
+				while (w < captured.Length && captured[w] == ' ')
+				{
+					w++;
+				}
+				if (n > 0 && w < captured.Length)
+				{
+					captured = captured.Substring(0, w) + Translate(captured.Substring(w));
+				}
+				else
+				{
+					captured = Translate(captured);
+				}
+			}
+			else
+			{
+				captured = Translate(captured);
+			}
+			values[t.Slots[i]] = captured;
 			pos = next + parts[i + 1].Length;
 		}
 		string output = t.Output[0];

@@ -2,7 +2,7 @@
 $here = $PSScriptRoot
 $bundle = Split-Path $here -Parent
 # Bump this when cutting a release. 打补丁.bat writes it to the game root.
-$patchVersion = "1.1.4"
+$patchVersion = "1.1.5"
 
 function Find-Game([string]$start) {
 	foreach ($dir in @($start, (Split-Path $start -Parent))) {

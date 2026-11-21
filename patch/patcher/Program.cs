@@ -124,6 +124,32 @@ leaveIl.InsertBefore(leaveHead, leaveIl.Create(OpCodes.Or));
 leaveIl.InsertBefore(leaveHead, leaveIl.Create(OpCodes.Brtrue, leaveRet));
 Console.WriteLine("ignored leave-area while stronghold panels are open");
 
+// Clicking Return to Stronghold while the arrival wipe is still running turns off
+// clicks, then EnterLevel gives up because moving is not allowed yet. Nothing turns
+// clicks back on, so only Escape still works. Give the click back on that exit.
+var overworld = module.GetType("OverworldScript");
+var clickAllowed = overworld.Fields.Single(f => f.Name == "clickAllowed");
+var moveAllowed = overworld.Fields.Single(f => f.Name == "moveallowed");
+var enterLevel = overworld.NestedTypes.Single(t => t.Name.Contains("<EnterLevel>")).Methods.Single(m => m.Name == "MoveNext");
+var enterIns = enterLevel.Body.Instructions;
+var moveCheck = enterIns.Single(i => i.OpCode == OpCodes.Ldfld && ((FieldReference)i.Operand).Name == moveAllowed.Name);
+var bail = moveCheck.Next;
+if (bail.OpCode != OpCodes.Brfalse)
+{
+	throw new Exception("EnterLevel: unexpected moveallowed check");
+}
+var enterIl = enterLevel.Body.GetILProcessor();
+var thisField = enterLevel.DeclaringType.Fields.Single(f => f.Name == "<>f__this");
+var exit = (Instruction)bail.Operand;
+var restore = enterIl.Create(OpCodes.Ldarg_0);
+enterIl.Append(restore);
+enterIl.Append(enterIl.Create(OpCodes.Ldfld, thisField));
+enterIl.Append(enterIl.Create(OpCodes.Ldc_I4_1));
+enterIl.Append(enterIl.Create(OpCodes.Stfld, clickAllowed));
+enterIl.Append(enterIl.Create(OpCodes.Br, exit));
+bail.Operand = restore;
+Console.WriteLine("restored world map clicks when entering is refused during the wipe");
+
 // Literal replacements. TSV columns: type, original, replacement (\n escapes allowed).
 var replacements = new Dictionary<(string, string), string>();
 if (File.Exists(literalsPath))
