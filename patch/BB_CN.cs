@@ -49,9 +49,15 @@ public static class BB_CN
 				}
 				string en = Unescape(line.Substring(0, tab));
 				string zh = Unescape(line.Substring(tab + 1));
-				if (en.IndexOf("{0}", StringComparison.Ordinal) >= 0)
+				// Reunion pages use {1} and {2} with no {0}. Those were stored as exact
+				// text, so the paragraph that names the companion stayed in English.
+				if (HasSlot(en))
 				{
 					templates.Add(MakeTemplate(en, zh));
+					if (en.IndexOf("{0}", StringComparison.Ordinal) < 0)
+					{
+						RegisterPieces(en, zh);
+					}
 				}
 				else
 				{
@@ -80,6 +86,18 @@ public static class BB_CN
 		return s.Replace("\\r", "\r").Replace("\\n", "\n").Replace("\\t", "\t");
 	}
 
+	private static bool HasSlot(string s)
+	{
+		for (int i = 0; i + 2 < s.Length; i++)
+		{
+			if (s[i] == '{' && s[i + 2] == '}' && s[i + 1] >= '0' && s[i + 1] <= '9')
+			{
+				return true;
+			}
+		}
+		return false;
+	}
+
 	// Campfire stories are one dictionary entry, but the game splits them on "|"
 	// before they are shown. Register each page and paragraph so a single page can match.
 	private static void IndexParagraphs()
@@ -92,45 +110,53 @@ public static class BB_CN
 			{
 				continue;
 			}
-			string zh = exact[en];
-			List<string> enPages = SplitPages(en);
-			List<string> zhPages = SplitPages(zh);
-			if (enPages.Count != zhPages.Count)
+			RegisterPieces(en, exact[en]);
+		}
+	}
+
+	private static void RegisterPieces(string en, string zh)
+	{
+		if (en.IndexOf('\n') < 0 && en.IndexOf('|') < 0)
+		{
+			return;
+		}
+		List<string> enPages = SplitPages(en);
+		List<string> zhPages = SplitPages(zh);
+		if (enPages.Count != zhPages.Count)
+		{
+			return;
+		}
+		for (int p = 0; p < enPages.Count; p++)
+		{
+			List<string> enParas = SplitParas(enPages[p]);
+			List<string> zhParas = SplitParas(zhPages[p]);
+			if (enParas.Count != zhParas.Count)
 			{
 				continue;
 			}
-			for (int p = 0; p < enPages.Count; p++)
+			if (enParas.Count < 2 && enPages.Count < 2)
 			{
-				List<string> enParas = SplitParas(enPages[p]);
-				List<string> zhParas = SplitParas(zhPages[p]);
-				if (enParas.Count != zhParas.Count)
+				continue;
+			}
+			for (int i = 0; i < enParas.Count; i++)
+			{
+				string ep = enParas[i].Trim();
+				string zp = zhParas[i].Trim();
+				if (ep.Length < 8 || zp.Length == 0 || ep.IndexOf('{') >= 0)
 				{
 					continue;
 				}
-				if (enParas.Count < 2 && enPages.Count < 2)
+				if (!exact.ContainsKey(ep))
 				{
-					continue;
+					exact[ep] = zp;
 				}
-				for (int i = 0; i < enParas.Count; i++)
+				// The game adds one quote around the whole story, and the text may
+				// already contain the other. Keep a copy with those edge quotes removed.
+				string bare = StripEdgeQuotes(ep);
+				string bareZh = StripEdgeQuotes(zp);
+				if (bare.Length >= 8 && bareZh.Length > 0 && !exact.ContainsKey(bare))
 				{
-					string ep = enParas[i].Trim();
-					string zp = zhParas[i].Trim();
-					if (ep.Length < 8 || zp.Length == 0 || ep.IndexOf('{') >= 0)
-					{
-						continue;
-					}
-					if (!exact.ContainsKey(ep))
-					{
-						exact[ep] = zp;
-					}
-					// The game adds one quote around the whole story, and the text may
-					// already contain the other. Keep a copy with those edge quotes removed.
-					string bare = StripEdgeQuotes(ep);
-					string bareZh = StripEdgeQuotes(zp);
-					if (bare.Length >= 8 && bareZh.Length > 0 && !exact.ContainsKey(bare))
-					{
-						exact[bare] = bareZh;
-					}
+					exact[bare] = bareZh;
 				}
 			}
 		}

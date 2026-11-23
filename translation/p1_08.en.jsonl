@@ -160,6 +160,7 @@
 {"id": "P1_02162", "en": "Grant Event", "cat": "npc-name", "ctx": "NPC roster entry name, shown as the creature's name. Personal names stay English"}
 {"id": "P1_02163", "en": "Greave Nude", "cat": "npc-name", "ctx": "NPC roster entry name, shown as the creature's name. Personal names stay English"}
 {"id": "P1_02164", "en": "Greave Shirtless", "cat": "npc-name", "ctx": "NPC roster entry name, shown as the creature's name. Personal names stay English"}
+{"id": "P1_02164a", "en": "Greenback", "cat": "map", "ctx": "The Greenback Shipyard.bbm message title, message(Greenback|...)"}
 {"id": "P1_02165", "en": "Greenback Blacksmith", "cat": "npc-name", "ctx": "NPC roster entry name, shown as the creature's name. Personal names stay English"}
 {"id": "P1_02166", "en": "Greenback Herbalist", "cat": "npc-name", "ctx": "NPC roster entry name, shown as the creature's name. Personal names stay English"}
 {"id": "P1_02167", "en": "Greenback Labourer", "cat": "npc-name", "ctx": "NPC roster entry name, shown as the creature's name. Personal names stay English"}

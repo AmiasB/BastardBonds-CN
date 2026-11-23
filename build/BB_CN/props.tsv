@@ -28,6 +28,7 @@ Path	小径
 Signpost	路标
 Sign Post	路标
 Bookshelf	书架
+Underground Room	地下室
 Raised Panel	凸起的嵌板
 Sinew	肌腱
 Sinew 	肌腱
@@ -246,6 +247,7 @@ Engraved Chest	刻纹箱子
 Exit	出口
 Fallen Wall	倒塌的墙
 Fastad's Strongbox	Fastad保险箱
+Father of the Harvest	播种之父
 Father of the Planting	播种之父
 Fetid Basin	恶臭的水盆
 Finishing a Map	完成一张地图
@@ -304,6 +306,7 @@ Map	地图
 Marsaven Dining Hall : Open!	马尔萨文餐厅：营业中！
 Marsaven Market : Open!	马尔萨文市集：营业中！
 Matthasux Door	Matthasux之门
+Maxim's Final Words	Maxim 的遗言
 Mechanisms and Challenges	机关与挑战
 Medallion	奖章
 Metal Box	金属盒
@@ -426,7 +429,7 @@ Torch	火把
 Key	钥匙
 Coins	钱币
 Coin	钱币
-Body	尸体
+Body	身体
 Skeleton	骷髅
 Bones	骨头
 Wall	墙
@@ -566,7 +569,7 @@ Skull	头骨
 Ribs	肋骨
 Spine	脊柱
 Corpse	尸体
-Body	尸体
+Body	身体
 Remains	遗骸
 Grave	坟墓
 Tomb	墓
